@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NC Drill File Report For :  c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\200-1032\200-1032.PCB   13-Sep-2003  09:29:24
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top - Bottom
+ASCII File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\200-1032\200-1032.TXT
+EIA File   : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\200-1032\200-1032.DRL
+
+Tool         Hole Size          Hole Count        Tool Travel
+---------------------------------------------------------------------------
+T1        36mil (0.9144mm)         14        4.662 Inch (118.412 mm)
+T2        60mil (1.524mm)          6         2.657 Inch (67.476 mm)
+T3        95mil (2.413mm)          6         3.105 Inch (78.867 mm)
+---------------------------------------------------------------------------
+Totals                             26        10.423 Inch (264.756 mm)
+
+Total Processing Time : 00:00:00

@@ -1,0 +1,72 @@
+(ExpressProject "500-1084"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\500-1084.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (AGND
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("GEN DUAL OPAMP-H"
+      (FullPartName "GEN DUAL OPAMP-HA.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 627"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 130 1428 130 620")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\SYNTHMOD\500-1084\500-1084.DSN")
+      (Schematic "500-1084")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 156 1425 156 646")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/MC"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 104 3261 104 1474")
+        (Scroll "0 0")
+        (Zoom "176")
+        (Occurrence "/MC_1"))
+      (Path "D:\SYNTHMOD\500-1084\500-1084.DSN")
+      (Schematic "MultCell")
+      (Page "PAGE1"))))

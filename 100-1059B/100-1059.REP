@@ -1,0 +1,33 @@
+Missing Designators From Netlist Load      : 26
+---------------------------------------------
+JP21                JP17                M1                  M2                  
+M3                  D9                  JP22                C202                
+C201                R303                R318                R319                
+Y1                  R308                R298                R320                
+R321                C172                C181                C190                
+C194                C171                C182                C191                
+C195                R315                
+
+
+
+Missing Component Pins From Netlist Load   : 1
+---------------------------------------------
+U49-GND1            
+
+
+
+Missing Library Patterns or Component Types From Netlist Load : 9
+----------------------------------------------------------------
+1000pF              CAP                 1N914               HEADER 5X2          
+HEADER 8X2          DIN 5               R                   POT                 
+CRYSTAL             
+
+
+
+Alternative Parts were used in Netlist Load: 6
+---------------------------------------------
+U50                 U51                 U52                 U65                 
+U67                 U71                 
+
+
+

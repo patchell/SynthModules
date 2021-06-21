@@ -1,0 +1,358 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "BALLANCED MODULATOR"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Phone_Jack_wSw-PCB J?
+U 1 1 5B3D5362
+P 1700 1500
+F 0 "J?" H 1700 1500 60  0000 C CNN
+F 1 "X" H 1700 1500 60  0000 C CNN
+F 2 "" H 1700 1500 60  0000 C CNN
+F 3 "" H 1700 1500 60  0000 C CNN
+	1    1700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Phone_Jack_wSw-PCB J?
+U 1 1 5B3D53DF
+P 1700 2400
+F 0 "J?" H 1700 2400 60  0000 C CNN
+F 1 "Y" H 1700 2400 60  0000 C CNN
+F 2 "" H 1700 2400 60  0000 C CNN
+F 3 "" H 1700 2400 60  0000 C CNN
+	1    1700 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Phone_Jack_wSw-PCB J?
+U 1 1 5B3D5415
+P 5050 1950
+F 0 "J?" H 5050 1950 60  0000 C CNN
+F 1 "OUT" H 5050 1950 60  0000 C CNN
+F 2 "" H 5050 1950 60  0000 C CNN
+F 3 "" H 5050 1950 60  0000 C CNN
+	1    5050 1950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L AD633 U?
+U 1 1 5B3D547B
+P 3100 2100
+F 0 "U?" H 3100 2100 60  0000 C CNN
+F 1 "AD633" H 3125 2025 60  0000 C CNN
+F 2 "" H 3100 2100 60  0001 C CNN
+F 3 "" H 3100 2100 60  0001 C CNN
+	1    3100 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Cap_Bypass C?
+U 1 1 5B3D54A6
+P 3650 2400
+F 0 "C?" H 3675 2500 50  0000 L CNN
+F 1 "0.1uF" H 3675 2300 50  0000 L CNN
+F 2 "" H 3688 2250 50  0000 C CNN
+F 3 "" H 3650 2400 50  0000 C CNN
+	1    3650 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Cap_Bypass C?
+U 1 1 5B3D5508
+P 4050 2400
+F 0 "C?" H 4075 2500 50  0000 L CNN
+F 1 "0.1uF" H 4075 2300 50  0000 L CNN
+F 2 "" H 4088 2250 50  0000 C CNN
+F 3 "" H 4050 2400 50  0000 C CNN
+	1    4050 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B3D555E
+P 3650 2550
+F 0 "#PWR?" H 3650 2300 50  0001 C CNN
+F 1 "GND" H 3650 2400 50  0000 C CNN
+F 2 "" H 3650 2550 50  0001 C CNN
+F 3 "" H 3650 2550 50  0001 C CNN
+	1    3650 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B3D558E
+P 4050 2550
+F 0 "#PWR?" H 4050 2300 50  0001 C CNN
+F 1 "GND" H 4050 2400 50  0000 C CNN
+F 2 "" H 4050 2550 50  0001 C CNN
+F 3 "" H 4050 2550 50  0001 C CNN
+	1    4050 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B3D55AB
+P 3850 2050
+F 0 "#PWR?" H 3850 1800 50  0001 C CNN
+F 1 "GND" H 3850 1900 50  0000 C CNN
+F 2 "" H 3850 2050 50  0001 C CNN
+F 3 "" H 3850 2050 50  0001 C CNN
+	1    3850 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B3D55C8
+P 2650 2150
+F 0 "#PWR?" H 2650 1900 50  0001 C CNN
+F 1 "GND" H 2650 2000 50  0000 C CNN
+F 2 "" H 2650 2150 50  0001 C CNN
+F 3 "" H 2650 2150 50  0001 C CNN
+	1    2650 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 1800 2650 2150
+Wire Wire Line
+	2650 2000 2750 2000
+Wire Wire Line
+	2650 1800 2750 1800
+Connection ~ 2650 2000
+Wire Wire Line
+	3850 2050 3850 1900
+Wire Wire Line
+	4300 1900 3500 1900
+Wire Wire Line
+	3650 2250 3650 2000
+Wire Wire Line
+	3650 2000 3500 2000
+Wire Wire Line
+	4050 2250 4050 1700
+Wire Wire Line
+	4050 1700 3500 1700
+$Comp
+L GND #PWR?
+U 1 1 5B3D5623
+P 2150 2300
+F 0 "#PWR?" H 2150 2050 50  0001 C CNN
+F 1 "GND" H 2150 2150 50  0000 C CNN
+F 2 "" H 2150 2300 50  0001 C CNN
+F 3 "" H 2150 2300 50  0001 C CNN
+	1    2150 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 1200 2150 2300
+Wire Wire Line
+	2150 2200 2100 2200
+Wire Wire Line
+	2150 1200 2100 1200
+Connection ~ 2150 2200
+Wire Wire Line
+	2150 1300 2100 1300
+Connection ~ 2150 1300
+Wire Wire Line
+	2150 2100 2100 2100
+Connection ~ 2150 2100
+Wire Wire Line
+	2750 1700 2550 1700
+Wire Wire Line
+	2550 1700 2550 1100
+Wire Wire Line
+	2550 1100 2100 1100
+Wire Wire Line
+	2750 1900 2400 1900
+Wire Wire Line
+	2400 1900 2400 2000
+Wire Wire Line
+	2400 2000 2100 2000
+Wire Wire Line
+	4300 1750 4300 1900
+Wire Wire Line
+	4300 1750 4650 1750
+Connection ~ 3850 1900
+Wire Wire Line
+	3500 1800 4100 1800
+Wire Wire Line
+	4100 1800 4100 1550
+Wire Wire Line
+	4100 1550 4650 1550
+$Comp
+L +15V0 #PWR?
+U 1 1 5B3D5732
+P 3800 1650
+F 0 "#PWR?" H 3800 1500 50  0001 C CNN
+F 1 "+15V0" H 3800 1800 50  0000 C CNN
+F 2 "" H 3800 1650 50  0000 C CNN
+F 3 "" H 3800 1650 50  0000 C CNN
+	1    3800 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L -15V0 #PWR?
+U 1 1 5B3D5752
+P 3550 1650
+F 0 "#PWR?" H 3550 1500 50  0001 C CNN
+F 1 "-15V0" H 3550 1800 50  0000 C CNN
+F 2 "" H 3550 1650 50  0000 C CNN
+F 3 "" H 3550 1650 50  0000 C CNN
+	1    3550 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3550 1650 3550 2000
+Connection ~ 3550 2000
+Wire Wire Line
+	3800 1650 3800 1700
+Connection ~ 3800 1700
+$Comp
+L EurorackPower16pin P?
+U 1 1 5B3D583D
+P 2800 3150
+F 0 "P?" H 2815 2510 60  0000 C CNN
+F 1 "EurorackPower16pin" H 2875 2615 60  0000 C CNN
+F 2 "" H 2800 3150 60  0000 C CNN
+F 3 "" H 2800 3150 60  0000 C CNN
+	1    2800 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 2950 3400 2950
+Wire Wire Line
+	3400 2950 3400 3850
+Wire Wire Line
+	3100 3050 3400 3050
+Connection ~ 3400 3050
+Wire Wire Line
+	3100 3150 3400 3150
+Connection ~ 3400 3150
+Wire Wire Line
+	3100 2850 3450 2850
+Wire Wire Line
+	3450 3250 3100 3250
+Wire Wire Line
+	2700 2950 2400 2950
+Wire Wire Line
+	2400 2950 2400 3800
+Wire Wire Line
+	2700 3050 2400 3050
+Connection ~ 2400 3050
+Wire Wire Line
+	2700 3150 2400 3150
+Connection ~ 2400 3150
+Wire Wire Line
+	2700 3250 2300 3250
+Wire Wire Line
+	2300 2850 2700 2850
+$Comp
+L -15V0 #PWR?
+U 1 1 5B3D5AF9
+P 2300 2850
+F 0 "#PWR?" H 2300 2700 50  0001 C CNN
+F 1 "-15V0" H 2300 3000 50  0000 C CNN
+F 2 "" H 2300 2850 50  0000 C CNN
+F 3 "" H 2300 2850 50  0000 C CNN
+	1    2300 2850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L -15V0 #PWR?
+U 1 1 5B3D5B19
+P 3450 2850
+F 0 "#PWR?" H 3450 2700 50  0001 C CNN
+F 1 "-15V0" H 3450 3000 50  0000 C CNN
+F 2 "" H 3450 2850 50  0000 C CNN
+F 3 "" H 3450 2850 50  0000 C CNN
+	1    3450 2850
+	0    1    1    0   
+$EndComp
+$Comp
+L +15V0 #PWR?
+U 1 1 5B3D5B39
+P 3450 3250
+F 0 "#PWR?" H 3450 3100 50  0001 C CNN
+F 1 "+15V0" H 3450 3400 50  0000 C CNN
+F 2 "" H 3450 3250 50  0000 C CNN
+F 3 "" H 3450 3250 50  0000 C CNN
+	1    3450 3250
+	0    1    1    0   
+$EndComp
+$Comp
+L +15V0 #PWR?
+U 1 1 5B3D5B59
+P 2300 3250
+F 0 "#PWR?" H 2300 3100 50  0001 C CNN
+F 1 "+15V0" H 2300 3400 50  0000 C CNN
+F 2 "" H 2300 3250 50  0000 C CNN
+F 3 "" H 2300 3250 50  0000 C CNN
+	1    2300 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B3D5B79
+P 3400 3850
+F 0 "#PWR?" H 3400 3600 50  0001 C CNN
+F 1 "GND" H 3400 3700 50  0000 C CNN
+F 2 "" H 3400 3850 50  0001 C CNN
+F 3 "" H 3400 3850 50  0001 C CNN
+	1    3400 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B3D5B99
+P 2400 3800
+F 0 "#PWR?" H 2400 3550 50  0001 C CNN
+F 1 "GND" H 2400 3650 50  0000 C CNN
+F 2 "" H 2400 3800 50  0001 C CNN
+F 3 "" H 2400 3800 50  0001 C CNN
+	1    2400 3800
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

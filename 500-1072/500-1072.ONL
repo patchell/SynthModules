@@ -1,0 +1,334 @@
+(PCB "500-1072"
+ (description
+  (timeStamp "2014 07 20 15 01 45")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "QUAD JACK BOARD")
+  (date "Sunday, July 20, 2014")
+  (document "500-1072")
+  (revision "A")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component "PHONEJACK SW"
+   (place J1
+    (property 
+     ("PCB Footprint" "PHONE-SC112A")
+     (timestamp 00000003)
+     ("Source Package" "PHONEJACK SW")
+     (Value "PHONEJACK SW")))
+   (place J2
+    (property 
+     ("PCB Footprint" "PHONE-SC112A")
+     (timestamp 0000001D)
+     ("Source Package" "PHONEJACK SW")
+     (Value "PHONEJACK SW")))
+   (place J3
+    (property 
+     ("PCB Footprint" "PHONE-SC112A")
+     (timestamp 00000037)
+     ("Source Package" "PHONEJACK SW")
+     (Value "PHONEJACK SW")))
+   (place J4
+    (property 
+     ("PCB Footprint" "PHONE-SC112A")
+     (timestamp 00000051)
+     ("Source Package" "PHONEJACK SW")
+     (Value "PHONEJACK SW"))))
+  (component "HEADER 8X2"
+   (place JP2
+    (property 
+     ("PCB Footprint" "IDC16-AMP-RA")
+     (timestamp 000000A1)
+     ("Source Package" "HEADER 8X2")
+     (Value "HEADER 8X2"))))
+  (component LED
+   (place D1
+    (property 
+     (timestamp 0000098C)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D2
+    (property 
+     (timestamp 000009A2)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D3
+    (property 
+     (timestamp 000009B8)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D4
+    (property 
+     (timestamp 000009CE)
+     ("Source Package" LED)
+     (Value LED))))
+  (component R
+   (place R1
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000EDF)
+     ("Source Package" R)
+     (Value R)))
+   (place R2
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000EF5)
+     ("Source Package" R)
+     (Value R)))
+   (place R3
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000F0B)
+     ("Source Package" R)
+     (Value R)))
+   (place R4
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000F21)
+     ("Source Package" R)
+     (Value R))))
+  (component "HEADER 5X2"
+   (place JP1
+    (property 
+     ("PCB Footprint" "IDC10-AMP-RA")
+     (timestamp 0000006B)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP3
+    (property 
+     ("PCB Footprint" "IDC10-AMP-RA")
+     (timestamp 0000096A)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))))
+ (library
+  (image R
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "HEADER 5X2"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4))))
+  (image "HEADER 8X2"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4))))
+  (image "PHONEJACK SW"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image LED
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 ANODE
+    (property 
+     (pinname ANODE)
+     (pintype 4)))
+   (pin 999 CATHODE
+    (property 
+     (pinname CATHODE)
+     (pintype 4)))))
+ (network
+  (net N02596
+   (pins
+     JP3-7 D1-ANODE))
+  (net N02646
+   (pins
+     JP3-5 D2-ANODE))
+  (net N02696
+   (pins
+     D3-ANODE JP3-3))
+  (net N02746
+   (pins
+     D4-ANODE JP3-1))
+  (net N03895
+   (pins
+     D1-CATHODE R1-1))
+  (net N03922
+   (pins
+     D2-CATHODE R2-1))
+  (net N03949
+   (pins
+     D3-CATHODE R3-1))
+  (net N03976
+   (pins
+     D4-CATHODE R4-1))
+  (net N02811
+   (pins
+     R4-2 JP3-2))
+  (net N02861
+   (pins
+     JP3-4 R3-2))
+  (net N02911
+   (pins
+     JP3-6 R2-2))
+  (net N02961
+   (pins
+     JP3-8 R1-2))
+  (net N00335
+   (pins
+     J1-3 JP2-1 JP1-1))
+  (net N00510
+   (pins
+     J1-2 JP2-3))
+  (net N00574
+   (pins
+     J2-2 JP2-7))
+  (net N00380
+   (pins
+     J2-3 JP1-3 JP2-5))
+  (net N00687
+   (pins
+     J3-3 JP1-5 JP2-9))
+  (net N00788
+   (pins
+     J3-2 JP2-11))
+  (net N00961
+   (pins
+     J4-2 JP2-15))
+  (net N01018
+   (pins
+     J1-1 JP1-2 JP2-2))
+  (net N01132
+   (pins
+     J2-1 JP1-4 JP2-6))
+  (net N01246
+   (pins
+     J3-1 JP2-10 JP1-6))
+  (net N01360
+   (pins
+     J4-1 JP2-14 JP1-8))
+  (net N01474
+   (pins
+     JP2-16 JP2-12 JP2-8 JP2-4))
+  (net N00866
+   (pins
+     JP1-7 J4-3 JP2-13)))
+)

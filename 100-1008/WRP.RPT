@@ -1,0 +1,24 @@
+
+     | | | | | | |
+   _________________
+  -|               |-
+  -|               |-
+  -|               |-
+  -|    CYPRESS    |-
+  -|               |-
+  -|               |-   Warp VHDL Synthesis Compiler: Version 5.1 IR 14
+  -|               |-   Copyright (C) 1991, 1992, 1993,
+   |_______________|    1994, 1995, 1996, 1997, 1998 Cypress Semiconductor
+     | | | | | | |
+
+======================================================================
+Options:    -swork lc22v10
+======================================================================
+
+vhdlfe V5.1 IR 14:  VHDL parser
+Tue May 21 10:31:56 2002
+
+Setting library 'work' to directory 'lc22v10'
+
+vhdlfe:  No errors.
+

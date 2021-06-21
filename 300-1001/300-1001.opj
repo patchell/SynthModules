@@ -1,0 +1,51 @@
+(ExpressProject "300-1001"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\300-1001.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TP
+      (FullPartName "TP.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (PNP
+      (FullPartName "PNP.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (NPN
+      (FullPartName "NPN.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "D:\SynthMod\300-1001\300-1001.dsn")
+      (Path "Design Resources" "D:\SynthMod\300-1001\300-1001.dsn" "SCHEMATIC1")
+      (Select "Design Resources" "D:\SynthMod\300-1001\300-1001.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 593"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 130 1734 130 758")
+        (Scroll "0 180")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\SYNTHMOD\300-1001\300-1001.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

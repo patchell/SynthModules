@@ -1,0 +1,338 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "Quint (5) 1/4 Inch Jack Board with LEDs"
+Date "2017-04-02"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Phone_Jack_wSw-PCB J1
+U 1 1 58E1CFB5
+P 2350 2750
+F 0 "J1" H 2350 2750 60  0000 C CNN
+F 1 "Phone_Jack_wSw-PCB" H 2350 2750 60  0000 C CNN
+F 2 "FootPrints:PHONE-SC112A" H 2350 2750 60  0001 C CNN
+F 3 "" H 2350 2750 60  0000 C CNN
+	1    2350 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Phone_Jack_wSw-PCB J2
+U 1 1 58E1CFEB
+P 2350 3250
+F 0 "J2" H 2350 3250 60  0000 C CNN
+F 1 "Phone_Jack_wSw-PCB" H 2350 3250 60  0000 C CNN
+F 2 "FootPrints:PHONE-SC112A" H 2350 3250 60  0001 C CNN
+F 3 "" H 2350 3250 60  0000 C CNN
+	1    2350 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Phone_Jack_wSw-PCB J3
+U 1 1 58E1D00D
+P 2350 3800
+F 0 "J3" H 2350 3800 60  0000 C CNN
+F 1 "Phone_Jack_wSw-PCB" H 2350 3800 60  0000 C CNN
+F 2 "FootPrints:PHONE-SC112A" H 2350 3800 60  0001 C CNN
+F 3 "" H 2350 3800 60  0000 C CNN
+	1    2350 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Phone_Jack_wSw-PCB J4
+U 1 1 58E1D03A
+P 2350 4400
+F 0 "J4" H 2350 4400 60  0000 C CNN
+F 1 "Phone_Jack_wSw-PCB" H 2350 4400 60  0000 C CNN
+F 2 "FootPrints:PHONE-SC112A" H 2350 4400 60  0001 C CNN
+F 3 "" H 2350 4400 60  0000 C CNN
+	1    2350 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Phone_Jack_wSw-PCB J5
+U 1 1 58E1D068
+P 2350 5050
+F 0 "J5" H 2350 5050 60  0000 C CNN
+F 1 "Phone_Jack_wSw-PCB" H 2350 5050 60  0000 C CNN
+F 2 "FootPrints:PHONE-SC112A" H 2350 5050 60  0001 C CNN
+F 3 "" H 2350 5050 60  0000 C CNN
+	1    2350 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 500-1126-QuintJack P1
+U 1 1 58E1D5E0
+P 4300 3800
+F 0 "P1" H 4300 3150 60  0000 C CNN
+F 1 "500-1126-QuintJack" H 4300 3250 60  0000 C CNN
+F 2 "FootPrints:IDC10x2_Vert" H 4150 3950 60  0001 C CNN
+F 3 "" H 4150 3950 60  0000 C CNN
+	1    4300 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2750 2350 3400 2350
+Wire Wire Line
+	3400 2350 3400 3350
+Wire Wire Line
+	3400 3350 3950 3350
+Wire Wire Line
+	2750 2450 3350 2450
+Wire Wire Line
+	3350 2450 3350 3450
+Wire Wire Line
+	3350 3450 3950 3450
+Wire Wire Line
+	2750 2850 3300 2850
+Wire Wire Line
+	3300 2850 3300 3550
+Wire Wire Line
+	3300 3550 3950 3550
+Wire Wire Line
+	2750 2950 3250 2950
+Wire Wire Line
+	3250 2950 3250 3650
+Wire Wire Line
+	3250 3650 3950 3650
+Wire Wire Line
+	2750 3400 3200 3400
+Wire Wire Line
+	3200 3400 3200 3750
+Wire Wire Line
+	3200 3750 3950 3750
+Wire Wire Line
+	2750 3500 3150 3500
+Wire Wire Line
+	3150 3500 3150 3850
+Wire Wire Line
+	3150 3850 3950 3850
+Wire Wire Line
+	2750 4000 3150 4000
+Wire Wire Line
+	3150 4000 3150 3950
+Wire Wire Line
+	3150 3950 3950 3950
+Wire Wire Line
+	2750 4100 3150 4100
+Wire Wire Line
+	3150 4100 3150 4050
+Wire Wire Line
+	3150 4050 3950 4050
+Wire Wire Line
+	2750 4650 3150 4650
+Wire Wire Line
+	3150 4650 3150 4150
+Wire Wire Line
+	3150 4150 3950 4150
+Wire Wire Line
+	2750 4750 3200 4750
+Wire Wire Line
+	3200 4750 3200 4250
+Wire Wire Line
+	3200 4250 3950 4250
+Wire Wire Line
+	2750 2550 5150 2550
+Wire Wire Line
+	5150 2550 5150 3350
+Wire Wire Line
+	5150 3350 4650 3350
+Wire Wire Line
+	2750 3050 5300 3050
+Wire Wire Line
+	5300 3050 5300 3550
+Wire Wire Line
+	5300 3550 4650 3550
+Wire Wire Line
+	2750 3600 3000 3600
+Wire Wire Line
+	3000 3600 3000 3100
+Wire Wire Line
+	3000 3100 5400 3100
+Wire Wire Line
+	5400 3100 5400 3750
+Wire Wire Line
+	5400 3750 4650 3750
+Wire Wire Line
+	2750 4200 3050 4200
+Wire Wire Line
+	3050 4200 3050 4550
+Wire Wire Line
+	3050 4550 5400 4550
+Wire Wire Line
+	5400 4550 5400 3950
+Wire Wire Line
+	5400 3950 4650 3950
+Wire Wire Line
+	2750 4850 5300 4850
+Wire Wire Line
+	5300 4850 5300 4150
+Wire Wire Line
+	5300 4150 4650 4150
+$Comp
+L 500-1126-LED P2
+U 1 1 58E1DCD1
+P 7350 4350
+F 0 "P2" H 7350 4000 60  0000 C CNN
+F 1 "500-1126-LED" H 7350 3900 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 7350 4350 60  0001 C CNN
+F 3 "" H 7350 4350 60  0000 C CNN
+	1    7350 4350
+	1    0    0    1   
+$EndComp
+$Comp
+L LED_ALT D1
+U 1 1 58E1DE88
+P 7450 2450
+F 0 "D1" H 7450 2550 50  0000 C CNN
+F 1 "LED_ALT" H 7450 2350 50  0000 C CNN
+F 2 "FootPrints:LED_5.0mm" H 7450 2450 50  0001 C CNN
+F 3 "" H 7450 2450 50  0001 C CNN
+	1    7450 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED_ALT D2
+U 1 1 58E1DEF3
+P 7450 2750
+F 0 "D2" H 7450 2850 50  0000 C CNN
+F 1 "LED_ALT" H 7450 2650 50  0000 C CNN
+F 2 "FootPrints:LED_5.0mm" H 7450 2750 50  0001 C CNN
+F 3 "" H 7450 2750 50  0001 C CNN
+	1    7450 2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED_ALT D3
+U 1 1 58E1DF2A
+P 7450 3050
+F 0 "D3" H 7450 3150 50  0000 C CNN
+F 1 "LED_ALT" H 7450 2950 50  0000 C CNN
+F 2 "FootPrints:LED_5.0mm" H 7450 3050 50  0001 C CNN
+F 3 "" H 7450 3050 50  0001 C CNN
+	1    7450 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED_ALT D4
+U 1 1 58E1DF60
+P 7450 3350
+F 0 "D4" H 7450 3450 50  0000 C CNN
+F 1 "LED_ALT" H 7450 3250 50  0000 C CNN
+F 2 "FootPrints:LED_5.0mm" H 7450 3350 50  0001 C CNN
+F 3 "" H 7450 3350 50  0001 C CNN
+	1    7450 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED_ALT D5
+U 1 1 58E1DFCE
+P 7450 3650
+F 0 "D5" H 7450 3750 50  0000 C CNN
+F 1 "LED_ALT" H 7450 3550 50  0000 C CNN
+F 2 "FootPrints:LED_5.0mm" H 7450 3650 50  0001 C CNN
+F 3 "" H 7450 3650 50  0001 C CNN
+	1    7450 3650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7300 3650 7000 3650
+Wire Wire Line
+	7000 3650 7000 4150
+Wire Wire Line
+	7000 4150 7150 4150
+Wire Wire Line
+	7300 3300 7300 3350
+Wire Wire Line
+	7300 3350 6950 3350
+Wire Wire Line
+	6950 3350 6950 4250
+Wire Wire Line
+	6950 4250 7150 4250
+Wire Wire Line
+	7300 3050 6900 3050
+Wire Wire Line
+	6900 3050 6900 4350
+Wire Wire Line
+	6900 4350 7150 4350
+Wire Wire Line
+	7300 2750 6850 2750
+Wire Wire Line
+	6850 2750 6850 4450
+Wire Wire Line
+	6850 4450 7150 4450
+Wire Wire Line
+	7300 2450 6800 2450
+Wire Wire Line
+	6800 2450 6800 4550
+Wire Wire Line
+	6800 4550 7150 4550
+Wire Wire Line
+	7600 3650 8000 3650
+Wire Wire Line
+	8000 3650 8000 4150
+Wire Wire Line
+	8000 4150 7850 4150
+Wire Wire Line
+	7850 4250 8050 4250
+Wire Wire Line
+	8050 4250 8050 3350
+Wire Wire Line
+	8050 3350 7600 3350
+Wire Wire Line
+	7600 3050 8100 3050
+Wire Wire Line
+	8100 3050 8100 4350
+Wire Wire Line
+	8100 4350 7850 4350
+Wire Wire Line
+	7850 4450 8150 4450
+Wire Wire Line
+	8150 4450 8150 2750
+Wire Wire Line
+	8150 2750 7600 2750
+Wire Wire Line
+	7600 2450 8200 2450
+Wire Wire Line
+	8200 2450 8200 4550
+Wire Wire Line
+	8200 4550 7850 4550
+$EndSCHEMATC

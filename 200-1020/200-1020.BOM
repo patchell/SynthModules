@@ -1,0 +1,27 @@
+BALANCED MODULATOR  Revised: Friday, July 25, 2003
+200-1020          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials          March 28,2004      10:50:19	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	4	C1,C2,C4,C5	.1uF
+2	3	J1,J2,J3	PHONEJACK
+3	1	P1	HEADER 4
+4	2	R8,R1	20K
+5	2	R9,R2	10M
+6	1	R3	1K
+7	8	R4,R5,R6,R7,R11,R14,R15,	100K
+		R16
+8	2	R13,R10	10K
+9	1	R12	30K
+10	1	U1	AD633
+11	1	U2	TL052
+12	1	U3	LM4041CZ-ADJ

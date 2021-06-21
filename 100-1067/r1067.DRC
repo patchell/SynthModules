@@ -1,0 +1,374 @@
+Protel Design System Design Rule Check
+PCB File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\100-1067\r1067.PCB
+NET File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\100-1067\100-1067.net
+Date     : 5-May-2014 
+Time     : 20:10:56
+
+
+Clearances
+  Arc        : 5mil
+  Fill       : 5mil
+  Pad        : 5mil
+  Track      : 5mil
+  Text       : 5mil
+  Via        : 5mil
+  Large Comp : 50mil
+  Small Comp : 20mil
+
+
+Do Missing Component Errors : On
+Do Missing Pin Errors       : Off
+Do Extra Pin Errors         : Off
+Do Extra UnNamed Pin Errors : Off
+Do Extra Net Errors         : On
+Do Extra Component Errors   : Off
+Do Split Net Errors         : On
+Do Clearance Errors         : Off
+Do Component Clearances     : Off
+Do Component Pattern Errors : Off
+Do Component Value Errors   : Off
+
+
+Net +5VR Broken Into Multiple Sub-nets 
+Sub-net  1
+JP1-5         
+
+Sub-net  2
+Q15-EMIT      R146-2        R148-2        C104-1        JP6-9         
+JP5-5         
+
+Sub-net  3
+R113-B        R116-A        R23-B         R26-A         
+
+
+Net -5VR Broken Into Multiple Sub-nets 
+Sub-net  1
+JP1-7         
+
+Sub-net  2
+Q16-EMIT      R106-1        R105-1        R156-2        R153-2        
+C105-2        JP6-11        JP5-7         
+
+Sub-net  3
+R113-A        R23-A         
+
+Sub-net  4
+R15-1         R16-1         R6-1          R96-1         R81-B         
+R81-WIPE      R34-B         R34-WIPE      
+
+
+Net N00396 Broken Into Multiple Sub-nets 
+Sub-net  1
+R105-2        
+
+Sub-net  2
+U34-2         
+
+Sub-net  3
+C90-1         
+
+Sub-net  4
+Q6-5          
+
+
+Net N00360 Broken Into Multiple Sub-nets 
+Sub-net  1
+Q6-6          
+
+Sub-net  2
+Q6-2          U33-5         R110-1        
+
+
+Net VCO-BEND Broken Into Multiple Sub-nets 
+Sub-net  1
+U10-1         
+
+Sub-net  2
+R50-2         
+
+Sub-net  3
+R9-1          
+
+Sub-net  4
+R99-1         
+
+
+Net N06392 Broken Into Multiple Sub-nets 
+Sub-net  1
+U37-7         
+
+Sub-net  2
+R130-2        C92-2         
+
+
+Net N08181 Broken Into Multiple Sub-nets 
+Sub-net  1
+R127-2        R128-1        
+
+Sub-net  2
+U36-5         
+
+
+Net +15 Broken Into Multiple Sub-nets 
+Sub-net  1
+JP6-1         JP6-2         JP2-2         JP2-1         
+
+Sub-net  2
+C103-1        C8-1          C35-1         U20-8         C34-1         
+U18-8         C22-1         U17-13        C41-1         U16-6         
+U16-8         U19-13        U28-8         C7-1          U2-5          
+U2-6          U2-8          C5-1          U1-7          C4-1          
+C77-1         U9-VI         C28-1         U35-8         C75-1         
+C67-1         U10-8         U8-8          U38-8         C1-1          
+U37-8         U7-8          C76-1         C74-1         U31-5         
+U31-6         U31-8         C73-1         U30-7         C72-1         
+U34-8         C71-1         U33-11        U32-8         U6-8          
+C6-1          C3-1          U4-11         C2-1          U5-8          
+U3-8          R58-2         C37-1         U23-18        U21-8         
+C36-1         U22-8         C38-1         U36-8         C94-1         
+C93-1         C70-1         U14-8         JP2-11        C101-1        
+
+Sub-net  3
+Q14-COLL      R145-1        U39-8         R137-1        C39-1         
+C42-1         U41-8         
+
+
+Net DP0 Broken Into Multiple Sub-nets 
+Sub-net  1
+JP2-11        
+
+Sub-net  2
+C28-1         
+
+Sub-net  3
+R58-2         
+
+Sub-net  4
+U16-6         
+
+
+Net N06158 Broken Into Multiple Sub-nets 
+Sub-net  1
+R91-1         
+
+Sub-net  2
+U14-1         
+
+Sub-net  3
+R85-2         
+
+
+Net AGND Broken Into Multiple Sub-nets 
+Sub-net  1
+C103-2        C102-2        C23-2         C8-2          C35-2         
+C47-2         C34-2         C46-2         C22-2         U17-5         
+C87-2         C41-2         C44-2         U19-5         C17-2         
+U28-5         C7-2          C15-2         C5-2          C14-2         
+U1-3          C4-2          Q2-4          Q2-9          C77-2         
+C18-2         C65-2         C66-2         C24-2         C64-2         
+U9-GND        R121-2        R128-2        R133-2        R31-2         
+R32-2         R30-1         C20-2         C85-2         C75-2         
+R5-2          D7-CATH       C68-2         C67-2         U8-3          
+C1-2          U37-3         U37-5         U7-5          C76-2         
+C84-2         C74-2         C83-2         C73-2         U30-3         
+C82-2         Q6-4          Q6-9          C72-2         U34-3         
+U34-5         C81-2         C71-2         U33-3         U33-14        
+C80-2         U32-3         U32-5         C16-2         C6-2          
+C13-2         C3-2          C12-2         U4-3          U4-14         
+C2-2          C11-2         U5-3          U5-5          U3-3          
+U3-5          C55-2         C56-2         C52-2         C51-2         
+C30-2         C31-2         C43-2         C40-2         R68-1         
+R67-1         C27-2         U25-22        U25-53        U25-63        
+U24-4         U24-5         U24-8         C69-2         U29-7         
+C26-2         U13-7         C37-2         U23-2         U23-3         
+U23-6         U23-17        U21-5         C36-2         C48-2         
+C45-2         U12-8         C25-2         C38-2         C96-2         
+U36-3         C94-2         C95-2         C93-2         C86-2         
+C70-2         U14-3         R95-2         C89-2         R20-2         
+R110-2        R123-2        R122-2        R120-1        JP9-4         
+C60-2         U27-2         U27-7         U27-3         U15-1         
+U15-10        D2-ANOD       R76-1         JP5-15        R102-A        
+R12-A         JP1-15        R47-2         C101-2        C100-2        
+R33-2         
+
+Sub-net  2
+C63-2         C62-2         Y1-3          Y1-5          Y1-4          
+M1-6          M1-7          JP3-7         JP3-4         JP3-3         
+JP3-8         U26-5         J1-3          J2-3          M2-2          
+M2-6          M2-7          M3-2          M3-6          M3-7          
+
+Sub-net  3
+JP7-2         JP7-4         JP7-6         JP7-8         JP7-10        
+JP7-12        JP7-14        JP7-16        JP6-3         JP6-4         
+JP6-6         JP6-7         JP6-8         JP6-10        JP6-12        
+JP2-18        JP2-16        JP2-14        JP2-12        JP2-10        
+JP2-8         JP2-6         JP2-4         JP4-10        JP4-6         
+JP4-4         JP4-2         JP4-8         C59-2         
+
+Sub-net  4
+Q12-BASE      
+
+Sub-net  5
+Q9-BASE       
+
+Sub-net  6
+D4-CATH       R151-2        U40-3         R152-2        C42-2         
+U41-5         C58-2         
+
+Sub-net  7
+JP10-10       JP10-2        
+
+Sub-net  8
+Q13-BASE      Q13-COLL      C39-2         
+
+Sub-net  9
+C105-1        C104-2        U39-5         R143-2        R144-2        
+C57-2         
+
+Sub-net  10
+JP8-5         
+
+Sub-net  11
+C98-2         
+
+
+Net LFO Broken Into Multiple Sub-nets 
+Sub-net  1
+R53-1         JP2-9         JP5-1         
+
+Sub-net  2
+JP1-1         
+
+
+Net VCC Broken Into Multiple Sub-nets 
+Sub-net  1
+C65-1         C66-1         C24-1         C64-1         U9-VO         
+R48-1         R49-1         C27-1         U25-21        U25-52        
+U25-62        U25-64        U24-16        C69-1         U29-2         
+U29-4         U29-10        U29-13        U29-14        C26-1         
+U13-14        U12-16        C25-1         JP9-1         C60-1         
+U27-14        U26-6         U15-20        D1-CATH       R80-2         
+R75-2         R79-1         R76-2         
+
+Sub-net  2
+JP8-1         
+
+Sub-net  3
+U23-5         
+
+Sub-net  4
+R71-1         
+
+Sub-net  5
+R73-1         
+
+Sub-net  6
+JP10-7        JP10-4        
+
+
+Net N00429 Broken Into Multiple Sub-nets 
+Sub-net  1
+Q2-7          R22-1         
+
+Sub-net  2
+Q2-3          R25-1         
+
+
+Net N00208_10215 Broken Into Multiple Sub-nets 
+Sub-net  1
+Q2-1          
+
+Sub-net  2
+U1-2          C9-1          Q1-SOUR       
+
+
+Net N00360_10218 Broken Into Multiple Sub-nets 
+Sub-net  1
+Q2-6          
+
+Sub-net  2
+Q2-2          R20-1         
+
+Sub-net  3
+U4-5          
+
+
+Net N86443 Broken Into Multiple Sub-nets 
+Sub-net  1
+U27-2         
+
+Sub-net  2
+R76-1         
+
+Sub-net  3
+U27-3         
+
+
+Net N01148_17297 Broken Into Multiple Sub-nets 
+Sub-net  1
+R119-1        
+
+Sub-net  2
+U35-1         
+
+
+Net N33788_17301 Broken Into Multiple Sub-nets 
+Sub-net  1
+U34-6         C88-1         
+
+Sub-net  2
+Q6-11         
+
+Sub-net  3
+R106-2        
+
+
+Net N01534_17303 Broken Into Multiple Sub-nets 
+Sub-net  1
+Q6-13         R111-1        R118-1        
+
+Sub-net  2
+Q6-10         
+
+
+Net N01930_17304 Broken Into Multiple Sub-nets 
+Sub-net  1
+R97-2         
+
+Sub-net  2
+R103-2        R109-1        
+
+Sub-net  3
+R98-2         
+
+Sub-net  4
+U32-2         R94-2         R104-1        R100-1        
+
+Sub-net  5
+R99-2         
+
+
+Net N00429_17317 Broken Into Multiple Sub-nets 
+Sub-net  1
+R112-1        
+
+Sub-net  2
+Q6-3          
+
+Sub-net  3
+Q6-7          
+
+Sub-net  4
+R115-1        
+
+
+Net N01917_17318 Broken Into Multiple Sub-nets 
+Sub-net  1
+U32-1         R104-2        
+
+Sub-net  2
+R107-1        
+
+Extra net on board : 
+
+Time Elapsed : 00:00:06

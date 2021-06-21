@@ -1,0 +1,268 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:500-1073-cache
+EELAYER 25 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "Quad Banana Jack/Led Board"
+Date "2017-01-27"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 500-1072-1073-Quad-Jack_Board P1
+U 1 1 588C0321
+P 2850 1650
+F 0 "P1" H 2850 1200 60  0000 C CNN
+F 1 "500-1072-1073-Quad-Jack_Board" H 2700 1300 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 2850 1650 60  0001 C CNN
+F 3 "" H 2850 1650 60  0000 C CNN
+	1    2850 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L 500-1072-1073-16PIN-QUADJACK P4
+U 1 1 588C0342
+P 4250 1550
+F 0 "P4" H 4250 950 60  0000 C CNN
+F 1 "500-1072-1073-16PIN-QUADJACK" H 4500 1050 60  0000 C CNN
+F 2 "FootPrints:IDC8x2_Vert" H 4250 1550 60  0001 C CNN
+F 3 "" H 4250 1550 60  0000 C CNN
+	1    4250 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L PAD-KF2-256 P2
+U 1 1 588C07B1
+P 3200 2950
+F 0 "P2" H 3200 2750 60  0000 C CNN
+F 1 "PAD-KF2-256" H 3225 2675 60  0000 C CNN
+F 2 "FootPrints:KF2-256-TerminalPad" H 3200 2650 60  0001 C CNN
+F 3 "" H 3200 2650 60  0000 C CNN
+	1    3200 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L PAD-KF2-256 P3
+U 1 1 588C07F8
+P 3850 2950
+F 0 "P3" H 3850 2750 60  0000 C CNN
+F 1 "PAD-KF2-256" H 3875 2675 60  0000 C CNN
+F 2 "FootPrints:KF2-256-TerminalPad" H 3850 2650 60  0001 C CNN
+F 3 "" H 3850 2650 60  0000 C CNN
+	1    3850 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L PAD-KF2-256 P5
+U 1 1 588C0831
+P 4450 2950
+F 0 "P5" H 4450 2750 60  0000 C CNN
+F 1 "PAD-KF2-256" H 4475 2675 60  0000 C CNN
+F 2 "FootPrints:KF2-256-TerminalPad" H 4450 2650 60  0001 C CNN
+F 3 "" H 4450 2650 60  0000 C CNN
+	1    4450 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L PAD-KF2-256 P6
+U 1 1 588C0877
+P 5000 3000
+F 0 "P6" H 5000 2800 60  0000 C CNN
+F 1 "PAD-KF2-256" H 5025 2725 60  0000 C CNN
+F 2 "FootPrints:KF2-256-TerminalPad" H 5000 2700 60  0001 C CNN
+F 3 "" H 5000 2700 60  0000 C CNN
+	1    5000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED_ALT D1
+U 1 1 588C08AB
+P 6300 2800
+F 0 "D1" H 6300 2900 50  0000 C CNN
+F 1 "LED_ALT" H 6300 2700 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 6300 2800 50  0001 C CNN
+F 3 "" H 6300 2800 50  0000 C CNN
+	1    6300 2800
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED_ALT D2
+U 1 1 588C09B0
+P 6300 3150
+F 0 "D2" H 6300 3250 50  0000 C CNN
+F 1 "LED_ALT" H 6300 3050 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 6300 3150 50  0001 C CNN
+F 3 "" H 6300 3150 50  0000 C CNN
+	1    6300 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED_ALT D3
+U 1 1 588C09E5
+P 6300 3450
+F 0 "D3" H 6300 3550 50  0000 C CNN
+F 1 "LED_ALT" H 6300 3350 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 6300 3450 50  0001 C CNN
+F 3 "" H 6300 3450 50  0000 C CNN
+	1    6300 3450
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED_ALT D4
+U 1 1 588C0A1B
+P 6300 3800
+F 0 "D4" H 6300 3900 50  0000 C CNN
+F 1 "LED_ALT" H 6300 3700 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 6300 3800 50  0001 C CNN
+F 3 "" H 6300 3800 50  0000 C CNN
+	1    6300 3800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5900 1650 5650 1650
+Wire Wire Line
+	5650 1650 5650 2800
+Wire Wire Line
+	5650 2800 6150 2800
+Wire Wire Line
+	5900 1550 5550 1550
+Wire Wire Line
+	5550 1550 5550 3150
+Wire Wire Line
+	5550 3150 6150 3150
+Wire Wire Line
+	5900 1450 5450 1450
+Wire Wire Line
+	5450 1450 5450 3450
+Wire Wire Line
+	5450 3450 6150 3450
+Wire Wire Line
+	5900 1350 5350 1350
+Wire Wire Line
+	5350 1350 5350 3800
+Wire Wire Line
+	5350 3800 6150 3800
+Wire Wire Line
+	6600 1650 6850 1650
+Wire Wire Line
+	6850 1650 6850 2800
+Wire Wire Line
+	6850 2800 6450 2800
+Wire Wire Line
+	6600 1550 6950 1550
+Wire Wire Line
+	6950 1550 6950 3150
+Wire Wire Line
+	6950 3150 6450 3150
+Wire Wire Line
+	6600 1450 7050 1450
+Wire Wire Line
+	7050 1450 7050 3450
+Wire Wire Line
+	7050 3450 6450 3450
+Wire Wire Line
+	6600 1350 7150 1350
+Wire Wire Line
+	7150 1350 7150 3800
+Wire Wire Line
+	7150 3800 6450 3800
+Wire Wire Line
+	2650 1350 2250 1350
+Wire Wire Line
+	2250 1350 2250 2650
+Wire Wire Line
+	2250 2650 3550 2650
+Wire Wire Line
+	3200 2650 3200 2950
+Wire Wire Line
+	3550 2650 3550 1250
+Wire Wire Line
+	3550 1250 4050 1250
+Connection ~ 3200 2650
+Wire Wire Line
+	2650 1450 2350 1450
+Wire Wire Line
+	2350 1450 2350 2550
+Wire Wire Line
+	2350 2550 3850 2550
+Wire Wire Line
+	3850 2550 3850 2950
+Wire Wire Line
+	4050 1450 3650 1450
+Wire Wire Line
+	3650 1450 3650 2550
+Connection ~ 3650 2550
+Wire Wire Line
+	2650 1550 2450 1550
+Wire Wire Line
+	2450 1550 2450 2450
+Wire Wire Line
+	2450 2450 4450 2450
+Wire Wire Line
+	4450 2450 4450 2950
+Wire Wire Line
+	4050 1650 3750 1650
+Wire Wire Line
+	3750 1650 3750 2450
+Connection ~ 3750 2450
+Wire Wire Line
+	2650 1650 2550 1650
+Wire Wire Line
+	2550 1650 2550 2350
+Wire Wire Line
+	2550 2350 5000 2350
+Wire Wire Line
+	5000 2350 5000 3000
+Wire Wire Line
+	3850 1850 4050 1850
+Wire Wire Line
+	3850 1850 3850 2350
+Connection ~ 3850 2350
+$Comp
+L 500-1072-1073-LED P7
+U 1 1 588C2905
+P 6100 1450
+F 0 "P7" H 6100 1100 60  0000 C CNN
+F 1 "500-1072-1073-LED" H 6100 1000 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 6100 1450 60  0001 C CNN
+F 3 "" H 6100 1450 60  0000 C CNN
+	1    6100 1450
+	1    0    0    1   
+$EndComp
+$EndSCHEMATC

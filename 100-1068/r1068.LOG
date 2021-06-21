@@ -1,0 +1,66 @@
+Protel Design System Auto-Router Log
+------------------------------------
+Log Filename     : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\100-1068\R1068.LOG
+Date             : 11-5-2014
+Time             : 16:24
+
+Input  .PCB File : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\100-1068\1068.PCB
+Output .PCB File : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\100-1068\R1068.PCB
+
+
+Clearances
+  Arc    : 5mil
+  Fill   : 5mil
+  Pad    : 5mil
+  Track  : 5mil
+  Text   : 5mil
+  Via    : 5mil
+
+
+Layers
+  Top Layer      : Horizontal
+  Mid Layer 1    : Not Used
+  Mid Layer 2    : Not Used
+  Mid Layer 3    : Not Used
+  Mid Layer 4    : Not Used
+  Mid Layer 5    : Not Used
+  Mid Layer 6    : Not Used
+  Mid Layer 7    : Not Used
+  Mid Layer 8    : Not Used
+  Mid Layer 9    : Not Used
+  Mid Layer 10   : Not Used
+  Mid Layer 11   : Not Used
+  Mid Layer 12   : Not Used
+  Mid Layer 13   : Not Used
+  Mid Layer 14   : Not Used
+  Bottom Layer   : Vertical
+
+
+Hugging 
+  Before 100%  : No Hugging
+  After 100%   : No Hugging
+
+
+Other Settings
+  Route Grid  : 5mil
+  Route Track : 12mil
+  Route Via   : 40mil
+
+
+                   Connections       Time           Items Added During Pass
+Router Pass        Routed  (%)       Used        Arcs    Pads    Tracks  Vias
+--------------------------------------------------------------------------------
+Pre-Router          686 (100.00%)  00:00:03         0       0       0       0
+Smd Stringer                                              Not Used
+SMD Fanout                                                Not Used
+Memory                                                    Not Used
+Line Probe                                                Not Used
+Maze                                                      Not Used
+Miter                                                     Not Used
+--------------------------------------------------------------------------------
+Totals              686 (100.00%)  00:00:03         0       0       0       0
+
+
+
+
+---------------------

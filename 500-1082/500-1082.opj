@@ -1,0 +1,106 @@
+(ExpressProject "500-1082"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\500-1082.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (AGND
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5X2"
+      (FullPartName "HEADER 5X2.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (2N3904
+      (FullPartName "2N3904.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (74HC273
+      (FullPartName "74HC273.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\TTL.OLB")
+      (DeviceIndex "0"))
+    (74HC164
+      (FullPartName "74HC164.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\TTL.OLB")
+      (DeviceIndex "0"))
+    ("PHONEJACK SW"
+      (FullPartName "PHONEJACK SW.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (MAX551DIP
+      (FullPartName "MAX551DIP.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (OCTSH
+      (FullPartName "OCTSH.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTHMODULES.OLB")
+      (DeviceIndex "0"))
+    (STM32-H103
+      (FullPartName "STM32-H103B.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "1")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "D:\SynthMod\500-1082\500-1082.dsn")
+      (Path "Design Resources" "D:\SynthMod\500-1082\500-1082.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "D:\SynthMod\500-1082\500-1082.dsn"
+         "LED DRIVERS")
+      (Select "Design Resources" "D:\SynthMod\500-1082\500-1082.dsn"
+         "LED DRIVERS" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 623"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 156 1760 156 784")
+        (Scroll "0 160")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\SYNTHMOD\500-1082\500-1082.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 182 1786 182 810")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/LD1"))
+      (Path "D:\SYNTHMOD\500-1082\500-1082.DSN")
+      (Schematic "LED DRIVERS")
+      (Page "PAGE1"))))

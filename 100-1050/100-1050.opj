@@ -1,0 +1,127 @@
+(ExpressProject "100-1050"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\100-1050.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "2")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("DIODE ZENER"
+      (FullPartName "DIODE ZENER.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (NPN
+      (FullPartName "NPN.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (MOC3010M
+      (FullPartName "MOC3010M.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (TRIAC
+      (FullPartName "TRIAC.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1050\100-1050.dsn")
+      (Path "Design Resources"
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1050\100-1050.dsn"
+         "100-1050")
+      (Path "Design Resources"
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1050\100-1050.dsn"
+         "ZEROCROSS")
+      (Select "Design Resources"
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1050\100-1050.dsn"
+         "ZEROCROSS" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 513"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 66 1264 66 606")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1050\100-1050.DSN")
+      (Schematic "100-1050")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 88 1286 88 628")
+        (Scroll "0 0")
+        (Zoom "66"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1050\100-1050.DSN")
+      (Schematic "AC-CONT")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 198 1396 198 738")
+        (Scroll "588 257")
+        (Zoom "132"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1050\100-1050.DSN")
+      (Schematic "MIDI")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 220 1418 220 760")
+        (Scroll "0 0")
+        (Zoom "100"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JAMES PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1050\100-1050.DSN")
+      (Schematic "ZEROCROSS")
+      (Page "PAGE1"))))

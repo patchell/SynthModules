@@ -1,0 +1,209 @@
+(ExpressProject "100-1070"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\100-1070.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{PACKAGE}")
+    (Netlist_TAB "7")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "100-1070.NET")
+    (OTHER_Netlist_File2 "100-1070.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "tango.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE"))
+  (Folder "Outputs"
+    (File ".\100-1070.net"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (LM13700H
+      (FullPartName "LM13700HA.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (AGND
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5X2"
+      (FullPartName "HEADER 5X2.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("PHONEJACK SW"
+      (FullPartName "PHONEJACK SW.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 10X2"
+      (FullPartName "HEADER 10X2.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 8X2"
+      (FullPartName "HEADER 8X2.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("GEN DUAL OPAMP-H"
+      (FullPartName "GEN DUAL OPAMP-HA.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (VCA_GATED
+      (FullPartName "VCA_GATED.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTHMODULES.OLB")
+      (DeviceIndex "0"))
+    (NPN
+      (FullPartName "NPN.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    ("NET ISOLATOR"
+      (FullPartName "NET ISOLATOR.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (VCA
+      (FullPartName "VCA.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTHMODULES.OLB")
+      (DeviceIndex "0"))
+    (RESONATOR
+      (FullPartName "RESONATOR.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTHMODULES.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Documents and Settings\Jim Patchell\My Documents\projects\SynthMod\100-1070\100-1070.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 623"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 154 1762 154 804")
+        (Scroll "0 270")
+        (Zoom "90")
+        (Occurrence "/"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1070\100-1070.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 88 1667 88 738")
+        (Scroll "0 0")
+        (Zoom "127")
+        (Occurrence "/M6"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 220 1828 220 870")
+        (Scroll "0 0")
+        (Zoom "127")
+        (Occurrence "/M3"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 132 1711 132 782")
+        (Scroll "0 0")
+        (Zoom "127")
+        (Occurrence "/M2"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 154 1733 154 804")
+        (Scroll "0 0")
+        (Zoom "127")
+        (Occurrence "/M7"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1070\100-1070.DSN")
+      (Schematic "RESONATOR_I")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 66 1645 66 716")
+        (Scroll "0 128")
+        (Zoom "100")
+        (Occurrence "/M8"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 176 1755 176 826")
+        (Scroll "0 210")
+        (Zoom "127")
+        (Occurrence "/M12"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 198 1777 198 848")
+        (Scroll "0 288")
+        (Zoom "127")
+        (Occurrence "/M4"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 308 1887 308 958")
+        (Scroll "0 128")
+        (Zoom "100")
+        (Occurrence "/M11"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 242 1821 242 892")
+        (Scroll "0 128")
+        (Zoom "100")
+        (Occurrence "/M9"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 264 1843 264 914")
+        (Scroll "0 128")
+        (Zoom "100")
+        (Occurrence "/M5"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 286 1865 286 936")
+        (Scroll "0 128")
+        (Zoom "100")
+        (Occurrence "/M1"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 308 1887 308 958")
+        (Scroll "0 128")
+        (Zoom "100")
+        (Occurrence "/M10"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\100-1070\100-1070.DSN")
+      (Schematic "VCA_GATED_I")
+      (Page "PAGE1"))))

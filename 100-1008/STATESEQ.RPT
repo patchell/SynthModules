@@ -1,0 +1,55 @@
+
+     | | | | | | |
+   _________________
+  -|               |-
+  -|               |-
+  -|               |-
+  -|    CYPRESS    |-
+  -|               |-
+  -|               |-   Warp VHDL Synthesis Compiler: Version 5 IR x31
+  -|               |-   Copyright (C) 1991, 1992, 1993,
+   |_______________|    1994, 1995, 1996, 1997, 1998 Cypress Semiconductor
+     | | | | | | |
+
+======================================================================
+Compiling:  stateseq.vhd
+Options:    -yu -e10 -w100 -o2 -ygs -fP -v10 -dc22v10 -pPALCE22V10-25PC/PI -u Multiseg.hie -a stateseq.vhd
+======================================================================
+
+vhdlfe V5 IR x31:  VHDL parser
+Wed May 15 21:58:01 2002
+
+Library 'work' => directory 'lc22v10'
+Linking 'C:\warp\bin\std.vhd'.
+Linking 'C:\warp\lib\common\cypress.vhd'.
+Linking 'C:\warp\lib\common\work\cypress.vif'.
+Library 'ieee' => directory 'C:\warp\lib\ieee\work'
+Linking 'C:\warp\lib\ieee\work\stdlogic.vif'.
+Library 'ieee' => directory 'C:\warp\lib\ieee\work'
+Linking 'C:\warp\lib\common\stdlogic\lpmpkg.vif'.
+Linking 'C:\warp\lib\common\stdlogic\rtlpkg.vif'.
+Linking 'C:\warp\lib\common\stdlogic\mod_cnst.vif'.
+Linking 'C:\warp\lib\common\stdlogic\mod_mth.vif'.
+Linking 'C:\warp\lib\common\stdlogic\mod_gen.vif'.
+
+vhdlfe:  No errors.
+
+
+tovif V5 IR x31:  High-level synthesis
+Wed May 15 21:58:02 2002
+
+Linking 'C:\warp\bin\std.vhd'.
+Linking 'C:\warp\lib\common\cypress.vhd'.
+Linking 'C:\warp\lib\common\work\cypress.vif'.
+Linking 'C:\warp\lib\ieee\work\stdlogic.vif'.
+Linking 'C:\warp\lib\common\stdlogic\lpmpkg.vif'.
+Linking 'C:\warp\lib\common\stdlogic\rtlpkg.vif'.
+Linking 'C:\warp\lib\common\stdlogic\mod_cnst.vif'.
+Linking 'C:\warp\lib\common\stdlogic\mod_mth.vif'.
+Linking 'C:\warp\lib\common\stdlogic\mod_gen.vif'.
+Added package 'statemachine_pkg' to library 'work'
+Added entity 'statemachine' to library 'work'
+Added architecture 'statemachine_arch' to library 'work'
+
+tovif:  No errors.
+

@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [Free Documents]
+   Generated File[1069.GTL]
+   Generated File[1069.GBL]
+   Generated File[1069.GTO]
+   Generated File[1069.GTS]
+   Generated File[1069.GBS]
+   Generated File[1069.GKO]
+   Generated File[1069.RUL]
+   Generated File[1069.EXTREP]
+   Generated File[1069.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 12:21:14 PM On 8/8/2014

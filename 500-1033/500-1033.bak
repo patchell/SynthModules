@@ -1,0 +1,185 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Phone_Jack_wSw-PCB J3
+U 1 1 58916CAF
+P 4200 3550
+F 0 "J3" H 3800 3800 60  0000 C CNN
+F 1 "Phone_Jack_wSw-PCB" H 3400 3750 60  0000 C CNN
+F 2 "FootPrints:PHONE-SC112A" H 4200 3550 60  0001 C CNN
+F 3 "" H 4200 3550 60  0000 C CNN
+	1    4200 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Phone_Jack_wSw-PCB J1
+U 1 1 58916CFF
+P 4200 3250
+F 0 "J1" H 3700 3600 60  0000 C CNN
+F 1 "Phone_Jack_wSw-PCB" H 3400 3500 60  0000 C CNN
+F 2 "FootPrints:PHONE-SC112A" H 4200 3250 60  0001 C CNN
+F 3 "" H 4200 3250 60  0000 C CNN
+	1    4200 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Phone_Jack_wSw-PCB J2
+U 1 1 58916D2B
+P 6500 3250
+F 0 "J2" H 6050 3600 60  0000 C CNN
+F 1 "Phone_Jack_wSw-PCB" H 5700 3500 60  0000 C CNN
+F 2 "FootPrints:PHONE-SC112A" H 6500 3250 60  0001 C CNN
+F 3 "" H 6500 3250 60  0000 C CNN
+	1    6500 3250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L LED_ALT D2
+U 1 1 58916D59
+P 5300 4300
+F 0 "D2" H 5300 4400 50  0000 C CNN
+F 1 "LED_ALT" H 5300 4200 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 5300 4300 50  0001 C CNN
+F 3 "" H 5300 4300 50  0000 C CNN
+	1    5300 4300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L LED_ALT D3
+U 1 1 58916E4B
+P 5300 4000
+F 0 "D3" H 5300 4100 50  0000 C CNN
+F 1 "LED_ALT" H 5300 3900 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 5300 4000 50  0001 C CNN
+F 3 "" H 5300 4000 50  0000 C CNN
+	1    5300 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L LED_ALT D1
+U 1 1 58916E74
+P 5300 4600
+F 0 "D1" H 5300 4700 50  0000 C CNN
+F 1 "LED_ALT" H 5300 4500 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 5300 4600 50  0001 C CNN
+F 3 "" H 5300 4600 50  0000 C CNN
+	1    5300 4600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L 500-1033-Triple-Jack P1
+U 1 1 58917296
+P 5200 3150
+F 0 "P1" H 5200 2550 60  0000 C CNN
+F 1 "500-1033-Triple-Jack" H 5450 2650 60  0000 C CNN
+F 2 "FootPrints:IDC8x2_Vert" H 5200 3150 60  0001 C CNN
+F 3 "" H 5200 3150 60  0000 C CNN
+	1    5200 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 2850 5000 2850
+Wire Wire Line
+	4600 2950 5000 2950
+Wire Wire Line
+	4600 3050 5000 3050
+Wire Wire Line
+	4600 3150 5000 3150
+Wire Wire Line
+	5000 3250 4600 3250
+Wire Wire Line
+	6100 2850 5700 2850
+Wire Wire Line
+	6100 2950 5700 2950
+Wire Wire Line
+	6100 3050 5700 3050
+Wire Wire Line
+	5700 3150 5850 3150
+Wire Wire Line
+	5850 3150 5850 2700
+Wire Wire Line
+	5850 2700 4700 2700
+Wire Wire Line
+	4700 2700 4700 3350
+Wire Wire Line
+	4700 3350 4600 3350
+Wire Wire Line
+	5000 3550 4950 3550
+Wire Wire Line
+	4950 3550 4950 4000
+Wire Wire Line
+	4950 4000 5150 4000
+Wire Wire Line
+	5700 3550 5750 3550
+Wire Wire Line
+	5750 3550 5750 4000
+Wire Wire Line
+	5750 4000 5450 4000
+Wire Wire Line
+	5000 3450 4850 3450
+Wire Wire Line
+	4850 3450 4850 4300
+Wire Wire Line
+	4850 4300 5150 4300
+Wire Wire Line
+	5450 4300 5800 4300
+Wire Wire Line
+	5800 4300 5800 3450
+Wire Wire Line
+	5800 3450 5700 3450
+Wire Wire Line
+	5700 3350 5850 3350
+Wire Wire Line
+	5850 3350 5850 4600
+Wire Wire Line
+	5850 4600 5450 4600
+Wire Wire Line
+	5150 4600 4750 4600
+Wire Wire Line
+	4750 4600 4750 3350
+Wire Wire Line
+	4750 3350 5000 3350
+$EndSCHEMATC

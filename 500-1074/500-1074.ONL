@@ -1,0 +1,222 @@
+(PCB "500-1074"
+ (description
+  (timeStamp "2014 06 14 23 20 47")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Saturday, June 14, 2014")
+  (document "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\SYNTHMOD\\500-1074\\500-1074.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component POT
+   (place R1
+    (property 
+     ("PCB Footprint" "ALPHA POT V")
+     (timestamp 000000BB)
+     ("Source Package" POT)
+     (Value POT))))
+  (component "PHONEJACK SW"
+   (place J1
+    (property 
+     ("PCB Footprint" "PHONE-SC112A")
+     (timestamp 0000003B)
+     ("Source Package" "PHONEJACK SW")
+     (Value "PHONEJACK SW")))
+   (place J2
+    (property 
+     ("PCB Footprint" "PHONE-SC112A")
+     (timestamp 00000055)
+     ("Source Package" "PHONEJACK SW")
+     (Value "PHONEJACK SW")))
+   (place J3
+    (property 
+     ("PCB Footprint" "PHONE-SC112A")
+     (timestamp 00000071)
+     ("Source Package" "PHONEJACK SW")
+     (Value "PHONEJACK SW")))
+   (place J4
+    (property 
+     ("PCB Footprint" "PHONE-SC112A")
+     (timestamp 00000811)
+     ("Source Package" "PHONEJACK SW")
+     (Value "PHONEJACK SW"))))
+  (component "HEADER 8X2"
+   (place JP1
+    (property 
+     ("PCB Footprint" "IDC16-AMP-RA")
+     (timestamp 0000099C)
+     ("Source Package" "HEADER 8X2")
+     (Value "HEADER 8X2"))))
+  (component LED
+   (place D1
+    (property 
+     (timestamp 00000541)
+     ("Source Package" LED)
+     (Value LED)))))
+ (library
+  (image POT
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 A
+    (property 
+     (pinname A)
+     (pintype 4)))
+   (pin 999 B
+    (property 
+     (pinname B)
+     (pintype 4)))
+   (pin 999 WIPER
+    (property 
+     (pinname WIPER)
+     (pintype 4))))
+  (image "HEADER 8X2"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4))))
+  (image "PHONEJACK SW"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4))))
+  (image LED
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 ANODE
+    (property 
+     (pinname ANODE)
+     (pintype 4)))
+   (pin 999 CATHODE
+    (property 
+     (pinname CATHODE)
+     (pintype 4)))))
+ (network
+  (net J3_S
+   (pins
+     JP1-5 J3-2))
+  (net J4_G
+   (pins
+     J4-3 JP1-4))
+  (net J4_T
+   (pins
+     J4-1 JP1-3))
+  (net POTL
+   (pins
+     R1-B JP1-13))
+  (net POTW
+   (pins
+     R1-WIPER JP1-15))
+  (net POTH
+   (pins
+     R1-A JP1-16))
+  (net J1_T
+   (pins
+     JP1-11 J1-1))
+  (net J1_S
+   (pins
+     JP1-14 J1-2))
+  (net J1_G
+   (pins
+     J1-3 JP1-12))
+  (net J2_G
+   (pins
+     J2-3 JP1-7))
+  (net J3_G
+   (pins
+     JP1-6 J3-3))
+  (net J3_T
+   (pins
+     JP1-8 J3-1))
+  (net LED_A
+   (pins
+     JP1-1 D1-ANODE))
+  (net LED_C
+   (pins
+     D1-CATHODE JP1-2))
+  (net J2_T
+   (pins
+     J2-1 JP1-9))
+  (net J2_S
+   (pins
+     JP1-10 J2-2)))
+)

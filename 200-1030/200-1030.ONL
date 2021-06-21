@@ -1,0 +1,191 @@
+(PCB "200-1030"
+ (description
+  (timeStamp "2003 08 16 23 01 35")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Saturday, August 16, 2003")
+  (document "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\SYNTHMOD\\200-1030\\200-1030.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component "HEADER 10X2"
+   (place JP1
+    (property 
+     (timestamp 00000151)
+     ("Source Package" "HEADER 10X2")
+     (Value "HEADER 10X2")))
+   (place JP2
+    (property 
+     (timestamp 000000F3)
+     ("Source Package" "HEADER 10X2")
+     (Value "HEADER 10X2"))))
+  (component "HEADER 4"
+   (place P1
+    (property 
+     (timestamp 00000003)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))
+   (place P2
+    (property 
+     (timestamp 00000021)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))
+   (place P3
+    (property 
+     (timestamp 0000003F)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))
+   (place P4
+    (property 
+     (timestamp 0000005D)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))
+   (place P5
+    (property 
+     (timestamp 0000007B)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))
+   (place P6
+    (property 
+     (timestamp 00000099)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))
+   (place P7
+    (property 
+     (timestamp 000000B7)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))
+   (place P8
+    (property 
+     (timestamp 000000D5)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))))
+ (library
+  (image "HEADER 10X2"
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\OLDLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname 17)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname 18)
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname 19)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname 20)
+     (pintype 4))))
+  (image "HEADER 4"
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\OLDLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))))
+ (network
+  (net N01407
+   (pins
+     JP1-1 JP1-3 JP1-5 JP1-2 JP1-6 JP1-4 JP2-3 JP2-5 JP2-1
+     JP2-6 JP2-4 JP2-2 P1-1 P2-1 P3-1 P4-1 P5-1 P6-1
+     P7-1 P8-1))
+  (net N01244
+   (pins
+     JP1-15 JP1-17 JP1-19 JP1-16 JP1-18 JP1-20 JP2-15 JP2-17 JP2-19
+     JP2-16 JP2-18 JP2-20 P1-4 P2-4 P3-4 P4-4 P5-4 P6-4
+     P7-4 P8-4))
+  (net N00799
+   (pins
+     JP1-8 JP1-10 JP1-12 JP1-14 JP1-7 JP1-9 JP1-11 JP1-13 JP2-7
+     JP2-9 JP2-11 JP2-13 JP2-8 JP2-10 JP2-12 JP2-14 P1-2 P1-3
+     P2-2 P2-3 P3-2 P3-3 P4-2 P4-3 P5-2 P5-3 P6-2
+     P6-3 P7-2 P7-3 P8-2 P8-3)))
+)

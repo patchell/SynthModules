@@ -1,0 +1,60 @@
+(ExpressProject "500-1085"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\500-1085.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (MAX551
+      (FullPartName "MAX551.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (OCTSH
+      (FullPartName "OCTSH.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTHMODULES.OLB")
+      (DeviceIndex "0"))
+    (SMALLAVR
+      (FullPartName "SMALLAVR.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\ORCADLIBS\SYNTHMODULES.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "D:\SynthMod\500-1085\500-1085.dsn")
+      (Path "Design Resources" "D:\SynthMod\500-1085\500-1085.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "D:\SynthMod\500-1085\500-1085.dsn" "SMALLAVR_I")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 200 0 628"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 52 1656 52 680")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\SYNTHMOD\500-1085\500-1085.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 78 1682 78 706")
+        (Scroll "0 0")
+        (Zoom "100"))
+      (Path "D:\SYNTHMOD\500-1085\500-1085.DSN")
+      (Schematic "SMALLAVR_I")
+      (Page "PAGE1"))))

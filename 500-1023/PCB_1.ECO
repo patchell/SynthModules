@@ -1,0 +1,387 @@
+*PROTEL-ECO*
+
+*REMARK* 24-May-2014 18:40:09
+
+*REMARK* 24-May-2014 18:40:09
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 24-May-2014 18:41:39
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+J1 PHONE-N114A
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+J2 PHONE-N114A
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+J3 PHONE-N114A
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+Q1 TO92
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+Q2 TO92
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+Q3 TO92
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+Q4 TO92
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R1 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R10 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R11 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R12 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R13 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R15 ALPHA POT V
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R16 ALPHA POT V
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R2 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R3 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R4 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R5 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R6 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R7 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R8 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+R9 AXIAL0.4
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+U1 DIP8
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+U2 DIP16
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+U3 DIP8
+
+*REMARK* 24-May-2014 18:43:34
+*PART*
+U4 DIP8
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+J1 PHONE-N114A
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+J1 PHONE-N114A
+
+*REMARK* 24-May-2014 18:49:32
+*PART*
+J1 PHONE-SC112A
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+J2 PHONE-N114A
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+J2 PHONE-N114A
+
+*REMARK* 24-May-2014 18:49:32
+*PART*
+J2 PHONE-SC112A
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+J3 PHONE-N114A
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+J3 PHONE-N114A
+
+*REMARK* 24-May-2014 18:49:32
+*PART*
+J3 PHONE-SC112A
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 18:49:32
+*PART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 18:49:32
+*DELPART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 18:49:32
+*PART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 18:51:11
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 24-May-2014 18:54:36
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 24-May-2014 19:00:21
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 24-May-2014 19:00:31
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+C3 AXIALCAP0.3
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+C4 AXIALCAP0.3
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+C5 AXIALCAP0.3
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+C6 AXIALCAP0.3
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+C7 AXIALCAP0.3
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+C8 AXIALCAP0.3
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+JP1 MTA-4X156-RA
+
+*REMARK* 24-May-2014 19:18:04
+*DELPART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 19:18:04
+*DELPART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 19:18:04
+*DELPART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 19:18:04
+*DELPART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 19:18:04
+*PART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 19:18:45
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 24-May-2014 20:07:45
+*PART*
+D1 DIODE0.4
+
+*REMARK* 24-May-2014 20:07:45
+*PART*
+D2 DIODE0.4
+
+*REMARK* 24-May-2014 20:07:45
+*DELPART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 20:07:45
+*DELPART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 20:07:45
+*PART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 20:07:45
+*DELPART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 20:07:45
+*DELPART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 20:07:45
+*PART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 20:14:24
+*PART*
+C1 CAP-MYLAR0.2
+
+*REMARK* 24-May-2014 20:14:24
+*PART*
+C2 RAD0.1
+
+*REMARK* 24-May-2014 20:14:24
+*DELPART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 20:14:24
+*DELPART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 20:14:24
+*PART*
+R14 AXIAL0.4
+
+*REMARK* 24-May-2014 20:14:24
+*DELPART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 20:14:24
+*DELPART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 20:14:24
+*PART*
+R17 AXIAL0.4
+
+*REMARK* 24-May-2014 20:14:24
+*PART*
+R18 AXIAL0.4
+
+*REMARK* 24-May-2014 21:29:15
+*PART*
+C9 RAD0.2
+
+*REMARK* 24-May-2014 21:29:51
+*DELPIN*
+C9.2 N00484
+
+*REMARK* 24-May-2014 21:29:51
+*DELPIN*
+C9.1 N00568
+
+*REMARK* 24-May-2014 21:29:51
+*DELPART*
+C9 RAD0.2
+
+*REMARK* 24-May-2014 21:33:07
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 24-May-2014 22:18:25
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 25-May-2014 15:58:46
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 25-May-2014 16:11:23
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 25-May-2014 16:19:05
+*DELPIN*
+R8.1 DELTA
+
+*REMARK* 25-May-2014 16:19:05
+*DELPIN*
+R8.1 DELTA
+
+*REMARK* 25-May-2014 16:25:23
+*DELPIN*
+Q2.COLL N00091
+
+*REMARK* 25-May-2014 16:46:01
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 25-May-2014 16:49:54
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 25-May-2014 16:53:15
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................
+
+*REMARK* 25-May-2014 16:56:05
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 26-May-2014 11:41:54
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+*REMARK* .......................................................................

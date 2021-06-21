@@ -1,0 +1,629 @@
+Importer Log Report
+Project : 100-1069.PRJPCB
+
+Section : Document - C:\Documents and Settings\Jim Patchell\My Documents\projects\SynthMod\100-1069\100-1069.DSN
+    Section : Load Messages
+    EndSection
+
+    Section : Importing Library - 100-1069_Library.SchLib
+    EndSection
+
+    Section : Importing Sheet - PAGE1.SchDoc
+        Warning : Power Port of type AGND at (3.7in,2.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.7in,2.1in) was replaced with Arrow style port
+        Warning : Junction at (3.7in,2.9in) has been added.
+        Warning : Junction at (3.7in,5.2in) has been added.
+        Warning : Junction at (3.7in,4.4in) has been added.
+        Warning : Junction at (3.7in,2.5in) has been added.
+        Warning : Junction at (3.7in,4in) has been added.
+        Warning : Junction at (5.7in,2.7in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE11.SchDoc
+        Warning : Power Port of type AGND at (3.8in,1.1in) was replaced with Arrow style port
+        Warning : Junction at (4.6in,4.3in) has been added.
+        Warning : Junction at (5.4in,4.3in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE12.SchDoc
+        Warning : Power Port of type AGND at (4.3in,3.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (1.3in,4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.3in,2.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (1.6in,0.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.7in,2.5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9in,2.5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9in,1.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.7in,1.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.4in,0.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.1in,0.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (3.7in,3.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.5in,3.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.8in,3.8in) was replaced with Arrow style port
+        Warning : Junction at (7.4in,4.1in) has been added.
+        Warning : Junction at (4.3in,4.2in) has been added.
+        Warning : Junction at (5.5in,4.6in) has been added.
+        Warning : Junction at (5.5in,4.1in) has been added.
+        Warning : Junction at (8.8in,4.6in) has been added.
+        Warning : Junction at (1.3in,5.3in) has been added.
+        Warning : Junction at (1.3in,4.8in) has been added.
+        Warning : Junction at (8.8in,4in) has been added.
+        Warning : Junction at (1.3in,4.3in) has been added.
+        Warning : Junction at (2.5in,4.2in) has been added.
+        Warning : Junction at (3.7in,3.1in) has been added.
+        Warning : Junction at (6.3in,3.1in) has been added.
+        Warning : Junction at (1.6in,1.5in) has been added.
+        Warning : Junction at (1.6in,1.1in) has been added.
+        Warning : Junction at (1.6in,1.6in) has been added.
+        Warning : Junction at (1.6in,2.1in) has been added.
+        Warning : Junction at (3.1in,1.5in) has been added.
+        Warning : Junction at (2.5in,4.8in) has been added.
+        Warning : Junction at (9in,3in) has been added.
+        Warning : Junction at (7.7in,2.2in) has been added.
+        Warning : Junction at (9in,2.2in) has been added.
+        Warning : Junction at (4.1in,1.3in) has been added.
+        Warning : Junction at (7.7in,3in) has been added.
+        Warning : Junction at (5.4in,1.3in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE13.SchDoc
+        Warning : Power Port of type AGND at (4.1in,7.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.2in,5.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.1in,2.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (1.1in,1.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (3.5in,1.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9.3in,4.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9.4in,2.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.1in,2.5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.2in,4.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.6in,2.5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.4in,2.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.5in,1.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.7in,1.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.2in,1.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.9in,0.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.1in,1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.6in,1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.9in,4.3in) was replaced with Arrow style port
+        Warning : Junction at (5.5in,6.8in) has been added.
+        Warning : Junction at (5.5in,7.5in) has been added.
+        Warning : Junction at (4.8in,6.2in) has been added.
+        Warning : Junction at (4.8in,5.2in) has been added.
+        Warning : Junction at (2.4in,7.7in) has been added.
+        Warning : Junction at (2.4in,6.8in) has been added.
+        Warning : Junction at (3.6in,7.7in) has been added.
+        Warning : Junction at (4.1in,7.7in) has been added.
+        Warning : Junction at (5.6in,4.9in) has been added.
+        Warning : Junction at (5.6in,3.9in) has been added.
+        Warning : Junction at (2.4in,4.2in) has been added.
+        Warning : Junction at (2.4in,3.9in) has been added.
+        Warning : Junction at (5.7in,2in) has been added.
+        Warning : Junction at (4.8in,4.3in) has been added.
+        Warning : Junction at (5.8in,1.9in) has been added.
+        Warning : Junction at (4.8in,3.3in) has been added.
+        Warning : Junction at (5.9in,1.8in) has been added.
+        Warning : Junction at (4.8in,2.2in) has been added.
+        Warning : Junction at (2.7in,7.1in) has been added.
+        Warning : Junction at (2.8in,6.2in) has been added.
+        Warning : Junction at (2.9in,5.2in) has been added.
+        Warning : Junction at (5.9in,4.1in) has been added.
+        Warning : Junction at (8.7in,5.7in) has been added.
+        Warning : Junction at (9.3in,5in) has been added.
+        Warning : Junction at (9.4in,3.3in) has been added.
+        Warning : Junction at (8.8in,3.8in) has been added.
+        Warning : Junction at (7.7in,7.4in) has been added.
+        Warning : Junction at (7.6in,6.3in) has been added.
+        Warning : Junction at (6.9in,4.6in) has been added.
+        Warning : Junction at (8.2in,4.6in) has been added.
+        Warning : Junction at (6.6in,2.8in) has been added.
+        Warning : Junction at (8.1in,2.8in) has been added.
+        Warning : Junction at (8.2in,2.1in) has been added.
+        Warning : Junction at (6.7in,2.1in) has been added.
+        Warning : Junction at (4.1in,1.3in) has been added.
+        Warning : Junction at (5.6in,1.3in) has been added.
+        Warning : Junction at (4.8in,7.1in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE14.SchDoc
+        Warning : Power Port of type AGND at (3.9in,3.3in) was replaced with Arrow style port
+        Warning : Junction at (3.9in,3.7in) has been added.
+        Warning : Junction at (3.9in,4.2in) has been added.
+        Warning : Junction at (3.9in,5.4in) has been added.
+        Warning : Junction at (3.9in,4.3in) has been added.
+        Warning : Junction at (3.9in,4.8in) has been added.
+        Warning : Junction at (5.6in,3.6in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE15.SchDoc
+        Warning : Power Port of type AGND at (6.9in,6.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (11.1in,8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (10in,6.5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.5in,8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9.4in,9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9in,5.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (10.6in,5.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (10.7in,3.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9.1in,3.7in) was replaced with Arrow style port
+        Warning : Junction at (8.4in,8.5in) has been added.
+        Warning : Junction at (9.6in,8.5in) has been added.
+        Warning : Junction at (8.4in,9.8in) has been added.
+        Warning : Junction at (8.7in,8.5in) has been added.
+        Warning : Junction at (6.9in,9.8in) has been added.
+        Warning : Junction at (8.7in,7.5in) has been added.
+        Warning : Junction at (6.9in,8.5in) has been added.
+        Warning : Junction at (6.9in,7.5in) has been added.
+        Warning : Junction at (10in,7.7in) has been added.
+        Warning : Junction at (12.6in,8.4in) has been added.
+        Warning : Junction at (11.1in,8.5in) has been added.
+        Warning : Junction at (4.5in,9.8in) has been added.
+        Warning : Junction at (6in,9.8in) has been added.
+        Warning : Junction at (12.6in,9.4in) has been added.
+        Warning : Junction at (6.6in,3.7in) has been added.
+        Warning : Junction at (4.5in,9.2in) has been added.
+        Warning : Junction at (9in,9.1in) has been added.
+        Warning : Junction at (8in,7.7in) has been added.
+        Warning : Junction at (9in,5.5in) has been added.
+        Warning : Junction at (10.7in,4.1in) has been added.
+        Warning : Junction at (9.1in,4.1in) has been added.
+        Warning : Junction at (10.6in,5.5in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE16.SchDoc
+        Warning : Power Port of type AGND at (2.2in,6.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (0.9in,5.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.5in,5.5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.4in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.4in,2.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.4in,1.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2.1in,0.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (1.4in,0.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2.8in,0.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7in,2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.3in,2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.2in,5.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.5in,5.2in) was replaced with Arrow style port
+        Warning : Junction at (3.1in,4.9in) has been added.
+        Warning : Junction at (3.1in,3.3in) has been added.
+        Warning : Junction at (4.5in,6.2in) has been added.
+        Warning : Junction at (4.4in,4.8in) has been added.
+        Warning : Junction at (4.4in,3.3in) has been added.
+        Warning : Junction at (4.4in,1.7in) has been added.
+        Warning : Junction at (0.9in,5.7in) has been added.
+        Warning : Junction at (6.4in,3.2in) has been added.
+        Warning : Junction at (6.3in,4.7in) has been added.
+        Warning : Junction at (6.4in,6.1in) has been added.
+        Warning : Junction at (6.4in,1.6in) has been added.
+        Warning : Junction at (3.1in,4.8in) has been added.
+        Warning : Junction at (1.4in,1in) has been added.
+        Warning : Junction at (2.8in,1in) has been added.
+        Warning : Junction at (7in,2.4in) has been added.
+        Warning : Junction at (8.3in,2.4in) has been added.
+        Warning : Junction at (7.2in,5.6in) has been added.
+        Warning : Junction at (8.5in,5.6in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE17.SchDoc
+        Warning : Power Port of type AGND at (5.7in,1.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.3in,1.9in) was replaced with Arrow style port
+        Warning : Junction at (5.4in,6.6in) has been added.
+        Warning : Junction at (5.8in,6in) has been added.
+        Warning : Junction at (5.8in,5.3in) has been added.
+        Warning : Junction at (5.8in,4.3in) has been added.
+        Warning : Junction at (7.3in,2.3in) has been added.
+        Warning : Junction at (5.7in,2.3in) has been added.
+        Warning : Junction at (7.3in,4.3in) has been added.
+        Warning : Junction at (7.3in,6.5in) has been added.
+        Warning : Junction at (5.4in,3.7in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE18.SchDoc
+        Warning : Power Port of type DGND at (6.1in,5.9in) was replaced with Arrow style port
+        Warning : Junction at (7.6in,5in) has been added.
+        Warning : Junction at (5.5in,4.8in) has been added.
+        Warning : Junction at (5.5in,5.4in) has been added.
+        Warning : Junction at (3in,4in) has been added.
+        Warning : Junction at (3.1in,3.1in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE19.SchDoc
+        Warning : Junction at (4in,4.6in) has been added.
+        Warning : Junction at (5.2in,4.6in) has been added.
+        Warning : Junction at (6.9in,4.5in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE110.SchDoc
+        Warning : Power Port of type AGND at (5.3in,6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.5in,4.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.3in,3.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.6in,3.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.6in,1.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.1in,1.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.1in,3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.7in,3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7in,4.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.9in,5.9in) was replaced with Arrow style port
+        Warning : Junction at (3.7in,6.7in) has been added.
+        Warning : Junction at (3.2in,6.3in) has been added.
+        Warning : Junction at (4.5in,6.7in) has been added.
+        Warning : Junction at (4.9in,6.7in) has been added.
+        Warning : Junction at (4.5in,6.3in) has been added.
+        Warning : Junction at (4.5in,5.3in) has been added.
+        Warning : Junction at (3.5in,2.8in) has been added.
+        Warning : Junction at (3in,3.3in) has been added.
+        Warning : Junction at (4.3in,2.8in) has been added.
+        Warning : Junction at (4.9in,2.8in) has been added.
+        Warning : Junction at (5.1in,6.7in) has been added.
+        Warning : Junction at (4.9in,4.3in) has been added.
+        Warning : Junction at (6.7in,3.5in) has been added.
+        Warning : Junction at (8.1in,2.4in) has been added.
+        Warning : Junction at (6.6in,2.4in) has been added.
+        Warning : Junction at (8.1in,3.5in) has been added.
+        Warning : Junction at (8.5in,6.4in) has been added.
+        Warning : Junction at (8.6in,4.8in) has been added.
+        Warning : Junction at (7in,4.9in) has been added.
+        Warning : Junction at (6.9in,6.5in) has been added.
+        Warning : Junction at (5.3in,6.7in) has been added.
+        Warning : Junction at (5.2in,2.8in) has been added.
+        Warning : Junction at (5.4in,2.8in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE111.SchDoc
+        Warning : Power Port of type AGND at (4.2in,2.2in) was replaced with Arrow style port
+        Warning : Junction at (5.8in,3.6in) has been added.
+        Warning : Junction at (5.8in,3.6in) has been added.
+        Warning : Junction at (6.1in,4.4in) has been added.
+        Warning : Junction at (4.2in,4.4in) has been added.
+        Warning : Junction at (5.4in,4.4in) has been added.
+        Warning : Junction at (5.8in,5.4in) has been added.
+        Warning : Junction at (5in,4.9in) has been added.
+        Warning : Junction at (4.6in,5.1in) has been added.
+        Warning : Junction at (4.2in,3in) has been added.
+        Warning : Junction at (5.6in,2.4in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE112.SchDoc
+        Warning : Junction at (6.2in,5.3in) has been added.
+        Warning : Junction at (3.5in,6.1in) has been added.
+        Warning : Junction at (5.2in,5.3in) has been added.
+        Warning : Junction at (6.7in,5.8in) has been added.
+        Warning : Junction at (7.7in,6.1in) has been added.
+        Warning : Junction at (7.7in,5.2in) has been added.
+        Warning : Junction at (5.3in,5.3in) has been added.
+        Warning : Junction at (6.7in,4.5in) has been added.
+        Warning : Junction at (6.8in,5.8in) has been added.
+        Warning : Junction at (5.2in,6.1in) has been added.
+        Warning : Junction at (3.5in,5.4in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE113.SchDoc
+        Warning : Power Port of type AGND at (6.5in,9.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (1in,7.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.8in,8.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9.1in,6.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (11in,6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (10.6in,9.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (12.9in,7.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (0.2in,6.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (0.8in,2.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (0.3in,0.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.1in,0.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9.7in,1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.2in,5.5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (12.9in,8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (12.9in,10.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (12.9in,8.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (14.3in,8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (14.3in,7.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (10.2in,4.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.9in,4.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (12.9in,9.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (14.3in,8.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (14.3in,9.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (14.3in,10.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (13.7in,3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (12.3in,3.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (12.3in,2.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (12.3in,4.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.6in,6.9in) was replaced with Arrow style port
+        Warning : Auto-Junction at (0in,0in) has been added. Please check if this is desirable.
+        Warning : Junction at (7.5in,6.5in) has been added.
+        Warning : Junction at (3.7in,9.7in) has been added.
+        Warning : Junction at (5.2in,10.4in) has been added.
+        Warning : Junction at (5.4in,6in) has been added.
+        Warning : Junction at (2.1in,8.3in) has been added.
+        Warning : Junction at (5.3in,6.7in) has been added.
+        Warning : Junction at (2.2in,7.6in) has been added.
+        Warning : Junction at (3.6in,7.8in) has been added.
+        Warning : Junction at (3.5in,8.3in) has been added.
+        Warning : Junction at (3.4in,9.1in) has been added.
+        Warning : Junction at (3.8in,9.5in) has been added.
+        Warning : Junction at (8.2in,6.1in) has been added.
+        Warning : Junction at (9.1in,6.5in) has been added.
+        Warning : Junction at (10.4in,6.4in) has been added.
+        Warning : Junction at (5.4in,5.7in) has been added.
+        Warning : Junction at (8.9in,5.2in) has been added.
+        Warning : Junction at (10.2in,5.2in) has been added.
+        Warning : Junction at (14.3in,10.4in) has been added.
+        Warning : Junction at (12.9in,10.4in) has been added.
+        Warning : Junction at (14.3in,9.7in) has been added.
+        Warning : Junction at (12.9in,9.7in) has been added.
+        Warning : Junction at (14.3in,9in) has been added.
+        Warning : Junction at (12.9in,9in) has been added.
+        Warning : Junction at (14.3in,8.3in) has been added.
+        Warning : Junction at (12.9in,8.3in) has been added.
+        Warning : Junction at (12.9in,7.6in) has been added.
+        Warning : Junction at (14.3in,7.6in) has been added.
+        Warning : Junction at (0.2in,7.2in) has been added.
+        Warning : Junction at (10.6in,10.5in) has been added.
+        Warning : Junction at (10.6in,10.3in) has been added.
+        Warning : Junction at (12.7in,7.2in) has been added.
+        Warning : Junction at (13.8in,4.3in) has been added.
+        Warning : Junction at (5.5in,8.3in) has been added.
+        Warning : Junction at (0.5in,3.3in) has been added.
+        Warning : Junction at (5.1in,0.9in) has been added.
+        Warning : Junction at (9.7in,3.1in) has been added.
+        Warning : Junction at (9.7in,1.6in) has been added.
+        Warning : Junction at (9.7in,1.5in) has been added.
+        Warning : Junction at (9.7in,1.3in) has been added.
+        Warning : Junction at (0.2in,7in) has been added.
+        Warning : Junction at (0.2in,6.8in) has been added.
+        Warning : Junction at (6.5in,9.5in) has been added.
+        Warning : Junction at (13.7in,3.3in) has been added.
+        Warning : Junction at (5.2in,10.3in) has been added.
+        Warning : Junction at (5.2in,10.6in) has been added.
+        Warning : Junction at (5.2in,10.5in) has been added.
+        Warning : Junction at (1in,8in) has been added.
+        Warning : Junction at (10.6in,10.4in) has been added.
+        Warning : Junction at (9.7in,3.3in) has been added.
+        Warning : Junction at (9.7in,1.7in) has been added.
+        Warning : Junction at (12.5in,7.2in) has been added.
+        Warning : Junction at (0.5in,2.2in) has been added.
+        Warning : Junction at (5.5in,7.9in) has been added.
+        Warning : Junction at (6.5in,9.3in) has been added.
+        Warning : Junction at (6.5in,9.4in) has been added.
+        Warning : Junction at (10.6in,10.2in) has been added.
+        Warning : Junction at (9.7in,3.4in) has been added.
+        Warning : Junction at (9.7in,1.4in) has been added.
+        Warning : Junction at (12.9in,7.2in) has been added.
+        Warning : Junction at (6.5in,9.7in) has been added.
+        Warning : Junction at (9.7in,3.2in) has been added.
+        Warning : Junction at (10.6in,10.1in) has been added.
+        Warning : Junction at (5.5in,8.1in) has been added.
+        Warning : Junction at (0.5in,3.5in) has been added.
+        Warning : Junction at (6.5in,9.6in) has been added.
+        Warning : Junction at (8.2in,6in) has been added.
+    EndSection
+
+    Section : Importing Sheet - LFO.SchDoc
+        Warning : Power Port of type AGND at (5.6in,3.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.9in,3.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.8in,3.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (3in,5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.6in,3.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2in,5.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.8in,2.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.3in,2.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.3in,2.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2in,3.4in) was replaced with Arrow style port
+        Warning : Junction at (7.6in,5.4in) has been added.
+        Warning : Junction at (7.6in,5.2in) has been added.
+        Warning : Junction at (4.4in,6in) has been added.
+        Warning : Junction at (4.4in,5.3in) has been added.
+        Warning : Junction at (2in,4.2in) has been added.
+        Warning : Junction at (2in,4.4in) has been added.
+        Warning : Junction at (2in,3.9in) has been added.
+        Warning : Junction at (3in,5.4in) has been added.
+        Warning : Junction at (6.9in,3.9in) has been added.
+        Warning : Junction at (5.6in,3.9in) has been added.
+        Warning : Junction at (5.8in,2.7in) has been added.
+        Warning : Junction at (7.3in,2.7in) has been added.
+        Warning : Junction at (3.2in,3.6in) has been added.
+        Warning : Junction at (4.3in,3.6in) has been added.
+        Warning : Junction at (4.8in,4.6in) has been added.
+        Warning : Junction at (6.4in,5.2in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE114.SchDoc
+        Warning : Power Port of type AGND at (5.1in,3.5in) was replaced with Arrow style port
+    EndSection
+
+    Section : Importing Sheet - GLIDE.SchDoc
+        Warning : Power Port of type AGND at (2.6in,4.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.4in,2.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.5in,4.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.7in,5.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.1in,3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2.2in,2.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (1.3in,1.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2.8in,1.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.3in,1.8in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.7in,1.8in) was replaced with Arrow style port
+        Warning : Junction at (6in,4.5in) has been added.
+        Warning : Junction at (7.2in,5.2in) has been added.
+        Warning : Junction at (8.7in,5.8in) has been added.
+        Warning : Junction at (8.7in,5.1in) has been added.
+        Warning : Junction at (6in,5.5in) has been added.
+        Warning : Junction at (6.9in,5.2in) has been added.
+        Warning : Junction at (5.1in,4.5in) has been added.
+        Warning : Junction at (5.1in,5.5in) has been added.
+        Warning : Junction at (5.4in,3.3in) has been added.
+        Warning : Junction at (4.4in,4in) has been added.
+        Warning : Junction at (5.6in,5in) has been added.
+        Warning : Junction at (4in,5.5in) has been added.
+        Warning : Junction at (1.9in,3.9in) has been added.
+        Warning : Junction at (1.9in,3.3in) has been added.
+        Warning : Junction at (3.4in,3.7in) has been added.
+        Warning : Junction at (4.1in,3.7in) has been added.
+        Warning : Junction at (2.6in,5.6in) has been added.
+        Warning : Junction at (2.6in,5.4in) has been added.
+        Warning : Junction at (1.3in,2.2in) has been added.
+        Warning : Junction at (4.3in,2.2in) has been added.
+        Warning : Junction at (5.7in,2.2in) has been added.
+        Warning : Junction at (2.8in,2.2in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE115.SchDoc
+        Warning : Power Port of type AGND at (0.5in,6.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (1.1in,6.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.6in,1.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (9.1in,1.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.1in,2.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2in,2.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2.4in,2.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (3.4in,1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (3.4in,5.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.7in,5.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.6in,3.7in) was replaced with Arrow style port
+        Warning : Junction at (0.5in,6.7in) has been added.
+        Warning : Junction at (1.1in,6.7in) has been added.
+        Warning : Junction at (6.1in,3.3in) has been added.
+        Warning : Junction at (6.1in,3.1in) has been added.
+        Warning : Junction at (6.1in,3.9in) has been added.
+        Warning : Junction at (7.7in,3.9in) has been added.
+        Warning : Junction at (9.1in,1.9in) has been added.
+        Warning : Junction at (7.6in,1.9in) has been added.
+        Warning : Junction at (2.4in,3.1in) has been added.
+        Warning : Junction at (2in,3.3in) has been added.
+        Warning : Junction at (2.4in,3.3in) has been added.
+        Warning : Junction at (3.9in,3.2in) has been added.
+        Warning : Junction at (3.4in,1.2in) has been added.
+        Warning : Junction at (3.4in,2.2in) has been added.
+        Warning : Junction at (3.4in,2.1in) has been added.
+        Warning : Junction at (1.1in,3.1in) has been added.
+        Warning : Junction at (1.1in,3.3in) has been added.
+        Warning : Junction at (3.1in,6in) has been added.
+        Warning : Junction at (3.3in,5.7in) has been added.
+        Warning : Junction at (4.7in,5.3in) has been added.
+        Warning : Junction at (3.3in,5.9in) has been added.
+        Warning : Junction at (4.8in,5.7in) has been added.
+        Warning : Junction at (3.4in,5.3in) has been added.
+        Warning : Junction at (5.2in,4.1in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE116.SchDoc
+        Warning : Power Port of type AGND at (3.5in,4.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2.3in,5in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.1in,5.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.5in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.2in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5.6in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.2in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.9in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (7.4in,4.1in) was replaced with Arrow style port
+        Warning : Junction at (6.2in,5.5in) has been added.
+        Warning : Junction at (3.5in,4.4in) has been added.
+        Warning : Junction at (3.5in,5.9in) has been added.
+        Warning : Junction at (5.2in,5.5in) has been added.
+        Warning : Junction at (4.5in,5in) has been added.
+        Warning : Junction at (4.5in,5.1in) has been added.
+        Warning : Junction at (6.2in,6.6in) has been added.
+        Warning : Junction at (6.9in,6.6in) has been added.
+        Warning : Junction at (6.9in,5in) has been added.
+        Warning : Junction at (5.2in,4.7in) has been added.
+        Warning : Junction at (4.1in,6.6in) has been added.
+        Warning : Junction at (5.2in,6.6in) has been added.
+        Warning : Junction at (4.5in,6.6in) has been added.
+        Warning : Junction at (3.5in,5in) has been added.
+        Warning : Junction at (6.9in,5.8in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE117.SchDoc
+        Warning : Power Port of type AGND at (5.3in,3.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.9in,5.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (3.1in,5.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2.8in,2.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (3.6in,1.7in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (5in,1.7in) was replaced with Arrow style port
+        Warning : Junction at (2.7in,4.2in) has been added.
+        Warning : Junction at (4.9in,5.6in) has been added.
+        Warning : Junction at (5.3in,3.2in) has been added.
+        Warning : Junction at (2.7in,3.8in) has been added.
+        Warning : Junction at (6.3in,5.7in) has been added.
+        Warning : Junction at (3.5in,6in) has been added.
+        Warning : Junction at (2.7in,4.5in) has been added.
+        Warning : Junction at (2.6in,2.2in) has been added.
+        Warning : Junction at (2.6in,2.6in) has been added.
+        Warning : Junction at (2.8in,2.6in) has been added.
+        Warning : Junction at (4.5in,2.9in) has been added.
+        Warning : Junction at (5in,3.8in) has been added.
+        Warning : Junction at (4.2in,3.8in) has been added.
+        Warning : Junction at (3.6in,2in) has been added.
+        Warning : Junction at (5in,2in) has been added.
+        Warning : Junction at (2.6in,4.8in) has been added.
+        Warning : Junction at (1.2in,6.3in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE118.SchDoc
+        Warning : Power Port of type AGND at (3.4in,5.7in) was replaced with Arrow style port
+        Warning : Junction at (5.4in,3.9in) has been added.
+        Warning : Junction at (3.7in,3.3in) has been added.
+        Warning : Junction at (4.9in,4.7in) has been added.
+        Warning : Junction at (4.9in,2.9in) has been added.
+        Warning : Junction at (4.7in,5.9in) has been added.
+        Warning : Junction at (3.3in,6in) has been added.
+        Warning : Junction at (3in,3.9in) has been added.
+        Warning : Junction at (4.3in,3.9in) has been added.
+        Warning : Junction at (5.9in,3.3in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE119.SchDoc
+        Warning : Power Port of type AGND at (3.5in,6.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.8in,6.2in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (3.8in,4.9in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.1in,2.1in) was replaced with Arrow style port
+        Warning : Junction at (2.8in,5.8in) has been added.
+        Warning : Junction at (3.8in,5.8in) has been added.
+        Warning : Junction at (3.8in,5.4in) has been added.
+        Warning : Junction at (5.2in,5.3in) has been added.
+        Warning : Junction at (5.2in,5.8in) has been added.
+        Warning : Junction at (6.1in,3.5in) has been added.
+        Warning : Junction at (3.5in,6.6in) has been added.
+        Warning : Junction at (4.8in,6.6in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE120.SchDoc
+        Warning : Power Port of type AGND at (5.9in,1.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.9in,1.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.9in,1.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.6in,1.4in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.1in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.3in,2.9in) was replaced with Arrow style port
+        Warning : Junction at (7.3in,2.1in) has been added.
+        Warning : Junction at (7.3in,2in) has been added.
+        Warning : Junction at (8.9in,1.9in) has been added.
+        Warning : Junction at (6.8in,6.7in) has been added.
+        Warning : Junction at (6.9in,2.1in) has been added.
+        Warning : Junction at (7.1in,2.1in) has been added.
+        Warning : Junction at (6.6in,2.1in) has been added.
+        Warning : Junction at (6.8in,2.1in) has been added.
+        Warning : Junction at (7in,4.1in) has been added.
+        Warning : Junction at (7in,4.2in) has been added.
+        Warning : Junction at (7in,4.3in) has been added.
+    EndSection
+
+    Section : Importing Sheet - PAGE121.SchDoc
+        Warning : Power Port of type AGND at (1.3in,6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (8.1in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (0.9in,0.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (2.2in,0.6in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (4.3in,3.3in) was replaced with Arrow style port
+        Warning : Power Port of type AGND at (6.3in,3.6in) was replaced with Arrow style port
+        Warning : Junction at (3.8in,4.4in) has been added.
+        Warning : Junction at (2.3in,4.4in) has been added.
+        Warning : Junction at (3in,3.3in) has been added.
+        Warning : Junction at (3.2in,5.6in) has been added.
+        Warning : Junction at (1.9in,3.7in) has been added.
+        Warning : Junction at (6.7in,3.9in) has been added.
+        Warning : Junction at (6.3in,3.7in) has been added.
+        Warning : Junction at (7.5in,5.3in) has been added.
+        Warning : Junction at (3.2in,6.3in) has been added.
+        Warning : Junction at (1.1in,6.4in) has been added.
+        Warning : Junction at (1.1in,4.4in) has been added.
+        Warning : Junction at (7in,3.9in) has been added.
+        Warning : Junction at (9.3in,4.5in) has been added.
+        Warning : Junction at (7.5in,4.6in) has been added.
+        Warning : Junction at (2.2in,1.1in) has been added.
+        Warning : Junction at (0.9in,1.1in) has been added.
+        Warning : Junction at (4.3in,3.7in) has been added.
+        Warning : Junction at (4.7in,4.4in) has been added.
+    EndSection
+EndSection

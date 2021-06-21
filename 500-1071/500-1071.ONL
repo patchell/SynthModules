@@ -1,0 +1,323 @@
+(PCB "500-1071"
+ (description
+  (timeStamp "2014 07 20 15 01 55")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "QUAD POT")
+  (date "Sunday, July 20, 2014")
+  (document "500-1071")
+  (revision "A")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component POT
+   (place R1
+    (property 
+     (timestamp 00000003)
+     ("Source Package" POT)
+     (Value POT)))
+   (place R2
+    (property 
+     (timestamp 00000033)
+     ("Source Package" POT)
+     (Value POT)))
+   (place R3
+    (property 
+     (timestamp 0000004F)
+     ("Source Package" POT)
+     (Value POT)))
+   (place R4
+    (property 
+     (timestamp 0000006B)
+     ("Source Package" POT)
+     (Value POT))))
+  (component "HEADER 8X2"
+   (place JP1
+    (property 
+     (timestamp 00000071)
+     ("Source Package" "HEADER 8X2")
+     (Value "HEADER 8X2"))))
+  (component LED
+   (place D1
+    (property 
+     (timestamp 00000713)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D2
+    (property 
+     (timestamp 00000729)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D3
+    (property 
+     (timestamp 0000073F)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D4
+    (property 
+     (timestamp 00000755)
+     ("Source Package" LED)
+     (Value LED))))
+  (component R
+   (place R5
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 0000076B)
+     ("Source Package" R)
+     (Value R)))
+   (place R6
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000781)
+     ("Source Package" R)
+     (Value R)))
+   (place R7
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000797)
+     ("Source Package" R)
+     (Value R)))
+   (place R8
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 000007AD)
+     ("Source Package" R)
+     (Value R))))
+  (component "HEADER 5X2"
+   (place JP2
+    (property 
+     ("PCB Footprint" "IDC10-AMP-RA")
+     (timestamp 000006DD)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))))
+ (library
+  (image POT
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 A
+    (property 
+     (pinname A)
+     (pintype 4)))
+   (pin 999 B
+    (property 
+     (pinname B)
+     (pintype 4)))
+   (pin 999 WIPER
+    (property 
+     (pinname WIPER)
+     (pintype 4))))
+  (image R
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "HEADER 8X2"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4))))
+  (image "HEADER 5X2"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4))))
+  (image LED
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 ANODE
+    (property 
+     (pinname ANODE)
+     (pintype 4)))
+   (pin 999 CATHODE
+    (property 
+     (pinname CATHODE)
+     (pintype 4)))))
+ (network
+  (net N01987
+   (pins
+     D4-CATHODE R8-1))
+  (net N02014
+   (pins
+     D3-CATHODE R7-1))
+  (net N02041
+   (pins
+     D2-CATHODE R6-1))
+  (net N02068
+   (pins
+     D1-CATHODE R5-1))
+  (net N02112
+   (pins
+     D1-ANODE JP2-7))
+  (net N02162
+   (pins
+     D2-ANODE JP2-5))
+  (net N02212
+   (pins
+     JP2-3 D3-ANODE))
+  (net N02262
+   (pins
+     D4-ANODE JP2-1))
+  (net N02312
+   (pins
+     R5-2 JP2-8))
+  (net N02362
+   (pins
+     R6-2 JP2-6))
+  (net N02412
+   (pins
+     R7-2 JP2-4))
+  (net N02477
+   (pins
+     R8-2 JP2-2))
+  (net N01060
+   (pins
+     JP1-3 JP1-7 JP1-11 JP1-15))
+  (net WIPE1
+   (pins
+     R1-WIPER JP1-4))
+  (net WIPE2
+   (pins
+     JP1-8 R2-WIPER))
+  (net WIPE3
+   (pins
+     JP1-12 R3-WIPER))
+  (net WIPE4
+   (pins
+     JP1-16 R4-WIPER))
+  (net HIGH1
+   (pins
+     JP1-2 R1-A))
+  (net HIGH4
+   (pins
+     JP1-14 R4-A))
+  (net HIGH2
+   (pins
+     JP1-6 R2-A))
+  (net HIGH3
+   (pins
+     JP1-10 R3-A))
+  (net LOW1
+   (pins
+     JP1-1 R1-B))
+  (net LOW2
+   (pins
+     R2-B JP1-5))
+  (net LOW3
+   (pins
+     R3-B JP1-9))
+  (net LOW4
+   (pins
+     R4-B JP1-13)))
+)

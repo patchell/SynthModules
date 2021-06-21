@@ -1,0 +1,50 @@
+Protel Design System Design Rule Check
+PCB File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\100-1067\1067.PCB
+NET File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\100-1067\100-1067.net
+Date     : 6-May-2014 
+Time     : 13:54:50
+
+
+Clearances
+  Arc        : 5mil
+  Fill       : 5mil
+  Pad        : 5mil
+  Track      : 5mil
+  Text       : 5mil
+  Via        : 5mil
+  Large Comp : 50mil
+  Small Comp : 20mil
+
+
+Do Missing Component Errors : On
+Do Missing Pin Errors       : Off
+Do Extra Pin Errors         : Off
+Do Extra UnNamed Pin Errors : Off
+Do Extra Net Errors         : On
+Do Extra Component Errors   : Off
+Do Split Net Errors         : On
+Do Clearance Errors         : Off
+Do Component Clearances     : Off
+Do Component Pattern Errors : Off
+Do Component Value Errors   : Off
+
+
+Net N01930_17304 Broken Into Multiple Sub-nets 
+Sub-net  1
+R97-2         
+
+Sub-net  2
+R109-1        R103-2        
+
+Sub-net  3
+R98-2         
+
+Sub-net  4
+R100-1        R104-1        R94-2         U32-2         
+
+Sub-net  5
+R99-2         
+
+Extra net on board : 
+
+Time Elapsed : 00:00:06

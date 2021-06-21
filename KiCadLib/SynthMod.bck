@@ -1,0 +1,221 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +10V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +12V0
+K POWER, PWR
+$ENDCMP
+#
+$CMP +15V0
+K POWER, PWR
+$ENDCMP
+#
+$CMP +5V0
+K POWER, PWR
+$ENDCMP
+#
+$CMP -10V
+K POWER, PWR
+$ENDCMP
+#
+$CMP -12V0
+K POWER, PWR
+$ENDCMP
+#
+$CMP -15V0
+K POWER, PWR
+$ENDCMP
+#
+$CMP 500-1072-1073-LED
+D Quad LED Board
+$ENDCMP
+#
+$CMP 500-1072-1073-Quad-Jack_Board
+D Quad Connector
+$ENDCMP
+#
+$CMP 500-1114
+D HEX BANANA / LED INTERFACE BOARD
+$ENDCMP
+#
+$CMP 500-1124-QUADPOT-LED
+D QUAD ILLIMINATED 9MM POT
+$ENDCMP
+#
+$CMP 500-1126-QuintJack
+D 500-1126 QUINT JACK
+$ENDCMP
+#
+$CMP 500-1142
+D Five Banana Jack Board 0.75
+$ENDCMP
+#
+$CMP 74HC05
+D Hex Inverter
+K HCTMOS not inv
+$ENDCMP
+#
+$CMP 74HC109
+D Double JK FlipFlop, Set & Reset
+K TTL JK
+$ENDCMP
+#
+$CMP 74HC14
+D Hex Inverter
+K HCTMOS not inv
+$ENDCMP
+#
+$CMP 74HC14-SynthMod
+D Hex Schmitt Inverter
+K HCMOS inv
+$ENDCMP
+#
+$CMP 74HC595
+D 8 bits serial in // out Shift Register 3 State Out
+K HCMOS SR 3State
+F 74xx/74HC595.pdf
+$ENDCMP
+#
+$CMP 74HC74-SynthMod
+D Dual D FlipFlop, Set & Reset
+K TTL DFF
+F 74xx/74hc_hct74.pdf
+$ENDCMP
+#
+$CMP 74LS595
+D 8 bits serial in // out Shift Register 3 State Out
+K TTL SR 3State
+$ENDCMP
+#
+$CMP 74LS596
+D 8 bits serial in // out Shift Register Open Collect.
+K HCMOS SR OpenCol
+$ENDCMP
+#
+$CMP 78L05
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78lxx.pdf
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_Var
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP Cap
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP Cap_Bypass
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP Cap_Polarized
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP Conn_Dual_Dual_Pot
+D Dual Dual Pot
+$ENDCMP
+#
+$CMP GNDe
+K POWER, PWR
+$ENDCMP
+#
+$CMP Header-6p-stackable
+D 6 Pin Stackable Header
+K Stackable Header
+$ENDCMP
+#
+$CMP Header_4x1
+D 4 PIN SIP HEADER
+$ENDCMP
+#
+$CMP Header_6x1
+D 6 PIN SIP HEADER
+$ENDCMP
+#
+$CMP JFET
+D J111 Pinout
+$ENDCMP
+#
+$CMP KSA992
+D Transistor KSA992
+K pnp transistor
+$ENDCMP
+#
+$CMP KSC1845
+D Transistor KSC1845
+K npn transistor
+$ENDCMP
+#
+$CMP LM7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM7812
+D Linear Regulator +12V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM78L05-SYNTHMOD
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP MJE340
+D Power Transistor NPN 20W
+K npn transistor
+$ENDCMP
+#
+$CMP MJE350
+D Power Transistor PNP 20W
+K pnp transistor
+$ENDCMP
+#
+$CMP MJL1302
+D Power Transistor PNP MJL1302
+K pnp transistor
+$ENDCMP
+#
+$CMP MJL3281
+D Power Transistor NPN MJL3281
+K npn transistor
+$ENDCMP
+#
+$CMP NPN
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP PNP
+D Transistor PNP (general)
+K pnp transistor
+$ENDCMP
+#
+$CMP THAT140
+D NPN/PNP Transistor Array
+K Matched Transistors
+$ENDCMP
+#
+$CMP TIP140
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP TIP145
+D Power Darlington PNP
+K pnp transistor
+$ENDCMP
+#
+#End Doc Library

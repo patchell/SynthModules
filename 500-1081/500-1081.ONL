@@ -1,0 +1,168 @@
+(PCB "500-1081"
+ (description
+  (timeStamp "2014 08 06 03 52 47")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Tuesday, August 05, 2014")
+  (document "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\SYNTHMOD\\500-1081\\500-1081.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component POT
+   (place R1
+    (property 
+     ("PCB Footprint" "ALPHA POT V")
+     (timestamp 0000006F)
+     ("Source Package" POT)
+     (Value POT)))
+   (place R2
+    (property 
+     ("PCB Footprint" "ALPHA POT V")
+     (timestamp 00000089)
+     ("Source Package" POT)
+     (Value POT)))
+   (place R3
+    (property 
+     ("PCB Footprint" "ALPHA POT V")
+     (timestamp 000000A3)
+     ("Source Package" POT)
+     (Value POT)))
+   (place R4
+    (property 
+     ("PCB Footprint" "ALPHA POT V")
+     (timestamp 000000BD)
+     ("Source Package" POT)
+     (Value POT)))
+   (place R5
+    (property 
+     ("PCB Footprint" "ALPHA POT V")
+     (timestamp 000000D7)
+     ("Source Package" POT)
+     (Value POT))))
+  (component "HEADER 5X2"
+   (place JP1
+    (property 
+     ("PCB Footprint" "IDC10-AMP-RA")
+     (timestamp 00000003)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP2
+    (property 
+     ("PCB Footprint" "IDC10-AMP-RA")
+     (timestamp 00000039)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))))
+ (library
+  (image POT
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 A
+    (property 
+     (pinname A)
+     (pintype 4)))
+   (pin 999 B
+    (property 
+     (pinname B)
+     (pintype 4)))
+   (pin 999 WIPER
+    (property 
+     (pinname WIPER)
+     (pintype 4))))
+  (image "HEADER 5X2"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))))
+ (network
+  (net W1
+   (pins
+     R1-WIPER JP2-2))
+  (net W2
+   (pins
+     R2-WIPER JP2-4))
+  (net W3
+   (pins
+     R3-WIPER JP2-6))
+  (net W4
+   (pins
+     R4-WIPER JP2-8))
+  (net W5
+   (pins
+     R5-WIPER JP2-10))
+  (net L1
+   (pins
+     R1-B JP1-1 JP2-1))
+  (net L2
+   (pins
+     JP1-3 JP2-3 R2-B))
+  (net L3
+   (pins
+     JP2-5 JP1-5 R3-B))
+  (net L4
+   (pins
+     R4-B JP1-7 JP2-7))
+  (net L5
+   (pins
+     JP2-9 R5-B JP1-9))
+  (net H1
+   (pins
+     R1-A JP1-2))
+  (net H2
+   (pins
+     R2-A JP1-4))
+  (net H3
+   (pins
+     JP1-6 R3-A))
+  (net H4
+   (pins
+     JP1-8 R4-A))
+  (net H5
+   (pins
+     JP1-10 R5-A)))
+)

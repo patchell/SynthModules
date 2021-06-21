@@ -1,0 +1,109 @@
+(ExpressProject "500-1064"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\500-1064.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{PACKAGE}"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Documents and Settings\Jim Patchell\My Documents\projects\SynthMod\500-1064\500-1064.dsn")
+      (Path "Design Resources"
+         "C:\Documents and Settings\Jim Patchell\My Documents\projects\SynthMod\500-1064\500-1064.dsn"
+         "500-1064")
+      (Select "Design Resources"
+         "C:\Documents and Settings\Jim Patchell\My Documents\projects\SynthMod\500-1064\500-1064.dsn"
+         "500-1064" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 72 272 27 654"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 44 1652 44 694")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\500-1064\500-1064.DSN")
+      (Schematic "500-1064")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 66 1645 66 716")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/AVR"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\500-1064\500-1064.DSN")
+      (Schematic "AVR")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 110 1689 110 760")
+        (Scroll "0 38")
+        (Zoom "100")
+        (Occurrence "/AVR/M1"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCUMENTS\PROJECTS\SYNTHMOD\500-1064\500-1064.DSN")
+      (Schematic "CLAMP_I")
+      (Page "PAGE1")))
+  (PartMRUSelector
+    (CLAMP
+      (FullPartName "CLAMP.Normal")
+      (LibraryName
+         "C:\USERS\JIM PATCHELL\DOCUMENTS\PROJECTS\ORCADLIBS\SYNTHMODULES.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (AGND
+      (LibraryName
+         "C:\USERS\JIM PATCHELL\DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\USERS\JIM PATCHELL\DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName
+         "C:\USERS\JIM PATCHELL\DOCUMENTS\PROJECTS\ORCADLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("GEN DUAL OPAMP-H"
+      (FullPartName "GEN DUAL OPAMP-HA.Normal")
+      (LibraryName
+         "C:\USERS\JIM PATCHELL\DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (DG201H
+      (FullPartName "DG201HA.Normal")
+      (LibraryName
+         "C:\USERS\JIM PATCHELL\DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    ("PHONEJACK SW"
+      (FullPartName "PHONEJACK SW.Normal")
+      (LibraryName
+         "C:\USERS\JIM PATCHELL\DOCUMENTS\PROJECTS\ORCADLIBS\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))))

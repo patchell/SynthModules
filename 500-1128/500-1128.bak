@@ -1,0 +1,313 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:500-1128-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "6 Transistor BM Cell"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4150 2600 4150 4550
+Wire Wire Line
+	4150 3700 4600 3700
+Wire Wire Line
+	4150 4550 4600 4550
+Connection ~ 4150 3700
+Wire Wire Line
+	5000 3700 5400 3700
+Wire Wire Line
+	5000 4550 5400 4550
+Wire Wire Line
+	4800 4000 4800 4050
+Wire Wire Line
+	4800 4050 5200 4050
+Wire Wire Line
+	5200 4050 5200 4200
+Wire Wire Line
+	5600 4200 5600 4250
+Wire Wire Line
+	4800 4250 4800 4150
+Wire Wire Line
+	3800 4150 5600 4150
+Wire Wire Line
+	5600 4150 5600 4000
+Wire Wire Line
+	5650 2800 5650 3150
+Wire Wire Line
+	5650 3150 6600 3150
+Wire Wire Line
+	5950 2600 6050 2600
+Wire Wire Line
+	5150 2400 5150 2350
+Wire Wire Line
+	5150 2350 5650 2350
+Wire Wire Line
+	5650 2300 5650 2400
+Wire Wire Line
+	4150 2600 4850 2600
+Wire Wire Line
+	5800 4550 5950 4550
+Wire Wire Line
+	5950 4550 5950 3700
+Wire Wire Line
+	5950 3700 5800 3700
+Wire Wire Line
+	5950 4100 6250 4100
+Connection ~ 5950 4100
+$Comp
+L RESISTOR R1
+U 1 1 5ACD8C95
+P 5200 4850
+F 0 "R1" V 5250 5000 60  0000 C CNN
+F 1 "4.99K" V 5350 5050 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 5200 4850 60  0001 C CNN
+F 3 "" H 5200 4850 60  0000 C CNN
+	1    5200 4850
+	0    1    1    0   
+$EndComp
+$Comp
+L RESISTOR R2
+U 1 1 5ACD8D21
+P 5350 3050
+F 0 "R2" V 5300 3200 60  0000 C CNN
+F 1 "10K" V 5400 3200 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 5350 3050 60  0001 C CNN
+F 3 "" H 5350 3050 60  0000 C CNN
+	1    5350 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L RESISTOR R3
+U 1 1 5ACD8DD4
+P 5650 2000
+F 0 "R3" V 5700 2200 60  0000 C CNN
+F 1 "4.99K" V 5800 2200 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 5650 2000 60  0001 C CNN
+F 3 "" H 5650 2000 60  0000 C CNN
+	1    5650 2000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5650 1850 5650 1900
+Wire Wire Line
+	5350 2950 5350 1850
+Wire Wire Line
+	5150 2800 5150 4550
+Connection ~ 5150 4550
+Wire Wire Line
+	5200 4750 5200 4550
+Connection ~ 5200 4550
+Wire Wire Line
+	5350 3350 5350 3700
+Connection ~ 5350 3700
+Connection ~ 5650 2350
+Connection ~ 6050 3150
+Wire Wire Line
+	3800 4050 4150 4050
+Connection ~ 4150 4050
+Connection ~ 4800 4150
+Connection ~ 5200 4200
+$Comp
+L PAD P5
+U 1 1 5ACE4ED3
+P 5200 5350
+F 0 "P5" H 5200 5150 60  0000 C CNN
+F 1 "-15" H 5225 5075 60  0000 C CNN
+F 2 "FootPrints:PAD" H 5200 5050 60  0001 C CNN
+F 3 "" H 5200 5050 60  0000 C CNN
+	1    5200 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PAD P2
+U 1 1 5ACE4FC0
+P 3800 4050
+F 0 "P2" V 3800 3850 60  0000 C CNN
+F 1 "Iin" V 3800 3700 60  0000 C CNN
+F 2 "FootPrints:PAD" H 3800 3750 60  0001 C CNN
+F 3 "" H 3800 3750 60  0000 C CNN
+	1    3800 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L PAD P3
+U 1 1 5ACE509B
+P 3800 4150
+F 0 "P3" V 3800 3950 60  0000 C CNN
+F 1 "VC" V 3800 3800 60  0000 C CNN
+F 2 "FootPrints:PAD" H 3800 3850 60  0001 C CNN
+F 3 "" H 3800 3850 60  0000 C CNN
+	1    3800 4150
+	0    1    1    0   
+$EndComp
+$Comp
+L PAD P4
+U 1 1 5ACE50DB
+P 3800 4250
+F 0 "P4" V 3800 4050 60  0000 C CNN
+F 1 "VC" V 3800 3900 60  0000 C CNN
+F 2 "FootPrints:PAD" H 3800 3950 60  0001 C CNN
+F 3 "" H 3800 3950 60  0000 C CNN
+	1    3800 4250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4350 4200 5600 4200
+Wire Wire Line
+	4350 4200 4350 4250
+Wire Wire Line
+	4350 4250 3800 4250
+$Comp
+L PAD P7
+U 1 1 5ACE51F8
+P 5400 1700
+F 0 "P7" H 5400 1500 60  0000 C CNN
+F 1 "+15" H 5425 1425 60  0000 C CNN
+F 2 "FootPrints:PAD" H 5400 1400 60  0001 C CNN
+F 3 "" H 5400 1400 60  0000 C CNN
+	1    5400 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L PAD P1
+U 1 1 5ACE5324
+P 6600 3150
+F 0 "P1" H 6600 2950 60  0000 C CNN
+F 1 "GND" H 6625 2875 60  0000 C CNN
+F 2 "FootPrints:PAD" H 6600 2850 60  0001 C CNN
+F 3 "" H 6600 2850 60  0000 C CNN
+	1    6600 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PAD P6
+U 1 1 5ACE54AD
+P 6250 4100
+F 0 "P6" H 6250 3900 60  0000 C CNN
+F 1 "Io" H 6275 3825 60  0000 C CNN
+F 2 "FootPrints:PAD" H 6250 3800 60  0001 C CNN
+F 3 "" H 6250 3800 60  0000 C CNN
+	1    6250 4100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 1700 5400 1850
+Connection ~ 5400 1850
+Wire Wire Line
+	5350 1850 5650 1850
+Wire Wire Line
+	6050 2600 6050 3150
+$Comp
+L DUAL_2N3906 Q1
+U 1 1 5AD02181
+P 5050 2600
+F 0 "Q1" H 4850 2375 60  0000 C CNN
+F 1 "2N3906" H 4775 2300 60  0000 C CNN
+F 2 "FootPrints:DUAL_TO92" H 5050 2400 60  0001 C CNN
+F 3 "" H 5050 2400 60  0000 C CNN
+	1    5050 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_2N3906 Q1
+U 2 1 5AD021CE
+P 5750 2600
+F 0 "Q1" H 5500 2800 60  0000 C CNN
+F 1 "2N3906" H 5450 2700 60  0000 C CNN
+F 2 "FootPrints:DUAL_TO92" H 5750 2400 60  0001 C CNN
+F 3 "" H 5750 2400 60  0000 C CNN
+	2    5750 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L DUAL_2N3906 Q2
+U 2 1 5AD02225
+P 5600 3800
+F 0 "Q2" V 5900 3800 60  0000 C CNN
+F 1 "2N3906" V 5800 3800 60  0000 C CNN
+F 2 "FootPrints:DUAL_TO92" H 5600 3600 60  0001 C CNN
+F 3 "" H 5600 3600 60  0000 C CNN
+	2    5600 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L DUAL_2N3906 Q2
+U 1 1 5AD022E8
+P 4800 3800
+F 0 "Q2" V 5100 3800 60  0000 C CNN
+F 1 "2N3906" V 5000 3800 60  0000 C CNN
+F 2 "FootPrints:DUAL_TO92" H 4800 3600 60  0001 C CNN
+F 3 "" H 4800 3600 60  0000 C CNN
+	1    4800 3800
+	0    1    -1   0   
+$EndComp
+$Comp
+L DUAL_2N3904 Q3
+U 2 1 5AD0243B
+P 5600 4450
+F 0 "Q3" V 5950 4450 60  0000 C CNN
+F 1 "2N3904" V 5850 4450 60  0000 C CNN
+F 2 "FootPrints:DUAL_TO92" H 5600 4350 60  0001 C CNN
+F 3 "" H 5600 4350 60  0000 C CNN
+	2    5600 4450
+	0    1    1    0   
+$EndComp
+$Comp
+L DUAL_2N3904 Q3
+U 1 1 5AD024A1
+P 4800 4450
+F 0 "Q3" V 5200 4550 60  0000 C CNN
+F 1 "2N3904" V 5100 4500 60  0000 C CNN
+F 2 "FootPrints:DUAL_TO92" H 4800 4350 60  0001 C CNN
+F 3 "" H 4800 4350 60  0000 C CNN
+	1    4800 4450
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	5200 5150 5200 5350
+Text Label 5200 5300 0    60   ~ 0
+V-
+Text Label 5500 1850 0    60   ~ 0
+V+
+$EndSCHEMATC

@@ -1,0 +1,2782 @@
+Info: Checking netlist symbol footprint “R207:/572E330C/5BC5E61E/5B3C6041:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R216:/572E330C/5C1DE6F2/5C1DEF09:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R215:/572E330C/5C1DE6F2/5C1DF0AC:FootPrints:Trimpot”.
+
+Info: Checking netlist symbol footprint “R214:/572E330C/5C1DE6F2/5C1DF158:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R213:/572E330C/5C1DE6F2/5C1DF704:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R212:/572E330C/5C1DE6F2/5C1DF630:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P26:/572E495F/5BE43A06/5BC83A06:FootPrints:IDC8x2_Vert”.
+
+Info: Checking netlist symbol footprint “R211:/572E330C/5C1DE6F2/5C1DF6BE:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P27:/572E495F/5BE43A06/5BDC85C5:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R210:/572E330C/5C1DE6F2/5C1DF672:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P28:/5BC928F4/5BC7F53C:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R209:/572E330C/5BC5E61E/5B3C4F54:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R208:/572E330C/5BC5E61E/5B3C4D5F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R217:/572E330C/5C1DE6F2/5C1DEFFE:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R206:/572E330C/5BC5E61E/5B3C49DF:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P29:/5BC5FB86/5BCEAF03:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “Q1:/572E330C/572E41D2/5BD53816:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q2:/572E330C/572E41D2/56CCA77F:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “R205:/572E330C/5BC5E61E/5B3C4A5C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R204:/572E330C/5BC5E61E/5B3C4846:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “Q3:/572E330C/572E41D2/56CCA8E3:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “R203:/572E330C/5BC5E61E/5B3C628B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R202:/572E330C/5BC5E61E/5B3C521B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “Q4:/572E330C/572E41D2/56CC996F:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “R201:/572E330C/5BC5E61E/5B3C6114:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R227:/572E495F/5BD63266/5BD53930:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R236:/572E495F/5BD63266/5BD638EC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R235:/572E495F/5BD63266/5BD53906:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R234:/572E495F/5BD63266/5BD538F5:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R233:/572E495F/5BD63266/5BD651C5:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P22:/572E495F/5BE16060/5BD53940:FootPrints:IDC8x2_Vert”.
+
+Info: Checking netlist symbol footprint “R232:/572E495F/5BD63266/5BD5390E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R231:/572E495F/5BD63266/5BD53916:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R230:/572E495F/5BD63266/5BD5391A:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R229:/572E495F/5BD63266/5BD53918:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R228:/572E495F/5BD63266/5BD5392E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P23:/572E495F/5BE16063/5BD7C9DB:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R200:/572E330C/5BC5E61E/5B3D2BD6:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R226:/572E495F/5BD63266/5BD53924:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R225:/572E330C/5C1DE6F2/5C241CE5:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R224:/572E330C/5C1DE6F2/5C241CDF:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P24:/572E495F/5BE16063/5BD5393F:FootPrints:IDC8x2_Vert”.
+
+Info: Checking netlist symbol footprint “R223:/572E330C/5C1DE6F2/5C241CEB:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R222:/572E330C/5C1DE6F2/5C241CF1:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R221:/572E330C/5C1DE6F2/5C241D1F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R220:/572E330C/5C1DE6F2/5C241D0D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R219:/572E330C/5C1DE6F2/5C241D19:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P25:/572E495F/5BE43A06/5BD5BF5D:FootPrints:IDC8x2_Vert”.
+
+Info: Checking netlist symbol footprint “R218:/572E330C/5C1DE6F2/5C241D13:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “Q31:/572E495F/5BE43A06/5BDF4A8F:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q21:/572E330C/5BC354C1/5BC44FCC:FootPrints:DUAL_TO92”.
+
+Info: Checking netlist symbol footprint “Q22:/572E330C/5BC4C1F2/5BD5389B:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q23:/572E330C/5BC4C1F2/5BC5BF84:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q24:/572E330C/5BC5E61E/5B3C4013:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “Q25:/572E330C/5BC5E61E/5B3C3FB8:FootPrints:2SA798”.
+
+Info: Checking netlist symbol footprint “Q26:/572E495F/5BE43A06/5C01F82F:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q27:/572E495F/5BE43A06/5BFF505D:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q28:/572E495F/5BE43A06/5C035206:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q29:/572E495F/5BE43A06/5C0351EB:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q30:/572E495F/5BE43A06/5BE3DB2C:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “R191:/572E330C/5BC4C1F2/5BD538AA:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “Q20:/572E330C/5BC354C1/5BC44FBE:FootPrints:DUAL_TO92”.
+
+Info: Checking netlist symbol footprint “Q32:/5BC928F4/5BC5BF76:FootPrints:DUAL_TO92”.
+
+Info: Checking netlist symbol footprint “Q33:/5BC928F4/5BD5389D:FootPrints:DUAL_TO92”.
+
+Info: Checking netlist symbol footprint “Q34:/5BD05338/5BD163D0:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q35:/5BD05338/5BD164B3:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “R1:/5BC61194:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R2:/5BC611DE:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R3:/5BC61102:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R4:/5BC61282:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R5:/5BC61204:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R6:/5C214353:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R7:/5C214559:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R192:/572E330C/5BC4C1F2/5BC5F1B7:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R199:/572E330C/5BC5E61E/5B3D2D62:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “Q5:/572E330C/572E470F/56CBDB1C:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q6:/572E330C/572E470F/5BD5382A:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “R198:/572E330C/5BC5E61E/5B3D2DE4:FootPrints:Trimpot”.
+
+Info: Checking netlist symbol footprint “R197:/572E330C/5BC5E61E/5B3C572A:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “Q7:/572E330C/572E470F/5BD5382B:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “R196:/572E330C/5BC5E61E/5B3C5637:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R195:/572E330C/5BC5E61E/5B3C5E10:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “Q8:/572E330C/572E470F/5BD53826:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “R194:/572E330C/5BC4C1F2/5BD538C7:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R193:/572E330C/5BC4C1F2/5BC76BAB:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P21:/572E495F/5BE16060/5BD53921:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “Q9:/572E330C/5BC5E616/5BC82528:FootPrints:2SA798”.
+
+Info: Checking netlist symbol footprint “Q10:/572E330C/5BC5E7A1/5BD538D0:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q11:/572E330C/5BC5E7A1/5BD538D1:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q12:/572E330C/5BC5E7A1/5BD538D2:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q13:/572E330C/5BC5E7A1/5BC62B6C:FootPrints:DUAL_TO92”.
+
+Info: Checking netlist symbol footprint “Q14:/572E330C/5BC5E7A1/5BC62DAD:FootPrints:DUAL_TO92”.
+
+Info: Checking netlist symbol footprint “Q15:/572E330C/5BC5F9C2/5BC92547:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q16:/572E330C/5BC5F9C2/5BC9269E:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q17:/572E330C/5BC5F9C2/5BC926FE:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “Q18:/572E330C/5BC5F9C2/5BD538B1:FootPrints:DUAL_TO92”.
+
+Info: Checking netlist symbol footprint “Q19:/572E330C/5BC5F9C2/5BD538B3:FootPrints:DUAL_TO92”.
+
+Info: Checking netlist symbol footprint “R285:/572E495F/5BE43A06/5BEA4B02:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P8:/572E330C/5BC5E613/5BCAF95A:FootPrints:IDC8x2_Vert”.
+
+Info: Checking netlist symbol footprint “R294:/572E495F/5BE43A06/5BD69D64:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R293:/572E495F/5BE43A06/5BD44586:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R292:/572E495F/5BE43A06/5BD39998:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R291:/572E495F/5BE43A06/5BD44478:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R290:/572E495F/5BE43A06/5C0351F7:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R289:/572E495F/5BE43A06/5C035212:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R288:/572E495F/5BE43A06/5BC8D1A4:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P9:/572E330C/5BC5E613/5BC9AD75:FootPrints:IDC8x2_Vert”.
+
+Info: Checking netlist symbol footprint “R287:/572E495F/5BE43A06/5BCF7A20:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R286:/572E495F/5BE43A06/5BEA4BD0:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R295:/572E495F/5BE43A06/5BE3DB32:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R284:/572E495F/5BE43A06/5C0351F1:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R283:/572E495F/5BE43A06/5BEA4CF8:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R282:/572E495F/5BE43A06/5BEA4C62:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R281:/572E495F/5BE43A06/5BD4FF1D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P10:/572E330C/5BC5E613/5BC9AC86:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R280:/572E495F/5BE43A06/5C03520C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R279:/572E495F/5BE43A06/5BD5C022:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R278:/572E495F/5BE43A06/5BD55ABE:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R277:/572E495F/5BE43A06/5BFF536F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R276:/572E495F/5BE43A06/5C01F83B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P11:/572E330C/5BC5E616/5BC2EB8B:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R303:/572E495F/5BE43A06/5BE3DB4B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R312:/5BC928F4/5BC7F47B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R311:/5BE16424/5BE36B92:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R310:/5BE16424/5C0DF3CB:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P2:/5BC60C45:FootPrints:DIN-5-PIN”.
+
+Info: Checking netlist symbol footprint “R309:/572E495F/5BE43A06/5BD884D9:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R308:/572E495F/5BE43A06/5BD884C8:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R307:/572E495F/5BE43A06/5BD884D3:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P3:/5BCF71D4:FootPrints:IDC8x2_Vert”.
+
+Info: Checking netlist symbol footprint “R306:/572E495F/5BE43A06/5BE1EDF0:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R305:/572E495F/5BE43A06/5BE3DB6B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R304:/572E495F/5BE43A06/5BDFBE9C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P12:/572E330C/5BC5E616/5BC7ED37:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R302:/572E495F/5BE43A06/5BD13C62:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R301:/572E495F/5BE43A06/5BDFBCC8:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P4:/572E330C/5BD4B269:FootPrints:IDC10x2-Vert”.
+
+Info: Checking netlist symbol footprint “R300:/572E495F/5BE43A06/5BD13C71:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P5:/572E330C/5BD4F6D2:FootPrints:IDC10x2-Vert”.
+
+Info: Checking netlist symbol footprint “R299:/572E495F/5BE43A06/5BE3DB45:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R298:/572E495F/5BE43A06/5BDFBC2E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P6:/572E330C/5BD32915:FootPrints:IDC10x2-Vert”.
+
+Info: Checking netlist symbol footprint “R297:/572E495F/5BE43A06/5BDF4C9B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R296:/572E495F/5BE43A06/5BE3DB3F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P7:/572E330C/5BD336A7:FootPrints:IDC10x2-Vert”.
+
+Info: Checking netlist symbol footprint “P18:/572E495F/5BCB63CE:FootPrints:IDC10x2-Vert”.
+
+Info: Checking netlist symbol footprint “R255:/572E495F/5BE16060/5BDE3992:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R254:/572E495F/5BE16060/5BD53945:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R253:/572E495F/5BE16060/5BD53939:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R252:/572E495F/5BE16060/5BD53911:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P17:/572E330C/5C1DE6F2/5C245E9A:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R251:/572E495F/5BE16060/5BD538F6:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R250:/572E495F/5BE16060/5BD6496B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R249:/572E495F/5BE16060/5BD6374A:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R248:/572E495F/5BE16060/5BD53909:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R247:/572E495F/5BE16060/5BD658AC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R246:/572E495F/5BE16060/5BD53915:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P16:/572E330C/5BC4C1F2/5BD538CB:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “P19:/572E495F/5BD63266/5BD53922:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R245:/572E495F/5BE16060/5BD53919:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R244:/572E495F/5BE16060/5BD53917:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R243:/572E495F/5BE16060/5BD5392F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R242:/572E495F/5BE16060/5BD53931:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P20:/572E495F/5BD63266/5BDB9CD7:FootPrints:IDC8x2_Vert”.
+
+Info: Checking netlist symbol footprint “R241:/572E495F/5BE16060/5BD53923:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R240:/572E495F/5BD63266/5BD53948:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R239:/572E495F/5BD63266/5BD53946:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R238:/572E495F/5BD63266/5BD53938:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R237:/572E495F/5BD63266/5BD53912:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R265:/572E495F/5BE16063/5BD53907:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R275:/572E495F/5BE43A06/5BD5B76D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R274:/572E495F/5BE43A06/5BD55B52:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R273:/572E495F/5BE43A06/5BFF5259:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R272:/572E495F/5BE43A06/5C01F835:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P13:/572E330C/5BC5E7A1/5BD538CE:FootPrints:IDC13x2_Vert”.
+
+Info: Checking netlist symbol footprint “R271:/572E495F/5BE43A06/5BD5CEE8:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R270:/572E495F/5BE16063/5BD53947:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R269:/572E495F/5BE16063/5BDE3894:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R268:/572E495F/5BE16063/5BDA6BA4:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R267:/572E495F/5BE16063/5BD7678C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R266:/572E495F/5BE16063/5BD538F7:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R8:/5C214311:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R264:/572E495F/5BE16063/5BD538F4:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF:FootPrints:IDC13x2_Vert”.
+
+Info: Checking netlist symbol footprint “R263:/572E495F/5BE16063/5BD53908:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R262:/572E495F/5BE16063/5BD5390F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R261:/572E495F/5BE16063/5BD76E0B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R260:/572E495F/5BE16063/5BD788C7:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R259:/572E495F/5BE16063/5BD76E79:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R258:/572E495F/5BE16063/5BD8611F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R257:/572E495F/5BE16063/5BD86243:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R256:/572E495F/5BE16063/5BD7CB2D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P15:/572E330C/5BC354C1/5BC5F58E:FootPrints:IDC10x2-Vert”.
+
+Info: Checking netlist symbol footprint “R129:/572E330C/5BC5E616/5BC826D0:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R73:/572E330C/572E470F/56CBFD99:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R134:/572E330C/5BC5E616/5BC8F433:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R74:/572E330C/572E470F/5BD5385C:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R133:/572E330C/5BC5E616/5BC7A278:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R75:/572E330C/572E470F/5BD53849:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R132:/572E330C/5BC5E616/5BC7A1AE:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R76:/572E330C/572E470F/56CDE1CB:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R131:/572E330C/5BC5E616/5BC827C1:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R77:/572E330C/572E470F/56CDF859:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R130:/572E330C/5BC5E616/5BC8F2D3:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R78:/572E330C/572E470F/56CE36F4:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R135:/572E330C/5BC5E7A1/5BD538D4:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R79:/572E330C/572E470F/56CBDC38:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R80:/572E330C/572E470F/56CE6120:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R128:/572E330C/5BC5E616/5BC8C236:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R81:/572E330C/572E470F/5BD5384B:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R127:/572E330C/5BC5E616/5BCD33EF:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R82:/572E330C/572E470F/5BD5382E:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R126:/572E330C/5BC5E616/5BC7A29E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R83:/572E330C/572E470F/56CCAEA8:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R125:/572E330C/5BC5E616/5BC7A346:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R84:/572E330C/572E470F/5BD5384C:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R124:/572E330C/5BC5E616/5BC8C2AC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R141:/572E330C/5BC5E7A1/5BC63698:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R61:/572E330C/572E470F/56CBE58B:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R146:/572E330C/5BC5E7A1/5BD04D88:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R62:/572E330C/572E470F/56CBF400:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R145:/572E330C/5BC5E7A1/5BD538BC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R63:/572E330C/572E470F/56CBF462:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R144:/572E330C/5BC5E7A1/5BDB4238:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R64:/572E330C/572E470F/56CBF4AB:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R143:/572E330C/5BC5E7A1/5BD5393C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R65:/572E330C/572E470F/56CBF4F1:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R142:/572E330C/5BC5E7A1/5BDB40D4:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R66:/572E330C/572E470F/5BD53823:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R85:/572E330C/572E470F/5BD53830:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R67:/572E330C/572E470F/5BD53824:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R140:/572E330C/5BC5E7A1/5BC6374A:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R68:/572E330C/572E470F/5BD53851:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R139:/572E330C/5BC5E7A1/5BC9BD2A:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R69:/572E330C/572E470F/56CE3BA1:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R138:/572E330C/5BC5E7A1/5BD538BA:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R70:/572E330C/572E470F/56CBE5CB:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R137:/572E330C/5BC5E7A1/5BC6357A:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R71:/572E330C/572E470F/56CE6FB9:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R136:/572E330C/5BC5E7A1/5BC9BCAA:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R72:/572E330C/572E470F/56CE4205:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R103:/572E330C/572E470F/56CE4E0B:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “U94:/5BC5FB86/5BCC949B:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “R98:/572E330C/572E470F/5BD53858:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “U93:/5BC5FB86/5BC9CB1F:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “R99:/572E330C/572E470F/5BD53859:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R117:/572E330C/5BC5E616/5BC9AC18:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R100:/572E330C/572E470F/56CED8AF:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R116:/572E330C/5BC5E616/5BF8365E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R101:/572E330C/572E470F/5BD53866:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “U92:/5BC5FB86/5BCC93F3:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “R102:/572E330C/572E470F/5BD53856:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R115:/572E330C/5BC5E616/5BC9AC6E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R97:/572E330C/572E470F/5BD53865:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R114:/572E330C/5BC5E616/5BC98B76:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R104:/572E330C/5BC5E613/5BC9AFF2:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R105:/572E330C/5BC5E613/5BC9B03C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R106:/572E330C/5BC5E613/5BC9B06A:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R107:/572E330C/5BC5E613/5BC9B098:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R108:/572E330C/5BC5E613/5BC9B0D0:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R109:/572E330C/5BC5E613/5BD0C78D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R110:/572E330C/5BC5E613/5BD0C75B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R111:/572E330C/5BC5E613/5BC9AFAE:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R112:/572E330C/5BC5E613/5BC9AEF8:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R113:/572E330C/5BC5E613/5BC9AF64:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R91:/572E330C/572E470F/56CE87C0:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R123:/572E330C/5BC5E616/5BCD3389:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R86:/572E330C/572E470F/5BD53831:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “Y1:/5BC5FB86/5BC7396D:FootPrints:XTAL”.
+
+Info: Checking netlist symbol footprint “R87:/572E330C/572E470F/5BD53863:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R88:/572E330C/572E470F/5BD53832:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “U99:/5BD05338/5BD18B22:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “R89:/572E330C/572E470F/56CE3A0F:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R122:/572E330C/5BC5E616/5BC7A62F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R121:/572E330C/5BC5E616/5BC7A6BF:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R90:/572E330C/572E470F/5BD53862:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “U98:/5BD05338/5BD05913:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “R147:/572E330C/5BC5E7A1/5BE06DAC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “U97:/5BD05338/5BD053B1:FootPrints:TO92”.
+
+Info: Checking netlist symbol footprint “R92:/572E330C/572E470F/56CCB0E6:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R120:/572E330C/5BC5E616/5BC989FA:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R93:/572E330C/572E470F/5BD5383F:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R119:/572E330C/5BC5E616/5BC7F711:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R94:/572E330C/572E470F/5BD5384A:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “U96:/5BC5FB86/5BC5A797:FootPrints:DIP16.3”.
+
+Info: Checking netlist symbol footprint “R95:/572E330C/572E470F/5BD6A2AE:”.
+
+Info: Checking netlist symbol footprint “U95:/5BC5FB86/5BC5A8BD:FootPrints:DIP16.3”.
+
+Info: Checking netlist symbol footprint “R96:/572E330C/572E470F/5BD53864:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R118:/572E330C/5BC5E616/5BD0179C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R29:/572E330C/572E41D2/56CE6EB1:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R181:/572E330C/5BC354C1/5BCEC5E9:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R24:/572E330C/572E41D2/5BD53852:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R180:/572E330C/5BC354C1/5BC45051:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R25:/572E330C/572E41D2/5BD5381D:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R179:/572E330C/5BC354C1/5BC51884:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R26:/572E330C/572E41D2/5BD5385D:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R178:/572E330C/5BC354C1/5BC4505E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R27:/572E330C/572E41D2/5BD53855:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R177:/572E330C/5BC354C1/5BC45030:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R28:/572E330C/572E41D2/5BD53825:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R176:/572E330C/5BC354C1/5BCD36F7:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R182:/572E330C/5BC354C1/5BCEC559:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R175:/572E330C/5BC354C1/5BCD9E75:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R30:/572E330C/572E41D2/56CE2A74:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R174:/572E330C/5BC354C1/5BC44FF4:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R31:/572E330C/572E41D2/5BD53834:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R173:/572E330C/5BC354C1/5BC9D09E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R32:/572E330C/572E41D2/5BD5383B:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R172:/572E330C/5BC354C1/5BC9D4D5:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R33:/572E330C/572E41D2/5BD5384E:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R171:/572E330C/5BC354C1/5BC5BD86:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R34:/572E330C/572E41D2/5BD53818:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R35:/572E330C/572E41D2/5BD5385A:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R188:/572E330C/5BC4C1F2/5BC94BF1:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R9:/5C2142D1:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R10:/5C21418F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R11:/572E330C/5BD33D5D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R12:/572E330C/5BD33D19:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R13:/572E330C/5BD33D87:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R14:/572E330C/572E41D2/5BD5381B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R15:/572E330C/572E41D2/5BD5381A:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R190:/572E330C/5BC4C1F2/5BD538B0:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R16:/572E330C/572E41D2/5BD5381C:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R189:/572E330C/5BC4C1F2/5BC5C007:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R17:/572E330C/572E41D2/5BD5381F:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R170:/572E330C/5BC354C1/5BC460A8:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R18:/572E330C/572E41D2/5BD53820:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R187:/572E330C/5BC4C1F2/5BC5C014:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R19:/572E330C/572E41D2/5BD53821:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R186:/572E330C/5BC4C1F2/5BD538A4:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R20:/572E330C/572E41D2/5BD53822:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R185:/572E330C/5BC4C1F2/5BC5BFAC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R21:/572E330C/572E41D2/56CBF538:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R184:/572E330C/5BC4C1F2/5BC7F3D1:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R22:/572E330C/572E41D2/56CBF626:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R183:/572E330C/5BC4C1F2/5BD538CA:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R23:/572E330C/572E41D2/56CE3A95:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R54:/572E330C/572E41D2/56CE5B3E:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R48:/572E330C/572E41D2/56CE0444:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R157:/572E330C/5BC5F9C2/5BD538B9:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R49:/572E330C/572E41D2/56CE2C42:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R156:/572E330C/5BC5F9C2/5BD538BB:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R50:/572E330C/572E41D2/56CE89D0:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R155:/572E330C/5BC5F9C2/5BD538D6:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R51:/572E330C/572E41D2/56CEB2D1:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R52:/572E330C/572E41D2/56CEB41B:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R154:/572E330C/5BC5F9C2/5BC636EC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R53:/572E330C/572E41D2/56CE575E:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R153:/572E330C/5BC5F9C2/5BD538B8:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R158:/572E330C/5BC5F9C2/5BD5393D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R152:/572E330C/5BC5F9C2/5BD538D5:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R55:/572E330C/572E41D2/5BD5386A:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R151:/572E330C/5BC5F9C2/5BC9BA28:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R56:/572E330C/572E41D2/56CEBFB5:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R150:/572E330C/5BC5E7A1/5BD538E2:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R57:/572E330C/572E41D2/56CE4C1D:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R149:/572E330C/5BC5E7A1/5BE286C6:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R58:/572E330C/572E41D2/5BD53857:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R148:/572E330C/5BC5E7A1/5BD2B3CE:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R59:/572E330C/572E470F/56CBE557:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R60:/572E330C/572E470F/56CBE503:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R164:/572E330C/5BC5F9C2/5BD538E4:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R36:/572E330C/572E41D2/56CE3095:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R169:/572E330C/5BC354C1/5BC4613C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R37:/572E330C/572E41D2/56CCAD55:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R168:/572E330C/5BC354C1/5BC460FE:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R38:/572E330C/572E41D2/5BD5382F:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R167:/572E330C/5BC354C1/5BC45FC2:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R39:/572E330C/572E41D2/56CE318A:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R166:/572E330C/5BC5F9C2/5BD2B28B:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R40:/572E330C/572E41D2/56CCAF3A:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R165:/572E330C/5BC5F9C2/5BD5396F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R41:/572E330C/572E41D2/56CCAFBF:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “P1:/5BC60C8D:FootPrints:DIN-5-PIN”.
+
+Info: Checking netlist symbol footprint “R42:/572E330C/572E41D2/56CE8C65:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R43:/572E330C/572E41D2/56CCB05F:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R163:/572E330C/5BC5F9C2/5BD5395D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R44:/572E330C/572E41D2/5BD5384F:FootPrints:Trimpot-3006”.
+
+Info: Checking netlist symbol footprint “R162:/572E330C/5BC5F9C2/5BD538DC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R161:/572E330C/5BC5F9C2/5BC64184:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R45:/572E330C/572E41D2/56CE8ABD:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R160:/572E330C/5BC5F9C2/5BD5393E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R46:/572E330C/572E41D2/5BD53860:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R159:/572E330C/5BC5F9C2/5BDB3F9F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “R47:/572E330C/572E41D2/5BD53833:Footprints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C21:/572E330C/572E470F/56CF51BA:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U1:/5BC60EBD:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “C16:/572E330C/572E41D2/56CF3719:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R339:/5BD05338/5BD18C04:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C17:/572E330C/572E41D2/5BD5387C:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R338:/5BD05338/5BD170C1:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C18:/572E330C/572E470F/56CDFA85:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “R337:/5BD05338/5BD184B0:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C19:/572E330C/572E470F/56CBDBA8:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C20:/572E330C/572E470F/56CF5117:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R336:/5BD05338/5BD18C80:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C15:/572E330C/572E41D2/5BD5386E:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R335:/5BD05338/5BD05A85:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C22:/572E330C/572E470F/5BD5384D:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C23:/572E330C/572E470F/5BD5388B:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R334:/5BD05338/5BD05F0C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C24:/572E330C/572E470F/5BD5388A:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R333:/5BD05338/5BD05FBD:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C25:/572E330C/572E470F/56CE22EC:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “R332:/5BD05338/5BD05A27:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C26:/572E330C/572E470F/5BD53884:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R331:/5BD05338/5BD056DD:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “U5:/572E330C/572E41D2/5BD5382C:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “C4:/572E330C/572E41D2/5BD53893:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U7:/572E330C/572E41D2/56CBD2A0:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “C5:/572E330C/572E41D2/56CE3254:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C6:/572E330C/572E41D2/56CF46DE:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U90:/5BC5FB86/5BC9CC49:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “C7:/572E330C/572E41D2/56CF46D8:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U6:/572E330C/572E41D2/5BD5381E:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “C8:/572E330C/572E41D2/5BD53847:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “U91:/5BC5FB86/5BE3C848:FootPrints:DIP16.3”.
+
+Info: Checking netlist symbol footprint “C9:/572E330C/572E41D2/56CF448C:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C27:/572E330C/572E470F/5BD5386F:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C10:/572E330C/572E41D2/56CF2BB1:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C11:/572E330C/572E41D2/56CF371F:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U4:/572E330C/572E41D2/5BD53819:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “C12:/572E330C/572E41D2/5BD5387D:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U77:/5BE16424/5BE19879:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “C13:/572E330C/572E41D2/56CE156D:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “U3:/572E330C/5BD33BD7:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “C14:/572E330C/572E41D2/56CF4486:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U2:/5BC60D3C:FootPrints:DIP-6.3”.
+
+Info: Checking netlist symbol footprint “C54:/572E330C/5BC5E7A1/5BEC7F7C:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C43:/572E330C/5BC5E616/5BD35A8F:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C44:/572E330C/5BC5E616/5BD5B2BB:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C45:/572E330C/5BC5E616/5BC79F94:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C46:/572E330C/5BC5E7A1/5BC6CEB6:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C47:/572E330C/5BC5E7A1/5BF7CF55:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C48:/572E330C/5BC5E7A1/5BD53983:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C49:/572E330C/5BC5E7A1/5BCEFA1D:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C50:/572E330C/5BC5E7A1/5BD538BD:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C51:/572E330C/5BC5E7A1/5BEC7DBE:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C52:/572E330C/5BC5E7A1/5BD5397B:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C42:/572E330C/5BC5E616/5BD545E5:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C55:/572E330C/5BC5E7A1/5BF2DBB3:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C56:/572E330C/5BC5E7A1/5BD5398A:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C57:/572E330C/5BC5F9C2/5BD538C0:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C58:/572E330C/5BC5F9C2/5BD53982:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C59:/572E330C/5BC5F9C2/5BF7CF5B:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C60:/572E330C/5BC5F9C2/5BD538DB:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C61:/572E330C/5BC5F9C2/5BC64DD7:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C62:/572E330C/5BC5F9C2/5BD53973:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C63:/572E330C/5BC5F9C2/5BF2DAFD:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R326:/5BC5FB86/5BCE5FAF:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C28:/572E330C/572E470F/5BD53876:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R330:/5BD05338/5BD054FC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C29:/572E330C/572E470F/56CF3890:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R329:/5BD05338/5BD055C1:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C30:/572E330C/572E470F/5BD53842:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “R328:/5BD05338/5BD0567C:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C31:/572E330C/572E470F/5BD53883:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R327:/5BC5FB86/5BCDA1B3:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C32:/572E330C/572E470F/56CF27BC:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C33:/572E330C/572E470F/5BD53875:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C3:/572E330C/572E41D2/5BD53890:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C34:/572E330C/572E470F/56CF388A:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R325:/5BC5FB86/5BD2B81E:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C35:/572E330C/5BC5E616/5BC83673:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C36:/572E330C/5BC5E616/5BC7A05B:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C37:/572E330C/5BC5E616/5BD0C87C:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C38:/572E330C/5BC5E616/5BD545DF:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C39:/572E330C/5BC5E616/5BD35A89:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C40:/572E330C/5BC5E616/5BD5B2B5:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C41:/572E330C/5BC5E616/5BD0C976:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U43:/572E330C/5BC354C1/5BC5BCF2:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U51:/572E495F/5BD63266/5BD5392B:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U73:/5BE16424/5BE19C90:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “U50:/572E330C/5C1DE6F2/5C241CD3:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U74:/5BE16424/5BE18F7D:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “U49:/572E330C/5C1DE6F2/5C1DEC51:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U48:/572E330C/5BC5E61E/5B3C4C5E:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U47:/572E330C/5BC4C1F2/5BD20EE9:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U46:/572E330C/5BC4C1F2/5BD538A2:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U45:/572E330C/5BC4C1F2/5BD44A42:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U44:/572E330C/5BC4C1F2/5BD538C8:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U52:/572E495F/5BD63266/5BD5392C:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U42:/572E330C/5BC354C1/5BC45019:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U41:/572E330C/5BC5F9C2/5BCEF943:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U40:/572E330C/5BC5F9C2/5BD5393A:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U39:/572E330C/5BC5F9C2/5BC634CC:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U38:/572E330C/5BC5F9C2/5BC5F342:FootPrints:DIP-16.3”.
+
+Info: Checking netlist symbol footprint “U37:/572E330C/5BC5E7A1/5BD538DA:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U36:/572E330C/5BC5E7A1/5BDB3DB3:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U35:/572E330C/5BC5E7A1/5BD538B6:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U34:/572E330C/5BC5E7A1/5BD538AC:FootPrints:DIP-16.3”.
+
+Info: Checking netlist symbol footprint “U62:/572E495F/5BE16063/5BDE3808:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U69:/572E495F/5BE43A06/5BD13C5A:FootPrints:DIP-16.3”.
+
+Info: Checking netlist symbol footprint “U70:/572E495F/5BE43A06/5BD13C54:FootPrints:DIP-16.3”.
+
+Info: Checking netlist symbol footprint “U71:/572E495F/5BE43A06/5BD27093:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U72:/572E495F/5BE43A06/5BE1ECC2:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U68:/572E495F/5BE43A06/5BD5E7B0:FootPrints:DIP-16.3”.
+
+Info: Checking netlist symbol footprint “U67:/572E495F/5BE43A06/5BC65BB6:FootPrints:DIP16.3”.
+
+Info: Checking netlist symbol footprint “U66:/572E495F/5BE43A06/5BC65C22:FootPrints:DIP16.3”.
+
+Info: Checking netlist symbol footprint “U65:/572E495F/5BE43A06/5BCDB208:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “U64:/572E495F/5BE43A06/5BD55E4A:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U63:/572E495F/5BE43A06/5BC9BBC4:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U33:/572E330C/5BC5E616/5BC79D73:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U61:/572E495F/5BE16063/5BD538F2:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U60:/572E495F/5BE16063/5BD86049:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U59:/572E495F/5BE16063/5BD82970:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U58:/572E495F/5BE16060/5BD53943:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U57:/572E495F/5BE16060/5BD63606:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U56:/572E495F/5BE16060/5BD5392D:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U55:/572E495F/5BE16060/5BD5392A:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U54:/572E495F/5BD63266/5BD53944:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U53:/572E495F/5BD63266/5BD538F3:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U13:/572E330C/572E41D2/5BD5385F:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U84:/5BD1C74D/5BD1DFBC:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U18:/572E330C/572E470F/56CBF2BF:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U85:/5BD1C74D/5BC9EE1E:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U17:/572E330C/572E470F/56CCAA13:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U16:/572E330C/572E470F/56CBE424:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U86:/5BD1C74D/5BC9EE62:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U15:/572E330C/572E41D2/56CE0FF3:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U87:/5BC928F4/5BC5BFCF:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U14:/572E330C/572E41D2/56CE22E3:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U88:/5BC928F4/5BD538DE:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U19:/572E330C/572E470F/5BD53815:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U89:/5BC5FB86/5BC5FF67:FootPrints:DIP-40.6”.
+
+Info: Checking netlist symbol footprint “U12:/572E330C/572E41D2/56CE2146:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U11:/572E330C/572E41D2/5BD5385E:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U76:/5BE16424/5BE19857:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “U10:/572E330C/572E41D2/56CCAB18:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U9:/572E330C/572E41D2/5BD53814:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U8:/572E330C/572E41D2/5BD53899:FootPrints:DIP16.3”.
+
+Info: Checking netlist symbol footprint “C1:/572E330C/572E41D2/5BD5383C:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C2:/572E330C/572E41D2/5BD53817:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “U25:/572E330C/572E470F/56CE8179:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U32:/572E330C/5BC5E616/5BC82871:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U31:/572E330C/5BC5E616/5BC2EFBB:FootPrints:DIP-16.3”.
+
+Info: Checking netlist symbol footprint “U30:/572E330C/5BC5E616/5BC7A370:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U29:/572E330C/5BC5E613/5BC9AE6A:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U28:/572E330C/5BC5E613/5BC9AE03:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U78:/5BD1C74D/5BD1CBE6:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U27:/572E330C/572E470F/5BD53841:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U79:/5BD1C74D/5BD1CC74:FootPrints:DIP16.3”.
+
+Info: Checking netlist symbol footprint “U26:/572E330C/572E470F/5BD53846:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U80:/5BD1C74D/5BD1D5A0:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “C53:/572E330C/5BC5E7A1/5BD53989:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “U81:/5BD1C74D/5BD1DF7E:FootPrints:DIP-16.3”.
+
+Info: Checking netlist symbol footprint “U24:/572E330C/572E470F/5BD53845:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U82:/5BD1C74D/5BD1DF78:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U23:/572E330C/572E470F/56CE805B:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U83:/5BD1C74D/5BC9EE24:FootPrints:DIP-16.3”.
+
+Info: Checking netlist symbol footprint “U22:/572E330C/572E470F/5BD5382D:Footprints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U75:/5BE16424/5BE19419:FootPrints:DIP-14.3”.
+
+Info: Checking netlist symbol footprint “U21:/572E330C/572E470F/56CBBB13:FootPrints:DIP8.3”.
+
+Info: Checking netlist symbol footprint “U20:/572E330C/572E470F/5BC43468:FootPrints:DIP16.3”.
+
+Info: Checking netlist symbol footprint “C173:/5BD05338/5BD1CB09:FootPrints:CapPol-Rad-0.2x0.1”.
+
+Info: Checking netlist symbol footprint “C163:/5BC928F4/5BD44D79:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C164:/5BC928F4/5BC5BFD6:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C165:/5BC928F4/5BD51C1F:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C166:/5BC928F4/5BD538ED:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C167:/5BC928F4/5BC5BFB7:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C168:/5BC5FB86/5BC73B35:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C169:/5BC5FB86/5BC73C15:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C170:/5BC5FB86/5BC6B085:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C171:/5BC5FB86/5C140D19:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C172:/5BC5FB86/5C158BD3:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C162:/5BC928F4/5BD44B5C:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “D1:/5BC6131A:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D2:/572E330C/572E41D2/5BD53868:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D3:/572E330C/572E41D2/5BD53867:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D4:/572E330C/572E470F/56CEC296:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D5:/572E330C/572E470F/56CEC0A1:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D6:/572E330C/5BC5E7A1/5BDF117F:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D7:/572E330C/5BC5E7A1/5BDF1287:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “R320:/5BC928F4/5BC5F103:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “D8:/572E330C/5BC5E7A1/5BE1D247:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D9:/572E330C/5BC5E7A1/5BD5396E:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “C152:/5BD1C74D/5BE59A39:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C142:/5BD1C74D/5BDBE037:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C143:/5BD1C74D/5BE4D3EF:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C144:/5BD1C74D/5BDBE03D:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C145:/5BD1C74D/5BE4D3F5:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C146:/5BD1C74D/5BDC7122:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C147:/5BD1C74D/5BD1DF94:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C148:/5BD1C74D/5BD1DFB6:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C149:/5BD1C74D/5BD1DFD8:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C150:/5BD1C74D/5BD1DFFA:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C151:/5BD1C74D/5BDC7128:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “D10:/572E330C/5BC5F9C2/5BD5394B:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “C153:/5BD1C74D/5BE59A3F:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C154:/5BD1C74D/5BC9EE3A:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C155:/5BD1C74D/5BC9EE5C:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C156:/5BD1C74D/5BC9EE7E:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C157:/5BD1C74D/5BC9EEA0:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C158:/5BD1C74D/5BE748C6:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C159:/5BD1C74D/5BE66AC1:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C160:/5BD1C74D/5BE748CC:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C161:/5BD1C74D/5BE66AC7:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R318:/5BC928F4/5BD538A7:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “D31:/572E495F/5BE16063/5BD53900:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D32:/572E495F/5BE43A06/5BDAC04F:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D33:/572E495F/5BE43A06/5BDAC17D:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D34:/572E495F/5BE43A06/5BD4FC2D:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D35:/572E495F/5BE43A06/5BD4FE25:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D36:/572E495F/5BE43A06/5BD69D58:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D37:/572E495F/5BE43A06/5BD69D5E:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D38:/5BC928F4/5BD538B7:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D39:/5BC928F4/5BD538C2:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “J1:/5C1F479F:FootPrints:PHONE-SC112A”.
+
+Info: Checking netlist symbol footprint “D30:/572E495F/5BE16063/5BD538FE:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “J2:/5C1F4827:FootPrints:PHONE-SC112A”.
+
+Info: Checking netlist symbol footprint “R317:/5BC928F4/5BD538D3:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “J3:/5C1F4769:FootPrints:PHONE-SC112A”.
+
+Info: Checking netlist symbol footprint “R316:/5BC928F4/5BD538A9:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “J4:/5C1F472D:FootPrints:PHONE-SC112A”.
+
+Info: Checking netlist symbol footprint “R315:/5BC928F4/5BC5BFE6:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “J5:/5C1F44B8:FootPrints:PHONE-SC112A”.
+
+Info: Checking netlist symbol footprint “R314:/5BC928F4/5BD5389F:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “J6:/5BC5FB86/5BC60367:FootPrints:IDC5x2_Vert”.
+
+Info: Checking netlist symbol footprint “R313:/5BC928F4/5BD538C9:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “D20:/572E495F/5BD63266/5BD7A052:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D11:/572E330C/5BC5F9C2/5BD5394C:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “R319:/5BC928F4/5BC615BF:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “D12:/572E330C/5BC5F9C2/5BD5396D:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D13:/572E330C/5BC5F9C2/5BE1D30E:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D14:/572E330C/5BC354C1/5BCEC356:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D15:/572E330C/5BC354C1/5BCEC410:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D16:/572E330C/5BC4C1F2/5BC634DF:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D17:/572E330C/5BC4C1F2/5BC74F47:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D18:/572E330C/5BC5E61E/5BD08DAE:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D19:/572E330C/5BC5E61E/5BD08FF0:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “C65:/572E330C/5BC5F9C2/5BD53974:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “D21:/572E495F/5BD63266/5BD53925:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D22:/572E495F/5BD63266/5BD63BB8:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D23:/572E495F/5BD63266/5BD63D32:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D24:/572E495F/5BE16060/5BD5391C:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D25:/572E495F/5BE16060/5BD53926:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D26:/572E495F/5BE16060/5BD538FF:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D27:/572E495F/5BE16060/5BD53901:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D28:/572E495F/5BE16063/5BD5391B:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “D29:/572E495F/5BE16063/5BD7CC8D:FootPrints:DIODE0.4”.
+
+Info: Checking netlist symbol footprint “C95:/572E495F/5BE16060/5BD538FD:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C84:/572E495F/5BD63266/5BD538FA:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C85:/572E495F/5BD63266/5BD538F9:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C86:/572E495F/5BD63266/5BD63B02:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C87:/572E495F/5BD63266/5BD53965:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C88:/572E495F/5BD63266/5BD53955:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C89:/572E495F/5BD63266/5BD53967:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C90:/572E495F/5BD63266/5BD53958:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C91:/572E495F/5BE16060/5BD5391E:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C92:/572E495F/5BE16060/5BD5390D:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C93:/572E495F/5BE16060/5BD63AAA:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C94:/572E495F/5BE16060/5BD538F8:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C83:/572E495F/5BD63266/5BD5390C:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C96:/572E495F/5BE16060/5BD53966:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C97:/572E495F/5BE16060/5BD53956:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C98:/572E495F/5BE16060/5BD53968:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C99:/572E495F/5BE16060/5BDFD726:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C100:/572E495F/5BE16063/5BD5391D:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C101:/572E495F/5BE16063/5BD6528E:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C102:/572E495F/5BE16063/5BD538FB:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C141:/5BD1C74D/5BE4199A:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C104:/572E495F/5BE16063/5BD538FC:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C105:/572E495F/5BE16063/5BE10485:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C106:/572E495F/5BE16063/5BDFD62E:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C76:/572E330C/5BC5E61E/5B3C67C1:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C64:/572E330C/5BC5F9C2/5BF8B762:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C66:/572E330C/5BC5F9C2/5BD5397C:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C67:/572E330C/5BC5F9C2/5BF8B768:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C68:/572E330C/5BC354C1/5BC45020:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C69:/572E330C/5BC354C1/5BC44FFE:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C70:/572E330C/5BC4C1F2/5BD538E6:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C71:/572E330C/5BC4C1F2/5BD538E7:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C72:/572E330C/5BC4C1F2/5BD538A3:FootPrints:CAP-0.1”.
+
+Info: Checking netlist symbol footprint “C73:/572E330C/5BC4C1F2/5BD538EC:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C74:/572E330C/5BC4C1F2/5BD51C25:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C75:/572E330C/5BC4C1F2/5BD538A0:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C103:/572E495F/5BE16063/5BD63942:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C77:/572E330C/5BC5E61E/5B3C68AD:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C78:/572E330C/5C1DE6F2/5BD10421:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R324:/5BC5FB86/5BD2B78D:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C79:/572E330C/5C1DE6F2/5BD1041A:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R323:/5BC928F4/5BC7A8BC:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C80:/572E330C/5C1DE6F2/5BD14689:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R322:/5BC928F4/5BD538C3:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C81:/572E330C/5C1DE6F2/5BD14683:Footprints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “R321:/5BC928F4/5BD538AB:FootPrints:AXIAL0.4”.
+
+Info: Checking netlist symbol footprint “C82:/572E495F/5BD63266/5BD7A0EA:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C130:/5BE16424/5BE1988B:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C120:/572E495F/5BE43A06/5BD13C77:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C121:/572E495F/5BE43A06/5BF1362C:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C122:/572E495F/5BE43A06/5BFA4C00:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C107:/572E495F/5BE16063/5BE1048B:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C124:/572E495F/5BE43A06/5BFA4BF4:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C125:/5BE16424/5BE28BE2:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C126:/5BE16424/5C0DC1E4:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C127:/5BE16424/5BE19258:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C128:/5BE16424/5BE1942B:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C129:/5BE16424/5BE19869:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C123:/572E495F/5BE43A06/5BEF66CD:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C131:/5BE16424/5BE36CEA:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C132:/5BD1C74D/5BDE612B:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C133:/5BD1C74D/5BDE61E7:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C134:/5BD1C74D/5BD88D32:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C135:/5BD1C74D/5BD1CD06:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C136:/5BD1C74D/5BD1D004:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C137:/5BD1C74D/5BD1D5BC:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C138:/5BD1C74D/5BD1D5DE:FootPrints:CAP-AXIAL-0.5x0.2”.
+
+Info: Checking netlist symbol footprint “C139:/5BD1C74D/5BE41994:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C140:/5BD1C74D/5BD88F8C:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C108:/572E495F/5BE16063/5BD53957:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C113:/572E495F/5BE43A06/5BD5BBD3:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C119:/572E495F/5BE43A06/5BE84FC8:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C114:/572E495F/5BE43A06/5BD55A48:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C115:/572E495F/5BE43A06/5BD55909:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C116:/572E495F/5BE43A06/5BD559E5:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C117:/572E495F/5BE43A06/5BE84D7B:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C118:/572E495F/5BE43A06/5BCF7AB4:FootPrints:CAP-GREENIE-0.2”.
+
+Info: Checking netlist symbol footprint “C112:/572E495F/5BE43A06/5C0A76A0:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C111:/572E495F/5BE43A06/5C00482F:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C110:/572E495F/5BE43A06/5C0A76AC:FootPrints:CAP-Bypass-0.3”.
+
+Info: Checking netlist symbol footprint “C109:/572E495F/5BE43A06/5C00483B:FootPrints:CAP-Bypass-0.3”.
+
+Changing footprint “U76:/5BE16424/5BE19857” pad “10” net name from “” to “Net-(U76-Pad10)”.
+
+Changing footprint “U76:/5BE16424/5BE19857” pad “5” net name from “” to “Net-(U76-Pad5)”.
+
+Changing footprint “U76:/5BE16424/5BE19857” pad “4” net name from “” to “Net-(U76-Pad4)”.
+
+Changing footprint “U77:/5BE16424/5BE19879” pad “4” net name from “” to “Net-(U77-Pad4)”.
+
+Changing footprint “U74:/5BE16424/5BE18F7D” pad “6” net name from “” to “Net-(U74-Pad6)”.
+
+Changing footprint “U76:/5BE16424/5BE19857” pad “3” net name from “” to “Net-(U76-Pad3)”.
+
+Changing footprint “U76:/5BE16424/5BE19857” pad “6” net name from “” to “Net-(U76-Pad6)”.
+
+Changing footprint “U76:/5BE16424/5BE19857” pad “12” net name from “” to “Net-(U76-Pad12)”.
+
+Changing footprint “U77:/5BE16424/5BE19879” pad “12” net name from “” to “Net-(U77-Pad12)”.
+
+Changing footprint “U74:/5BE16424/5BE18F7D” pad “5” net name from “” to “Net-(U74-Pad5)”.
+
+Changing footprint “U75:/5BE16424/5BE19419” pad “6” net name from “” to “Net-(U75-Pad6)”.
+
+Changing footprint “U74:/5BE16424/5BE18F7D” pad “10” net name from “” to “Net-(U74-Pad10)”.
+
+Changing footprint “U75:/5BE16424/5BE19419” pad “5” net name from “” to “Net-(U75-Pad5)”.
+
+Changing footprint “U75:/5BE16424/5BE19419” pad “12” net name from “” to “Net-(U75-Pad12)”.
+
+Changing footprint “U75:/5BE16424/5BE19419” pad “3” net name from “” to “Net-(U75-Pad3)”.
+
+Changing footprint “U75:/5BE16424/5BE19419” pad “10” net name from “” to “Net-(U75-Pad10)”.
+
+Changing footprint “U77:/5BE16424/5BE19879” pad “11” net name from “” to “Net-(U77-Pad11)”.
+
+Changing footprint “U75:/5BE16424/5BE19419” pad “11” net name from “” to “Net-(U75-Pad11)”.
+
+Changing footprint “U74:/5BE16424/5BE18F7D” pad “12” net name from “” to “Net-(U74-Pad12)”.
+
+Changing footprint “U74:/5BE16424/5BE18F7D” pad “11” net name from “” to “Net-(U74-Pad11)”.
+
+Changing footprint “U75:/5BE16424/5BE19419” pad “4” net name from “” to “Net-(U75-Pad4)”.
+
+Changing footprint “U77:/5BE16424/5BE19879” pad “3” net name from “” to “Net-(U77-Pad3)”.
+
+Changing footprint “U16:/572E330C/572E470F/56CBE424” pad “1” net name from “” to “Net-(R70-Pad2)”.
+
+Changing footprint “U77:/5BE16424/5BE19879” pad “10” net name from “” to “Net-(U77-Pad10)”.
+
+Changing footprint “R285:/572E495F/5BE43A06/5BEA4B02” pad “1” net name from “” to “Net-(R285-Pad1)”.
+
+Changing footprint “R326:/5BC5FB86/5BCE5FAF” pad “1” net name from “” to “/Midi/VREF”.
+
+Changing footprint “R330:/5BD05338/5BD054FC” pad “1” net name from “” to “Net-(R329-Pad3)”.
+
+Changing footprint “U91:/5BC5FB86/5BE3C848” pad “9” net name from “” to “Net-(U91-Pad9)”.
+
+Changing footprint “U4:/572E330C/572E41D2/5BD53819” pad “1” net name from “” to “Net-(R25-Pad2)”.
+
+Changing footprint “U7:/572E330C/572E41D2/56CBD2A0” pad “5” net name from “” to “Net-(U7-Pad5)”.
+
+Changing footprint “U7:/572E330C/572E41D2/56CBD2A0” pad “1” net name from “” to “Net-(U7-Pad1)”.
+
+Changing footprint “U8:/572E330C/572E41D2/5BD53899” pad “15” net name from “” to “Net-(U8-Pad15)”.
+
+Changing footprint “U8:/572E330C/572E41D2/5BD53899” pad “2” net name from “” to “Net-(U8-Pad2)”.
+
+Changing footprint “U9:/572E330C/572E41D2/5BD53814” pad “3” net name from “” to “Net-(R39-Pad1)”.
+
+Changing footprint “U89:/5BC5FB86/5BC5FF67” pad “9” net name from “” to “Net-(J6-Pad~)”.
+
+Changing footprint “U89:/5BC5FB86/5BC5FF67” pad “37” net name from “” to “Net-(U89-Pad37)”.
+
+Changing footprint “R154:/572E330C/5BC5F9C2/5BC636EC” pad “1” net name from “” to “Net-(R154-Pad1)”.
+
+Changing footprint “U68:/572E495F/5BE43A06/5BD5E7B0” pad “1” net name from “” to “Net-(U68-Pad1)”.
+
+Changing footprint “U19:/572E330C/572E470F/5BD53815” pad “5” net name from “” to “Net-(U19-Pad5)”.
+
+Changing footprint “U19:/572E330C/572E470F/5BD53815” pad “1” net name from “” to “Net-(U19-Pad1)”.
+
+Changing footprint “U20:/572E330C/572E470F/5BC43468” pad “15” net name from “” to “Net-(U20-Pad15)”.
+
+Changing footprint “U20:/572E330C/572E470F/5BC43468” pad “2” net name from “” to “Net-(U20-Pad2)”.
+
+Changing footprint “U21:/572E330C/572E470F/56CBBB13” pad “3” net name from “” to “Net-(R84-Pad1)”.
+
+Changing footprint “R138:/572E330C/5BC5E7A1/5BD538BA” pad “1” net name from “” to “Net-(R138-Pad1)”.
+
+Changing footprint “U31:/572E330C/5BC5E616/5BC2EFBB” pad “2” net name from “” to “Net-(U31-Pad2)”.
+
+Changing footprint “U31:/572E330C/5BC5E616/5BC2EFBB” pad “7” net name from “” to “Net-(U31-Pad7)”.
+
+Changing footprint “U45:/572E330C/5BC4C1F2/5BD44A42” pad “3” net name from “” to “Net-(U45-Pad3)”.
+
+Changing footprint “U45:/572E330C/5BC4C1F2/5BD44A42” pad “2” net name from “” to “Net-(U45-Pad2)”.
+
+Changing footprint “U77:/5BE16424/5BE19879” pad “6” net name from “” to “Net-(U77-Pad6)”.
+
+Changing footprint “U77:/5BE16424/5BE19879” pad “5” net name from “” to “Net-(U77-Pad5)”.
+
+Changing footprint “U68:/572E495F/5BE43A06/5BD5E7B0” pad “2” net name from “” to “Net-(U68-Pad2)”.
+
+Changing footprint “U68:/572E495F/5BE43A06/5BD5E7B0” pad “15” net name from “” to “Net-(U68-Pad15)”.
+
+Remove single pad net “Net-(P19-Pad8)” on “P19” pad “8”
+
+Remove single pad net “Net-(P21-Pad8)” on “P21” pad “8”
+
+Remove single pad net “Net-(P21-Pad9)” on “P21” pad “9”
+
+Remove single pad net “Net-(P21-Pad10)” on “P21” pad “10”
+
+Remove single pad net “Net-(P20-Pad14)” on “P20” pad “14”
+
+Changing footprint “C1:/572E330C/572E41D2/5BD5383C” pad “1” net name from “” to “Net-(C1-Pad1)”.
+
+Remove single pad net “Net-(P20-Pad13)” on “P20” pad “13”
+
+Remove single pad net “Net-(P20-Pad12)” on “P20” pad “12”
+
+Remove single pad net “Net-(P20-Pad11)” on “P20” pad “11”
+
+Remove single pad net “Net-(P20-Pad10)” on “P20” pad “10”
+
+Changing footprint “C8:/572E330C/572E41D2/5BD53847” pad “2” net name from “” to “Net-(C8-Pad2)”.
+
+Remove single pad net “Net-(P19-Pad7)” on “P19” pad “7”
+
+Remove single pad net “Net-(P21-Pad7)” on “P21” pad “7”
+
+Remove single pad net “Net-(P19-Pad9)” on “P19” pad “9”
+
+Remove single pad net “Net-(P19-Pad10)” on “P19” pad “10”
+
+Changing footprint “C13:/572E330C/572E41D2/56CE156D” pad “2” net name from “” to “Net-(C13-Pad2)”.
+
+Remove single pad net “/Synth/PITCH POTS/POT2” on “P17” pad “3”
+
+Remove single pad net “Net-(P17-Pad4)” on “P17” pad “4”
+
+Remove single pad net “Net-(P17-Pad5)” on “P17” pad “5”
+
+Remove single pad net “Net-(P17-Pad6)” on “P17” pad “6”
+
+Changing footprint “C18:/572E330C/572E470F/56CDFA85” pad “1” net name from “” to “Net-(C18-Pad1)”.
+
+Remove single pad net “/Synth/PITCH POTS/POT1” on “P17” pad “7”
+
+Remove single pad net “Net-(P17-Pad8)” on “P17” pad “8”
+
+Remove single pad net “Net-(P24-Pad13)” on “P24” pad “13”
+
+Remove single pad net “Net-(P25-Pad14)” on “P25” pad “14”
+
+Remove single pad net “Net-(P25-Pad13)” on “P25” pad “13”
+
+Remove single pad net “Net-(P25-Pad12)” on “P25” pad “12”
+
+Remove single pad net “Net-(P25-Pad11)” on “P25” pad “11”
+
+Remove single pad net “Net-(P25-Pad10)” on “P25” pad “10”
+
+Remove single pad net “Net-(P25-Pad6)” on “P25” pad “6”
+
+Remove single pad net “Net-(P25-Pad4)” on “P25” pad “4”
+
+Remove single pad net “Net-(P24-Pad10)” on “P24” pad “10”
+
+Remove single pad net “Net-(P24-Pad11)” on “P24” pad “11”
+
+Remove single pad net “Net-(P24-Pad12)” on “P24” pad “12”
+
+Remove single pad net “Net-(P16-Pad10)” on “P16” pad “10”
+
+Remove single pad net “Net-(P24-Pad14)” on “P24” pad “14”
+
+Remove single pad net “Net-(P23-Pad10)” on “P23” pad “10”
+
+Remove single pad net “Net-(P23-Pad9)” on “P23” pad “9”
+
+Remove single pad net “Net-(P23-Pad8)” on “P23” pad “8”
+
+Remove single pad net “Net-(P23-Pad7)” on “P23” pad “7”
+
+Remove single pad net “Net-(P22-Pad10)” on “P22” pad “10”
+
+Remove single pad net “Net-(P22-Pad11)” on “P22” pad “11”
+
+Remove single pad net “Net-(P22-Pad12)” on “P22” pad “12”
+
+Remove single pad net “Net-(P22-Pad13)” on “P22” pad “13”
+
+Remove single pad net “Net-(P22-Pad14)” on “P22” pad “14”
+
+Changing footprint “P3:/5BCF71D4” pad “12” net name from “” to “Net-(P3-Pad12)”.
+
+Changing footprint “J6:/5BC5FB86/5BC60367” pad “8” net name from “” to “Net-(J6-Pad8)”.
+
+Changing footprint “J6:/5BC5FB86/5BC60367” pad “7” net name from “” to “Net-(J6-Pad7)”.
+
+Changing footprint “P1:/5BC60C8D” pad “1” net name from “” to “Net-(P1-Pad1)”.
+
+Changing footprint “P1:/5BC60C8D” pad “3” net name from “” to “Net-(P1-Pad3)”.
+
+Changing footprint “P2:/5BC60C45” pad “2” net name from “” to “Net-(P2-Pad2)”.
+
+Changing footprint “P2:/5BC60C45” pad “3” net name from “” to “Net-(P2-Pad3)”.
+
+Changing footprint “P2:/5BC60C45” pad “1” net name from “” to “Net-(P2-Pad1)”.
+
+Changing footprint “P3:/5BCF71D4” pad “16” net name from “” to “Net-(P3-Pad16)”.
+
+Changing footprint “P3:/5BCF71D4” pad “15” net name from “” to “Net-(P3-Pad15)”.
+
+Changing footprint “P3:/5BCF71D4” pad “14” net name from “” to “Net-(P3-Pad14)”.
+
+Changing footprint “P3:/5BCF71D4” pad “13” net name from “” to “Net-(P3-Pad13)”.
+
+Changing footprint “J5:/5C1F44B8” pad “2” net name from “” to “Net-(J5-Pad2)”.
+
+Changing footprint “P3:/5BCF71D4” pad “11” net name from “” to “Net-(P3-Pad11)”.
+
+Changing footprint “P4:/572E330C/5BD4B269” pad “4” net name from “” to “/Synth/VCO2/PWM2”.
+
+Changing footprint “P5:/572E330C/5BD4F6D2” pad “4” net name from “” to “/Synth/VCO2/VCO2”.
+
+Changing footprint “P5:/572E330C/5BD4F6D2” pad “10” net name from “” to “/Synth/VCO2/VCO3”.
+
+Changing footprint “P6:/572E330C/5BD32915” pad “10” net name from “” to “/Synth/VCO1/VCO3”.
+
+Changing footprint “P6:/572E330C/5BD32915” pad “4” net name from “” to “/Synth/VCO1/VCO2”.
+
+Changing footprint “P7:/572E330C/5BD336A7” pad “10” net name from “” to “/Synth/VCO1/PWM3”.
+
+Changing footprint “P8:/572E330C/5BC5E613/5BCAF95A” pad “10” net name from “” to “Net-(P8-Pad10)”.
+
+Changing footprint “P8:/572E330C/5BC5E613/5BCAF95A” pad “11” net name from “” to “Net-(P8-Pad11)”.
+
+Changing footprint “P8:/572E330C/5BC5E613/5BCAF95A” pad “12” net name from “” to “Net-(P8-Pad12)”.
+
+Remove single pad net “Net-(P14-Pad12)” on “P14” pad “12”
+
+Remove single pad net “Net-(P16-Pad9)” on “P16” pad “9”
+
+Changing footprint “C25:/572E330C/572E470F/56CE22EC” pad “2” net name from “” to “Net-(C25-Pad2)”.
+
+Remove single pad net “Net-(P16-Pad8)” on “P16” pad “8”
+
+Remove single pad net “Net-(P16-Pad7)” on “P16” pad “7”
+
+Remove single pad net “Net-(P14-Pad26)” on “P14” pad “26”
+
+Remove single pad net “Net-(P14-Pad25)” on “P14” pad “25”
+
+Changing footprint “C30:/572E330C/572E470F/5BD53842” pad “2” net name from “” to “Net-(C30-Pad2)”.
+
+Remove single pad net “Net-(P14-Pad22)” on “P14” pad “22”
+
+Remove single pad net “Net-(P14-Pad21)” on “P14” pad “21”
+
+Remove single pad net “Net-(P14-Pad16)” on “P14” pad “16”
+
+Remove single pad net “Net-(P26-Pad10)” on “P26” pad “10”
+
+Remove single pad net “Net-(P14-Pad8)” on “P14” pad “8”
+
+Remove single pad net “Net-(P14-Pad4)” on “P14” pad “4”
+
+Remove single pad net “Net-(P13-Pad4)” on “P13” pad “4”
+
+Remove single pad net “Net-(P13-Pad8)” on “P13” pad “8”
+
+Changing footprint “D7:/572E330C/5BC5E7A1/5BDF1287” pad “1” net name from “” to “Net-(D7-Pad1)”.
+
+Changing footprint “D11:/572E330C/5BC5F9C2/5BD5394C” pad “1” net name from “” to “Net-(D11-Pad1)”.
+
+Changing footprint “J1:/5C1F479F” pad “2” net name from “” to “Net-(J1-Pad2)”.
+
+Changing footprint “J2:/5C1F4827” pad “2” net name from “” to “Net-(J2-Pad2)”.
+
+Changing footprint “J3:/5C1F4769” pad “2” net name from “” to “Net-(J3-Pad2)”.
+
+Changing footprint “J4:/5C1F472D” pad “2” net name from “” to “Net-(J4-Pad2)”.
+
+Remove single pad net “Net-(U74-Pad11)” on “U74” pad “11”
+
+Remove single pad net “Net-(U76-Pad6)” on “U76” pad “6”
+
+Remove single pad net “Net-(U75-Pad6)” on “U75” pad “6”
+
+Remove single pad net “Net-(U75-Pad5)” on “U75” pad “5”
+
+Remove single pad net “Net-(U75-Pad10)” on “U75” pad “10”
+
+Remove single pad net “Net-(U75-Pad4)” on “U75” pad “4”
+
+Remove single pad net “Net-(U75-Pad11)” on “U75” pad “11”
+
+Remove single pad net “Net-(U75-Pad3)” on “U75” pad “3”
+
+Remove single pad net “Net-(U75-Pad12)” on “U75” pad “12”
+
+Remove single pad net “Net-(U74-Pad6)” on “U74” pad “6”
+
+Remove single pad net “Net-(U74-Pad5)” on “U74” pad “5”
+
+Remove single pad net “Net-(U74-Pad10)” on “U74” pad “10”
+
+Remove single pad net “Net-(U76-Pad5)” on “U76” pad “5”
+
+Remove single pad net “Net-(U74-Pad12)” on “U74” pad “12”
+
+Remove single pad net “Net-(U68-Pad1)” on “U68” pad “1”
+
+Remove single pad net “Net-(U68-Pad15)” on “U68” pad “15”
+
+Remove single pad net “Net-(U68-Pad2)” on “U68” pad “2”
+
+Remove single pad net “Net-(U45-Pad3)” on “U45” pad “3”
+
+Remove single pad net “Net-(U45-Pad2)” on “U45” pad “2”
+
+Remove single pad net “Net-(U31-Pad2)” on “U31” pad “2”
+
+Remove single pad net “Net-(U31-Pad7)” on “U31” pad “7”
+
+Remove single pad net “Net-(R84-Pad1)” on “U21” pad “3”
+
+Remove single pad net “Net-(U20-Pad15)” on “U20” pad “15”
+
+Remove single pad net “Net-(U77-Pad12)” on “U77” pad “12”
+
+Remove single pad net “Net-(U96-Pad7)” on “U96” pad “7”
+
+Remove single pad net “Net-(U96-Pad9)” on “U96” pad “9”
+
+Remove single pad net “Net-(U94-Pad5)” on “U94” pad “5”
+
+Remove single pad net “Net-(U92-Pad9)” on “U92” pad “9”
+
+Remove single pad net “Net-(U92-Pad6)” on “U92” pad “6”
+
+Remove single pad net “Net-(U91-Pad9)” on “U91” pad “9”
+
+Remove single pad net “Net-(U91-Pad7)” on “U91” pad “7”
+
+Remove single pad net “Net-(U91-Pad6)” on “U91” pad “6”
+
+Remove single pad net “Net-(J6-Pad~)” on “U89” pad “9”
+
+Remove single pad net “Net-(U89-Pad37)” on “U89” pad “37”
+
+Remove single pad net “Net-(U20-Pad2)” on “U20” pad “2”
+
+Remove single pad net “Net-(U77-Pad3)” on “U77” pad “3”
+
+Remove single pad net “Net-(U77-Pad11)” on “U77” pad “11”
+
+Remove single pad net “Net-(U77-Pad4)” on “U77” pad “4”
+
+Remove single pad net “Net-(U77-Pad10)” on “U77” pad “10”
+
+Remove single pad net “Net-(U77-Pad5)” on “U77” pad “5”
+
+Remove single pad net “Net-(U77-Pad6)” on “U77” pad “6”
+
+Remove single pad net “Net-(U76-Pad12)” on “U76” pad “12”
+
+Remove single pad net “Net-(U76-Pad3)” on “U76” pad “3”
+
+Remove single pad net “Net-(U76-Pad4)” on “U76” pad “4”
+
+Remove single pad net “Net-(U76-Pad10)” on “U76” pad “10”
+
+Remove single pad net “Net-(Q4-Pad12)” on “Q4” pad “12”
+
+Remove single pad net “Net-(R23-Pad3)” on “R23” pad “3”
+
+Remove single pad net “Net-(R23-Pad2)” on “R23” pad “2”
+
+Remove single pad net “Net-(Q30-Pad3)” on “Q30” pad “3”
+
+Remove single pad net “Net-(Q8-Pad8)” on “Q8” pad “8”
+
+Remove single pad net “Net-(Q8-Pad12)” on “Q8” pad “12”
+
+Remove single pad net “Net-(Q8-Pad14)” on “Q8” pad “14”
+
+Remove single pad net “Net-(Q7-Pad1)” on “Q7” pad “1”
+
+Remove single pad net “Net-(Q7-Pad2)” on “Q7” pad “2”
+
+Remove single pad net “Net-(Q6-Pad2)” on “Q6” pad “2”
+
+Remove single pad net “Net-(Q6-Pad1)” on “Q6” pad “1”
+
+Remove single pad net “Net-(Q4-Pad8)” on “Q4” pad “8”
+
+Remove single pad net “Net-(R26-Pad2)” on “R29” pad “2”
+
+Remove single pad net “Net-(Q4-Pad14)” on “Q4” pad “14”
+
+Remove single pad net “Net-(Q3-Pad2)” on “Q3” pad “2”
+
+Remove single pad net “Net-(Q3-Pad1)” on “Q3” pad “1”
+
+Remove single pad net “Net-(Q2-Pad1)” on “Q2” pad “1”
+
+Remove single pad net “Net-(Q2-Pad2)” on “Q2” pad “2”
+
+Remove single pad net “Net-(P28-Pad7)” on “P28” pad “7”
+
+Remove single pad net “Net-(P28-Pad8)” on “P28” pad “8”
+
+Remove single pad net “Net-(P28-Pad9)” on “P28” pad “9”
+
+Remove single pad net “Net-(P28-Pad10)” on “P28” pad “10”
+
+Remove single pad net “Net-(P27-Pad4)” on “P27” pad “4”
+
+Remove single pad net “/Midi/VREF” on “R326” pad “1”
+
+Remove single pad net “Net-(U19-Pad5)” on “U19” pad “5”
+
+Remove single pad net “Net-(U19-Pad1)” on “U19” pad “1”
+
+Remove single pad net “Net-(R70-Pad2)” on “U16” pad “1”
+
+Remove single pad net “Net-(R39-Pad1)” on “U9” pad “3”
+
+Remove single pad net “Net-(U8-Pad2)” on “U8” pad “2”
+
+Remove single pad net “Net-(U8-Pad15)” on “U8” pad “15”
+
+Remove single pad net “Net-(U7-Pad1)” on “U7” pad “1”
+
+Remove single pad net “Net-(U7-Pad5)” on “U7” pad “5”
+
+Remove single pad net “Net-(R25-Pad2)” on “U4” pad “1”
+
+Remove single pad net “Net-(R329-Pad3)” on “R330” pad “1”
+
+Changing footprint “U91:/5BC5FB86/5BE3C848” pad “6” net name from “” to “Net-(U91-Pad6)”.
+
+Remove single pad net “Net-(R285-Pad1)” on “R285” pad “1”
+
+Remove single pad net “Net-(R154-Pad1)” on “R154” pad “1”
+
+Remove single pad net “Net-(R138-Pad1)” on “R138” pad “1”
+
+Remove single pad net “Net-(R72-Pad2)” on “R89” pad “2”
+
+Remove single pad net “Net-(R89-Pad1)” on “R89” pad “1”
+
+Remove single pad net “Net-(R71-Pad2)” on “R74” pad “2”
+
+Remove single pad net “Net-(R68-Pad2)” on “R68” pad “2”
+
+Remove single pad net “Net-(R68-Pad3)” on “R68” pad “3”
+
+Remove single pad net “Net-(R44-Pad1)” on “R44” pad “1”
+
+Remove single pad net “Net-(R27-Pad2)” on “R44” pad “2”
+
+Remove single pad net “Net-(P9-Pad12)” on “P9” pad “12”
+
+Remove single pad net “Net-(P12-Pad7)” on “P12” pad “7”
+
+Remove single pad net “Net-(P10-Pad10)” on “P10” pad “10”
+
+Remove single pad net “Net-(P10-Pad9)” on “P10” pad “9”
+
+Remove single pad net “Net-(P10-Pad8)” on “P10” pad “8”
+
+Changing footprint “R29:/572E330C/572E41D2/56CE6EB1” pad “2” net name from “” to “Net-(R26-Pad2)”.
+
+Remove single pad net “Net-(P10-Pad7)” on “P10” pad “7”
+
+Remove single pad net “/Synth/Mixer/IN1” on “P10” pad “1”
+
+Remove single pad net “Net-(P9-Pad16)” on “P9” pad “16”
+
+Remove single pad net “Net-(P9-Pad15)” on “P9” pad “15”
+
+Remove single pad net “Net-(P9-Pad14)” on “P9” pad “14”
+
+Remove single pad net “Net-(P9-Pad13)” on “P9” pad “13”
+
+Remove single pad net “Net-(P12-Pad8)” on “P12” pad “8”
+
+Remove single pad net “Net-(P9-Pad11)” on “P9” pad “11”
+
+Remove single pad net “Net-(P9-Pad10)” on “P9” pad “10”
+
+Remove single pad net “/Synth/Mixer/IN3” on “P9” pad “1”
+
+Remove single pad net “Net-(P8-Pad10)” on “P8” pad “10”
+
+Remove single pad net “Net-(P8-Pad11)” on “P8” pad “11”
+
+Changing footprint “R44:/572E330C/572E41D2/5BD5384F” pad “1” net name from “” to “Net-(R44-Pad1)”.
+
+Changing footprint “R44:/572E330C/572E41D2/5BD5384F” pad “2” net name from “” to “Net-(R27-Pad2)”.
+
+Remove single pad net “Net-(P8-Pad12)” on “P8” pad “12”
+
+Remove single pad net “Net-(P8-Pad13)” on “P8” pad “13”
+
+Remove single pad net “Net-(P8-Pad14)” on “P8” pad “14”
+
+Changing footprint “Q30:/572E495F/5BE43A06/5BE3DB2C” pad “3” net name from “” to “Net-(Q30-Pad3)”.
+
+Changing footprint “Q4:/572E330C/572E41D2/56CC996F” pad “14” net name from “” to “Net-(Q4-Pad14)”.
+
+Changing footprint “Q4:/572E330C/572E41D2/56CC996F” pad “12” net name from “” to “Net-(Q4-Pad12)”.
+
+Changing footprint “Q4:/572E330C/572E41D2/56CC996F” pad “8” net name from “” to “Net-(Q4-Pad8)”.
+
+Changing footprint “Q6:/572E330C/572E470F/5BD5382A” pad “2” net name from “” to “Net-(Q6-Pad2)”.
+
+Changing footprint “Q6:/572E330C/572E470F/5BD5382A” pad “1” net name from “” to “Net-(Q6-Pad1)”.
+
+Changing footprint “Q7:/572E330C/572E470F/5BD5382B” pad “2” net name from “” to “Net-(Q7-Pad2)”.
+
+Changing footprint “Q7:/572E330C/572E470F/5BD5382B” pad “1” net name from “” to “Net-(Q7-Pad1)”.
+
+Changing footprint “Q8:/572E330C/572E470F/5BD53826” pad “8” net name from “” to “Net-(Q8-Pad8)”.
+
+Changing footprint “Q8:/572E330C/572E470F/5BD53826” pad “12” net name from “” to “Net-(Q8-Pad12)”.
+
+Changing footprint “Q8:/572E330C/572E470F/5BD53826” pad “14” net name from “” to “Net-(Q8-Pad14)”.
+
+Remove single pad net “Net-(P8-Pad15)” on “P8” pad “15”
+
+Remove single pad net “Net-(P13-Pad12)” on “P13” pad “12”
+
+Remove single pad net “Net-(P13-Pad16)” on “P13” pad “16”
+
+Remove single pad net “Net-(P13-Pad21)” on “P13” pad “21”
+
+Remove single pad net “Net-(P13-Pad22)” on “P13” pad “22”
+
+Remove single pad net “Net-(P13-Pad25)” on “P13” pad “25”
+
+Remove single pad net “Net-(P13-Pad26)” on “P13” pad “26”
+
+Remove single pad net “Net-(P12-Pad10)” on “P12” pad “10”
+
+Remove single pad net “Net-(P12-Pad9)” on “P12” pad “9”
+
+Changing footprint “R23:/572E330C/572E41D2/56CE3A95” pad “3” net name from “” to “Net-(R23-Pad3)”.
+
+Changing footprint “R23:/572E330C/572E41D2/56CE3A95” pad “2” net name from “” to “Net-(R23-Pad2)”.
+
+Remove single pad net “Net-(C13-Pad2)” on “C13” pad “2”
+
+Remove single pad net “Net-(J5-Pad2)” on “J5” pad “2”
+
+Remove single pad net “Net-(J4-Pad2)” on “J4” pad “2”
+
+Remove single pad net “Net-(J3-Pad2)” on “J3” pad “2”
+
+Changing footprint “R74:/572E330C/572E470F/5BD5385C” pad “2” net name from “” to “Net-(R71-Pad2)”.
+
+Remove single pad net “Net-(J2-Pad2)” on “J2” pad “2”
+
+Remove single pad net “Net-(J1-Pad2)” on “J1” pad “2”
+
+Remove single pad net “Net-(D11-Pad1)” on “D11” pad “1”
+
+Remove single pad net “Net-(D7-Pad1)” on “D7” pad “1”
+
+Remove single pad net “Net-(C30-Pad2)” on “C30” pad “2”
+
+Remove single pad net “Net-(C25-Pad2)” on “C25” pad “2”
+
+Remove single pad net “Net-(C18-Pad1)” on “C18” pad “1”
+
+Remove single pad net “Net-(J6-Pad8)” on “J6” pad “8”
+
+Remove single pad net “Net-(C8-Pad2)” on “C8” pad “2”
+
+Remove single pad net “Net-(C1-Pad1)” on “C1” pad “1”
+
+Changing footprint “R89:/572E330C/572E470F/56CE3A0F” pad “1” net name from “” to “Net-(R89-Pad1)”.
+
+Changing footprint “R89:/572E330C/572E470F/56CE3A0F” pad “2” net name from “” to “Net-(R72-Pad2)”.
+
+Changing footprint “U96:/5BC5FB86/5BC5A797” pad “9” net name from “” to “Net-(U96-Pad9)”.
+
+Changing footprint “U96:/5BC5FB86/5BC5A797” pad “7” net name from “” to “Net-(U96-Pad7)”.
+
+Changing footprint “U94:/5BC5FB86/5BCC949B” pad “5” net name from “” to “Net-(U94-Pad5)”.
+
+Changing footprint “U92:/5BC5FB86/5BCC93F3” pad “6” net name from “” to “Net-(U92-Pad6)”.
+
+Changing footprint “U92:/5BC5FB86/5BCC93F3” pad “9” net name from “” to “Net-(U92-Pad9)”.
+
+Changing footprint “U91:/5BC5FB86/5BE3C848” pad “7” net name from “” to “Net-(U91-Pad7)”.
+
+Remove single pad net “Net-(P3-Pad13)” on “P3” pad “13”
+
+Remove single pad net “Net-(P8-Pad16)” on “P8” pad “16”
+
+Remove single pad net “/Synth/VCO1/PWM3” on “P7” pad “10”
+
+Remove single pad net “/Synth/VCO1/VCO3” on “P6” pad “10”
+
+Remove single pad net “/Synth/VCO1/VCO2” on “P6” pad “4”
+
+Remove single pad net “/Synth/VCO2/VCO2” on “P5” pad “4”
+
+Remove single pad net “/Synth/VCO2/VCO3” on “P5” pad “10”
+
+Remove single pad net “/Synth/VCO2/PWM2” on “P4” pad “4”
+
+Remove single pad net “Net-(P3-Pad16)” on “P3” pad “16”
+
+Remove single pad net “Net-(P3-Pad15)” on “P3” pad “15”
+
+Remove single pad net “Net-(P3-Pad14)” on “P3” pad “14”
+
+Changing footprint “P8:/572E330C/5BC5E613/5BCAF95A” pad “14” net name from “” to “Net-(P8-Pad14)”.
+
+Remove single pad net “Net-(P3-Pad12)” on “P3” pad “12”
+
+Remove single pad net “Net-(P3-Pad11)” on “P3” pad “11”
+
+Remove single pad net “Net-(P2-Pad1)” on “P2” pad “1”
+
+Remove single pad net “Net-(P2-Pad3)” on “P2” pad “3”
+
+Remove single pad net “Net-(P2-Pad2)” on “P2” pad “2”
+
+Remove single pad net “Net-(P1-Pad3)” on “P1” pad “3”
+
+Remove single pad net “Net-(P1-Pad1)” on “P1” pad “1”
+
+Changing footprint “R68:/572E330C/572E470F/5BD53851” pad “3” net name from “” to “Net-(R68-Pad3)”.
+
+Changing footprint “R68:/572E330C/572E470F/5BD53851” pad “2” net name from “” to “Net-(R68-Pad2)”.
+
+Remove single pad net “Net-(J6-Pad7)” on “J6” pad “7”
+
+Changing footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF” pad “12” net name from “” to “Net-(P14-Pad12)”.
+
+Changing footprint “P13:/572E330C/5BC5E7A1/5BD538CE” pad “12” net name from “” to “Net-(P13-Pad12)”.
+
+Changing footprint “P13:/572E330C/5BC5E7A1/5BD538CE” pad “16” net name from “” to “Net-(P13-Pad16)”.
+
+Changing footprint “P13:/572E330C/5BC5E7A1/5BD538CE” pad “21” net name from “” to “Net-(P13-Pad21)”.
+
+Changing footprint “P13:/572E330C/5BC5E7A1/5BD538CE” pad “22” net name from “” to “Net-(P13-Pad22)”.
+
+Changing footprint “P13:/572E330C/5BC5E7A1/5BD538CE” pad “25” net name from “” to “Net-(P13-Pad25)”.
+
+Changing footprint “P13:/572E330C/5BC5E7A1/5BD538CE” pad “26” net name from “” to “Net-(P13-Pad26)”.
+
+Changing footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF” pad “26” net name from “” to “Net-(P14-Pad26)”.
+
+Changing footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF” pad “25” net name from “” to “Net-(P14-Pad25)”.
+
+Changing footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF” pad “22” net name from “” to “Net-(P14-Pad22)”.
+
+Changing footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF” pad “21” net name from “” to “Net-(P14-Pad21)”.
+
+Changing footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF” pad “16” net name from “” to “Net-(P14-Pad16)”.
+
+Changing footprint “P13:/572E330C/5BC5E7A1/5BD538CE” pad “8” net name from “” to “Net-(P13-Pad8)”.
+
+Changing footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF” pad “8” net name from “” to “Net-(P14-Pad8)”.
+
+Changing footprint “P14:/572E330C/5BC5F9C2/5BC7FDBF” pad “4” net name from “” to “Net-(P14-Pad4)”.
+
+Changing footprint “P16:/572E330C/5BC4C1F2/5BD538CB” pad “7” net name from “” to “Net-(P16-Pad7)”.
+
+Changing footprint “P16:/572E330C/5BC4C1F2/5BD538CB” pad “8” net name from “” to “Net-(P16-Pad8)”.
+
+Changing footprint “P16:/572E330C/5BC4C1F2/5BD538CB” pad “9” net name from “” to “Net-(P16-Pad9)”.
+
+Changing footprint “P16:/572E330C/5BC4C1F2/5BD538CB” pad “10” net name from “” to “Net-(P16-Pad10)”.
+
+Changing footprint “P17:/572E330C/5C1DE6F2/5C245E9A” pad “3” net name from “” to “/Synth/PITCH POTS/POT2”.
+
+Changing footprint “P17:/572E330C/5C1DE6F2/5C245E9A” pad “4” net name from “” to “Net-(P17-Pad4)”.
+
+Changing footprint “P17:/572E330C/5C1DE6F2/5C245E9A” pad “5” net name from “” to “Net-(P17-Pad5)”.
+
+Changing footprint “P17:/572E330C/5C1DE6F2/5C245E9A” pad “6” net name from “” to “Net-(P17-Pad6)”.
+
+Changing footprint “P9:/572E330C/5BC5E613/5BC9AD75” pad “16” net name from “” to “Net-(P9-Pad16)”.
+
+Changing footprint “P8:/572E330C/5BC5E613/5BCAF95A” pad “13” net name from “” to “Net-(P8-Pad13)”.
+
+Changing footprint “P8:/572E330C/5BC5E613/5BCAF95A” pad “15” net name from “” to “Net-(P8-Pad15)”.
+
+Changing footprint “P8:/572E330C/5BC5E613/5BCAF95A” pad “16” net name from “” to “Net-(P8-Pad16)”.
+
+Changing footprint “P9:/572E330C/5BC5E613/5BC9AD75” pad “1” net name from “” to “/Synth/Mixer/IN3”.
+
+Changing footprint “P9:/572E330C/5BC5E613/5BC9AD75” pad “10” net name from “” to “Net-(P9-Pad10)”.
+
+Changing footprint “P9:/572E330C/5BC5E613/5BC9AD75” pad “11” net name from “” to “Net-(P9-Pad11)”.
+
+Changing footprint “P9:/572E330C/5BC5E613/5BC9AD75” pad “12” net name from “” to “Net-(P9-Pad12)”.
+
+Changing footprint “P9:/572E330C/5BC5E613/5BC9AD75” pad “13” net name from “” to “Net-(P9-Pad13)”.
+
+Changing footprint “P9:/572E330C/5BC5E613/5BC9AD75” pad “14” net name from “” to “Net-(P9-Pad14)”.
+
+Changing footprint “P9:/572E330C/5BC5E613/5BC9AD75” pad “15” net name from “” to “Net-(P9-Pad15)”.
+
+Changing footprint “Q3:/572E330C/572E41D2/56CCA8E3” pad “2” net name from “” to “Net-(Q3-Pad2)”.
+
+Changing footprint “P10:/572E330C/5BC5E613/5BC9AC86” pad “1” net name from “” to “/Synth/Mixer/IN1”.
+
+Changing footprint “P10:/572E330C/5BC5E613/5BC9AC86” pad “7” net name from “” to “Net-(P10-Pad7)”.
+
+Changing footprint “P10:/572E330C/5BC5E613/5BC9AC86” pad “8” net name from “” to “Net-(P10-Pad8)”.
+
+Changing footprint “P10:/572E330C/5BC5E613/5BC9AC86” pad “9” net name from “” to “Net-(P10-Pad9)”.
+
+Changing footprint “P10:/572E330C/5BC5E613/5BC9AC86” pad “10” net name from “” to “Net-(P10-Pad10)”.
+
+Changing footprint “P12:/572E330C/5BC5E616/5BC7ED37” pad “10” net name from “” to “Net-(P12-Pad10)”.
+
+Changing footprint “P12:/572E330C/5BC5E616/5BC7ED37” pad “9” net name from “” to “Net-(P12-Pad9)”.
+
+Changing footprint “P12:/572E330C/5BC5E616/5BC7ED37” pad “8” net name from “” to “Net-(P12-Pad8)”.
+
+Changing footprint “P12:/572E330C/5BC5E616/5BC7ED37” pad “7” net name from “” to “Net-(P12-Pad7)”.
+
+Changing footprint “P13:/572E330C/5BC5E7A1/5BD538CE” pad “4” net name from “” to “Net-(P13-Pad4)”.
+
+Changing footprint “P25:/572E495F/5BE43A06/5BD5BF5D” pad “13” net name from “” to “Net-(P25-Pad13)”.
+
+Changing footprint “P23:/572E495F/5BE16063/5BD7C9DB” pad “7” net name from “” to “Net-(P23-Pad7)”.
+
+Changing footprint “P24:/572E495F/5BE16063/5BD5393F” pad “14” net name from “” to “Net-(P24-Pad14)”.
+
+Changing footprint “P24:/572E495F/5BE16063/5BD5393F” pad “13” net name from “” to “Net-(P24-Pad13)”.
+
+Changing footprint “P24:/572E495F/5BE16063/5BD5393F” pad “12” net name from “” to “Net-(P24-Pad12)”.
+
+Changing footprint “P24:/572E495F/5BE16063/5BD5393F” pad “11” net name from “” to “Net-(P24-Pad11)”.
+
+Changing footprint “P24:/572E495F/5BE16063/5BD5393F” pad “10” net name from “” to “Net-(P24-Pad10)”.
+
+Changing footprint “P25:/572E495F/5BE43A06/5BD5BF5D” pad “4” net name from “” to “Net-(P25-Pad4)”.
+
+Changing footprint “P25:/572E495F/5BE43A06/5BD5BF5D” pad “6” net name from “” to “Net-(P25-Pad6)”.
+
+Changing footprint “P25:/572E495F/5BE43A06/5BD5BF5D” pad “10” net name from “” to “Net-(P25-Pad10)”.
+
+Changing footprint “P25:/572E495F/5BE43A06/5BD5BF5D” pad “11” net name from “” to “Net-(P25-Pad11)”.
+
+Changing footprint “P25:/572E495F/5BE43A06/5BD5BF5D” pad “12” net name from “” to “Net-(P25-Pad12)”.
+
+Changing footprint “P17:/572E330C/5C1DE6F2/5C245E9A” pad “8” net name from “” to “Net-(P17-Pad8)”.
+
+Changing footprint “P25:/572E495F/5BE43A06/5BD5BF5D” pad “14” net name from “” to “Net-(P25-Pad14)”.
+
+Changing footprint “P26:/572E495F/5BE43A06/5BC83A06” pad “10” net name from “” to “Net-(P26-Pad10)”.
+
+Changing footprint “P27:/572E495F/5BE43A06/5BDC85C5” pad “4” net name from “” to “Net-(P27-Pad4)”.
+
+Changing footprint “P28:/5BC928F4/5BC7F53C” pad “7” net name from “” to “Net-(P28-Pad7)”.
+
+Changing footprint “P28:/5BC928F4/5BC7F53C” pad “8” net name from “” to “Net-(P28-Pad8)”.
+
+Changing footprint “P28:/5BC928F4/5BC7F53C” pad “9” net name from “” to “Net-(P28-Pad9)”.
+
+Changing footprint “P28:/5BC928F4/5BC7F53C” pad “10” net name from “” to “Net-(P28-Pad10)”.
+
+Changing footprint “Q2:/572E330C/572E41D2/56CCA77F” pad “1” net name from “” to “Net-(Q2-Pad1)”.
+
+Changing footprint “Q2:/572E330C/572E41D2/56CCA77F” pad “2” net name from “” to “Net-(Q2-Pad2)”.
+
+Changing footprint “Q3:/572E330C/572E41D2/56CCA8E3” pad “1” net name from “” to “Net-(Q3-Pad1)”.
+
+Changing footprint “P23:/572E495F/5BE16063/5BD7C9DB” pad “9” net name from “” to “Net-(P23-Pad9)”.
+
+Changing footprint “P17:/572E330C/5C1DE6F2/5C245E9A” pad “7” net name from “” to “/Synth/PITCH POTS/POT1”.
+
+Changing footprint “P19:/572E495F/5BD63266/5BD53922” pad “10” net name from “” to “Net-(P19-Pad10)”.
+
+Changing footprint “P19:/572E495F/5BD63266/5BD53922” pad “9” net name from “” to “Net-(P19-Pad9)”.
+
+Changing footprint “P19:/572E495F/5BD63266/5BD53922” pad “8” net name from “” to “Net-(P19-Pad8)”.
+
+Changing footprint “P19:/572E495F/5BD63266/5BD53922” pad “7” net name from “” to “Net-(P19-Pad7)”.
+
+Changing footprint “P20:/572E495F/5BD63266/5BDB9CD7” pad “14” net name from “” to “Net-(P20-Pad14)”.
+
+Changing footprint “P20:/572E495F/5BD63266/5BDB9CD7” pad “13” net name from “” to “Net-(P20-Pad13)”.
+
+Changing footprint “P20:/572E495F/5BD63266/5BDB9CD7” pad “12” net name from “” to “Net-(P20-Pad12)”.
+
+Changing footprint “P20:/572E495F/5BD63266/5BDB9CD7” pad “11” net name from “” to “Net-(P20-Pad11)”.
+
+Changing footprint “P20:/572E495F/5BD63266/5BDB9CD7” pad “10” net name from “” to “Net-(P20-Pad10)”.
+
+Changing footprint “P21:/572E495F/5BE16060/5BD53921” pad “8” net name from “” to “Net-(P21-Pad8)”.
+
+Changing footprint “P23:/572E495F/5BE16063/5BD7C9DB” pad “8” net name from “” to “Net-(P23-Pad8)”.
+
+Changing footprint “P23:/572E495F/5BE16063/5BD7C9DB” pad “10” net name from “” to “Net-(P23-Pad10)”.
+
+Changing footprint “P22:/572E495F/5BE16060/5BD53940” pad “14” net name from “” to “Net-(P22-Pad14)”.
+
+Changing footprint “P22:/572E495F/5BE16060/5BD53940” pad “13” net name from “” to “Net-(P22-Pad13)”.
+
+Changing footprint “P22:/572E495F/5BE16060/5BD53940” pad “12” net name from “” to “Net-(P22-Pad12)”.
+
+Changing footprint “P22:/572E495F/5BE16060/5BD53940” pad “11” net name from “” to “Net-(P22-Pad11)”.
+
+Changing footprint “P22:/572E495F/5BE16060/5BD53940” pad “10” net name from “” to “Net-(P22-Pad10)”.
+
+Changing footprint “P21:/572E495F/5BE16060/5BD53921” pad “10” net name from “” to “Net-(P21-Pad10)”.
+
+Changing footprint “P21:/572E495F/5BE16060/5BD53921” pad “9” net name from “” to “Net-(P21-Pad9)”.
+
+Changing footprint “P21:/572E495F/5BE16060/5BD53921” pad “7” net name from “” to “Net-(P21-Pad7)”.
+
+Error: Component “J6” pad “~” not found in footprint “FootPrints:IDC5x2_Vert”
+
+Error: Component “Q22” pad “5” not found in footprint “FootPrints:TO92”
+
+Error: Component “Q22” pad “6” not found in footprint “FootPrints:TO92”
+
+Error: Component “Q22” pad “4” not found in footprint “FootPrints:TO92”
+
+Error: Component “Q23” pad “6” not found in footprint “FootPrints:TO92”
+
+Error: Component “Q23” pad “5” not found in footprint “FootPrints:TO92”
+
+Error: Component “Q23” pad “4” not found in footprint “FootPrints:TO92”
+
+Error: Component “R329” pad “3” not found in footprint “FootPrints:AXIAL0.4”
+
+Error: Cannot add new symbol “R69:/572E330C/572E470F/56CE3BA1” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Component “R66” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R43” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R47” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R31” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R32” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R22” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R77” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R76” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R92” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R88” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R86” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R85” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R83” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R61” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R73” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R90” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R41” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R65” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R64” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R63” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R62” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R70” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R82” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R91” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R71” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R99” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R98” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R103” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R102” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R72” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R101” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R81” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R50” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: No footprint defined for symbol “R95”.
+
+Error: Component “R27” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R57” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R58” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R48” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R39” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R36” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R49” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R24” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R53” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R33” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R30” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R54” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R26” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R46” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R94” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R80” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R15” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R16” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R25” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R17” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R18” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R19” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R20” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R21” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R45” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R28” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R37” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R38” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R40” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “U50” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C27” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C79” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C78” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C33” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C81” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C29” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C31” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C32” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C4” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C24” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C26” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C23” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U25” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U23” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U18” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C6” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U13” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U11” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U10” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U15” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U24” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U17” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U22” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U14” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U6” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U26” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U49” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U27” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U5” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “U3” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C3” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “R69” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R78” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R75” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R96” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R97” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R93” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R84” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R51” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R52” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R56” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R55” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R35” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R100” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R67” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Component “R60” footprint “AXIAL0.4” was not found in any libraries in the footprint library table.
+
+Error: Cannot add new symbol “C3:/572E330C/572E41D2/5BD53890” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Component “C20” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C21” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C7” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C9” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C14” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C80” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C12” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C17” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C11” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C16” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C10” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C15” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C28” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Component “C34” footprint “CAP-Bypass-0.3” was not found in any libraries in the footprint library table.
+
+Error: Cannot add new symbol “R71:/572E330C/572E470F/56CE6FB9” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R90:/572E330C/572E470F/5BD53862” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R88:/572E330C/572E470F/5BD53832” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R86:/572E330C/572E470F/5BD53831” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R85:/572E330C/572E470F/5BD53830” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R84:/572E330C/572E470F/5BD5384C” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R83:/572E330C/572E470F/56CCAEA8” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R82:/572E330C/572E470F/5BD5382E” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R81:/572E330C/572E470F/5BD5384B” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R80:/572E330C/572E470F/56CE6120” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R78:/572E330C/572E470F/56CE36F4” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R77:/572E330C/572E470F/56CDF859” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R76:/572E330C/572E470F/56CDE1CB” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R75:/572E330C/572E470F/5BD53849” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R73:/572E330C/572E470F/56CBFD99” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R72:/572E330C/572E470F/56CE4205” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R91:/572E330C/572E470F/56CE87C0” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R70:/572E330C/572E470F/56CBE5CB” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Component “U12” footprint “DIP8.3” was not found in any libraries in the footprint library table.
+
+Error: Cannot add new symbol “R67:/572E330C/572E470F/5BD53824” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R66:/572E330C/572E470F/5BD53823” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R65:/572E330C/572E470F/56CBF4F1” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R64:/572E330C/572E470F/56CBF4AB” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R63:/572E330C/572E470F/56CBF462” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R62:/572E330C/572E470F/56CBF400” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R61:/572E330C/572E470F/56CBE58B” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R60:/572E330C/572E470F/56CBE503” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R58:/572E330C/572E41D2/5BD53857” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R57:/572E330C/572E41D2/56CE4C1D” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R56:/572E330C/572E41D2/56CEBFB5” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R55:/572E330C/572E41D2/5BD5386A” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “U6:/572E330C/572E41D2/5BD5381E” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U49:/572E330C/5C1DE6F2/5C1DEC51” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U27:/572E330C/572E470F/5BD53841” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U26:/572E330C/572E470F/5BD53846” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U25:/572E330C/572E470F/56CE8179” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U24:/572E330C/572E470F/5BD53845” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U23:/572E330C/572E470F/56CE805B” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U22:/572E330C/572E470F/5BD5382D” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U18:/572E330C/572E470F/56CBF2BF” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U17:/572E330C/572E470F/56CCAA13” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U15:/572E330C/572E41D2/56CE0FF3” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U14:/572E330C/572E41D2/56CE22E3” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U13:/572E330C/572E41D2/5BD5385F” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U12:/572E330C/572E41D2/56CE2146” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U11:/572E330C/572E41D2/5BD5385E” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U10:/572E330C/572E41D2/56CCAB18” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “R54:/572E330C/572E41D2/56CE5B3E” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “U5:/572E330C/572E41D2/5BD5382C” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “U3:/572E330C/5BD33BD7” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “R103:/572E330C/572E470F/56CE4E0B” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R102:/572E330C/572E470F/5BD53856” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R101:/572E330C/572E470F/5BD53866” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R100:/572E330C/572E470F/56CED8AF” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R99:/572E330C/572E470F/5BD53859” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R98:/572E330C/572E470F/5BD53858” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R97:/572E330C/572E470F/5BD53865” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R96:/572E330C/572E470F/5BD53864” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R95:/572E330C/572E470F/5BD6A2AE” due to missing footprint “”.
+
+Error: Cannot add new symbol “R94:/572E330C/572E470F/5BD5384A” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R93:/572E330C/572E470F/5BD5383F” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R92:/572E330C/572E470F/56CCB0E6” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “C24:/572E330C/572E470F/5BD5388A” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “R17:/572E330C/572E41D2/5BD5381F” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R16:/572E330C/572E41D2/5BD5381C” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R15:/572E330C/572E41D2/5BD5381A” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “C81:/572E330C/5C1DE6F2/5BD14683” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C80:/572E330C/5C1DE6F2/5BD14689” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C79:/572E330C/5C1DE6F2/5BD1041A” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C78:/572E330C/5C1DE6F2/5BD10421” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C34:/572E330C/572E470F/56CF388A” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C33:/572E330C/572E470F/5BD53875” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C32:/572E330C/572E470F/56CF27BC” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C31:/572E330C/572E470F/5BD53883” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C29:/572E330C/572E470F/56CF3890” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C28:/572E330C/572E470F/5BD53876” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C27:/572E330C/572E470F/5BD5386F” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C26:/572E330C/572E470F/5BD53884” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “R18:/572E330C/572E41D2/5BD53820” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “C23:/572E330C/572E470F/5BD5388B” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C21:/572E330C/572E470F/56CF51BA” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C20:/572E330C/572E470F/56CF5117” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C17:/572E330C/572E41D2/5BD5387C” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C16:/572E330C/572E41D2/56CF3719” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C15:/572E330C/572E41D2/5BD5386E” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C14:/572E330C/572E41D2/56CF4486” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C12:/572E330C/572E41D2/5BD5387D” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C11:/572E330C/572E41D2/56CF371F” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C10:/572E330C/572E41D2/56CF2BB1” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C9:/572E330C/572E41D2/56CF448C” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C7:/572E330C/572E41D2/56CF46D8” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C6:/572E330C/572E41D2/56CF46DE” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “C4:/572E330C/572E41D2/5BD53893” due to missing footprint “Footprints:CAP-Bypass-0.3”.
+
+Error: Cannot add new symbol “R36:/572E330C/572E41D2/56CE3095” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R53:/572E330C/572E41D2/56CE575E” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R52:/572E330C/572E41D2/56CEB41B” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R51:/572E330C/572E41D2/56CEB2D1” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R50:/572E330C/572E41D2/56CE89D0” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R49:/572E330C/572E41D2/56CE2C42” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R48:/572E330C/572E41D2/56CE0444” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R47:/572E330C/572E41D2/5BD53833” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R46:/572E330C/572E41D2/5BD53860” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R45:/572E330C/572E41D2/56CE8ABD” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R43:/572E330C/572E41D2/56CCB05F” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R41:/572E330C/572E41D2/56CCAFBF” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R40:/572E330C/572E41D2/56CCAF3A” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R39:/572E330C/572E41D2/56CE318A” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R38:/572E330C/572E41D2/5BD5382F” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R37:/572E330C/572E41D2/56CCAD55” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “U50:/572E330C/5C1DE6F2/5C241CD3” due to missing footprint “Footprints:DIP8.3”.
+
+Error: Cannot add new symbol “R35:/572E330C/572E41D2/5BD5385A” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R33:/572E330C/572E41D2/5BD5384E” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R32:/572E330C/572E41D2/5BD5383B” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R31:/572E330C/572E41D2/5BD53834” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R30:/572E330C/572E41D2/56CE2A74” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R28:/572E330C/572E41D2/5BD53825” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R27:/572E330C/572E41D2/5BD53855” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R26:/572E330C/572E41D2/5BD5385D” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R25:/572E330C/572E41D2/5BD5381D” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R24:/572E330C/572E41D2/5BD53852” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R22:/572E330C/572E41D2/56CBF626” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R21:/572E330C/572E41D2/56CBF538” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R20:/572E330C/572E41D2/5BD53822” due to missing footprint “Footprints:AXIAL0.4”.
+
+Error: Cannot add new symbol “R19:/572E330C/572E41D2/5BD53821” due to missing footprint “Footprints:AXIAL0.4”.
+

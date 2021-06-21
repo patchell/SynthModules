@@ -1,0 +1,32 @@
+Protel Design System Design Rule Check
+PCB File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\1023.PCB
+NET File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1023\500-1023.net
+Date     : 25-May-2014
+Time     : 16:36:53
+
+
+Clearances
+  Arc        : 5mil
+  Fill       : 5mil
+  Pad        : 5mil
+  Track      : 5mil
+  Text       : 5mil
+  Via        : 5mil
+  Large Comp : 50mil
+  Small Comp : 20mil
+
+
+Do Missing Component Errors : On
+Do Missing Pin Errors       : Off
+Do Extra Pin Errors         : Off
+Do Extra UnNamed Pin Errors : Off
+Do Extra Net Errors         : On
+Do Extra Component Errors   : Off
+Do Split Net Errors         : On
+Do Clearance Errors         : On
+Do Component Clearances     : Off
+Do Component Pattern Errors : Off
+Do Component Value Errors   : Off
+
+
+Time Elapsed : 00:00:01

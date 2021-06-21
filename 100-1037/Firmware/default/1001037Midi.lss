@@ -1,0 +1,1231 @@
+
+1001037Midi.elf:     file format elf32-avr
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         000006e8  00000000  00000000  00000094  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .data         0000000c  00800060  000006e8  0000077c  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          00000023  0080006c  0080006c  00000788  2**0
+                  ALLOC
+  3 .stab         000006cc  00000000  00000000  00000788  2**2
+                  CONTENTS, READONLY, DEBUGGING
+  4 .stabstr      00000085  00000000  00000000  00000e54  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  5 .debug_aranges 000000c0  00000000  00000000  00000ee0  2**3
+                  CONTENTS, READONLY, DEBUGGING
+  6 .debug_pubnames 000001a2  00000000  00000000  00000fa0  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  7 .debug_info   000007b2  00000000  00000000  00001142  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  8 .debug_abbrev 00000375  00000000  00000000  000018f4  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  9 .debug_line   000005f2  00000000  00000000  00001c69  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 10 .debug_frame  00000150  00000000  00000000  0000225c  2**2
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_str    00000303  00000000  00000000  000023ac  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_loc    000001e2  00000000  00000000  000026af  2**0
+                  CONTENTS, READONLY, DEBUGGING
+
+Disassembly of section .text:
+
+00000000 <__vectors>:
+   0:	10 c0       	rjmp	.+32     	; 0x22 <__ctors_end>
+   2:	2a c0       	rjmp	.+84     	; 0x58 <__bad_interrupt>
+   4:	29 c0       	rjmp	.+82     	; 0x58 <__bad_interrupt>
+   6:	28 c0       	rjmp	.+80     	; 0x58 <__bad_interrupt>
+   8:	27 c0       	rjmp	.+78     	; 0x58 <__bad_interrupt>
+   a:	26 c0       	rjmp	.+76     	; 0x58 <__bad_interrupt>
+   c:	25 c0       	rjmp	.+74     	; 0x58 <__bad_interrupt>
+   e:	d0 c2       	rjmp	.+1440   	; 0x5b0 <__vector_7>
+  10:	23 c0       	rjmp	.+70     	; 0x58 <__bad_interrupt>
+  12:	22 c0       	rjmp	.+68     	; 0x58 <__bad_interrupt>
+  14:	21 c0       	rjmp	.+66     	; 0x58 <__bad_interrupt>
+  16:	20 c0       	rjmp	.+64     	; 0x58 <__bad_interrupt>
+  18:	1f c0       	rjmp	.+62     	; 0x58 <__bad_interrupt>
+  1a:	1e c0       	rjmp	.+60     	; 0x58 <__bad_interrupt>
+  1c:	1d c0       	rjmp	.+58     	; 0x58 <__bad_interrupt>
+  1e:	1c c0       	rjmp	.+56     	; 0x58 <__bad_interrupt>
+  20:	1b c0       	rjmp	.+54     	; 0x58 <__bad_interrupt>
+
+00000022 <__ctors_end>:
+  22:	11 24       	eor	r1, r1
+  24:	1f be       	out	0x3f, r1	; 63
+  26:	cf e5       	ldi	r28, 0x5F	; 95
+  28:	d2 e0       	ldi	r29, 0x02	; 2
+  2a:	de bf       	out	0x3e, r29	; 62
+  2c:	cd bf       	out	0x3d, r28	; 61
+
+0000002e <__do_copy_data>:
+  2e:	10 e0       	ldi	r17, 0x00	; 0
+  30:	a0 e6       	ldi	r26, 0x60	; 96
+  32:	b0 e0       	ldi	r27, 0x00	; 0
+  34:	e8 ee       	ldi	r30, 0xE8	; 232
+  36:	f6 e0       	ldi	r31, 0x06	; 6
+  38:	02 c0       	rjmp	.+4      	; 0x3e <__SP_H__>
+  3a:	05 90       	lpm	r0, Z+
+  3c:	0d 92       	st	X+, r0
+  3e:	ac 36       	cpi	r26, 0x6C	; 108
+  40:	b1 07       	cpc	r27, r17
+  42:	d9 f7       	brne	.-10     	; 0x3a <__CCP__+0x6>
+
+00000044 <__do_clear_bss>:
+  44:	10 e0       	ldi	r17, 0x00	; 0
+  46:	ac e6       	ldi	r26, 0x6C	; 108
+  48:	b0 e0       	ldi	r27, 0x00	; 0
+  4a:	01 c0       	rjmp	.+2      	; 0x4e <.do_clear_bss_start>
+
+0000004c <.do_clear_bss_loop>:
+  4c:	1d 92       	st	X+, r1
+
+0000004e <.do_clear_bss_start>:
+  4e:	af 38       	cpi	r26, 0x8F	; 143
+  50:	b1 07       	cpc	r27, r17
+  52:	e1 f7       	brne	.-8      	; 0x4c <.do_clear_bss_loop>
+  54:	02 d0       	rcall	.+4      	; 0x5a <main>
+  56:	46 c3       	rjmp	.+1676   	; 0x6e4 <_exit>
+
+00000058 <__bad_interrupt>:
+  58:	d3 cf       	rjmp	.-90     	; 0x0 <__vectors>
+
+0000005a <main>:
+#include <avr/io.h>
+
+int main()
+{
+	return 0;
+}
+  5a:	80 e0       	ldi	r24, 0x00	; 0
+  5c:	90 e0       	ldi	r25, 0x00	; 0
+  5e:	08 95       	ret
+
+00000060 <RStatus>:
+	//		pI....pointer to IORECord
+	//	returns:
+	//		number of bytes in buffer.
+	//-------------------------------
+	return pI->m_RxnChar;	//return number of chars in recieve buffer
+}
+  60:	fc 01       	movw	r30, r24
+  62:	82 81       	ldd	r24, Z+2	; 0x02
+  64:	08 95       	ret
+
+00000066 <RInit>:
+	//--------------------------------
+	return (unsigned short)( ((SYSTEM_CLOCKRATE / nBR) / 16L) - 1   );
+}
+
+IOREC *RInit(char *pTb,unsigned char nTSize,char *pRb,unsigned char nRSize,long nBaudRate)
+{
+  66:	cf 92       	push	r12
+  68:	df 92       	push	r13
+  6a:	ef 92       	push	r14
+  6c:	ff 92       	push	r15
+  6e:	0f 93       	push	r16
+  70:	1f 93       	push	r17
+  72:	cf 93       	push	r28
+  74:	df 93       	push	r29
+  76:	67 01       	movw	r12, r14
+  78:	78 01       	movw	r14, r16
+	//		nBaudRate.Desired buad rate
+	//
+	// Returns:
+	//		Pointer to the IOREC structure
+	//----------------------------------
+	gSerial.regs = &SAdr;
+  7a:	e0 e6       	ldi	r30, 0x60	; 96
+  7c:	f0 e0       	ldi	r31, 0x00	; 0
+  7e:	f0 93 79 00 	sts	0x0079, r31
+  82:	e0 93 78 00 	sts	0x0078, r30
+	gSerial.m_pTxBuff = pTb;
+  86:	90 93 77 00 	sts	0x0077, r25
+  8a:	80 93 76 00 	sts	0x0076, r24
+	gSerial.m_TxnChar = gSerial.m_TxTail =gSerial.m_TxHead = 0;
+  8e:	10 92 72 00 	sts	0x0072, r1
+  92:	10 92 73 00 	sts	0x0073, r1
+  96:	10 92 74 00 	sts	0x0074, r1
+	gSerial.m_TxSize = nTSize;
+  9a:	60 93 75 00 	sts	0x0075, r22
+	gSerial.m_pRxBuff = pRb;
+  9e:	50 93 71 00 	sts	0x0071, r21
+  a2:	40 93 70 00 	sts	0x0070, r20
+	gSerial.m_RxnChar = gSerial.m_RxTail = gSerial.m_RxHead = 0;
+  a6:	cc e6       	ldi	r28, 0x6C	; 108
+  a8:	d0 e0       	ldi	r29, 0x00	; 0
+  aa:	18 82       	st	Y, r1
+  ac:	19 82       	std	Y+1, r1	; 0x01
+  ae:	1a 82       	std	Y+2, r1	; 0x02
+	gSerial.m_RxSize = nRSize;
+  b0:	2b 83       	std	Y+3, r18	; 0x03
+	*gSerial.regs->pUCSRnB = 0x00; 	//disable while setting baud rate
+  b2:	e0 91 64 00 	lds	r30, 0x0064
+  b6:	f0 91 65 00 	lds	r31, 0x0065
+  ba:	10 82       	st	Z, r1
+	*gSerial.regs->pUCSRnA = 0x00;	//Normal UART Mode (bits 1 and 0)
+  bc:	e0 91 78 00 	lds	r30, 0x0078
+  c0:	f0 91 79 00 	lds	r31, 0x0079
+  c4:	02 80       	ldd	r0, Z+2	; 0x02
+  c6:	f3 81       	ldd	r31, Z+3	; 0x03
+  c8:	e0 2d       	mov	r30, r0
+  ca:	10 82       	st	Z, r1
+	*gSerial.regs->pUCSRnC = BV(URSEL) | BV(UCSZ1) | BV(UCSZ0);	//8 bits, 1 Stop Bit, No Parity
+  cc:	e0 91 78 00 	lds	r30, 0x0078
+  d0:	f0 91 79 00 	lds	r31, 0x0079
+  d4:	06 80       	ldd	r0, Z+6	; 0x06
+  d6:	f7 81       	ldd	r31, Z+7	; 0x07
+  d8:	e0 2d       	mov	r30, r0
+  da:	86 e8       	ldi	r24, 0x86	; 134
+  dc:	80 83       	st	Z, r24
+	*gSerial.regs->pUBRRL = CalculateBaudRate(nBaudRate);
+  de:	e0 91 78 00 	lds	r30, 0x0078
+  e2:	f0 91 79 00 	lds	r31, 0x0079
+  e6:	00 85       	ldd	r16, Z+8	; 0x08
+  e8:	11 85       	ldd	r17, Z+9	; 0x09
+  ea:	60 e2       	ldi	r22, 0x20	; 32
+  ec:	71 ea       	ldi	r23, 0xA1	; 161
+  ee:	87 e0       	ldi	r24, 0x07	; 7
+  f0:	90 e0       	ldi	r25, 0x00	; 0
+  f2:	a7 01       	movw	r20, r14
+  f4:	96 01       	movw	r18, r12
+  f6:	b9 d2       	rcall	.+1394   	; 0x66a <__divmodsi4>
+  f8:	21 50       	subi	r18, 0x01	; 1
+  fa:	30 40       	sbci	r19, 0x00	; 0
+  fc:	f8 01       	movw	r30, r16
+  fe:	20 83       	st	Z, r18
+	*gSerial.regs->pUCSRnB = BV(RXCIE) | BV(RXEN) | BV(TXEN); 	//Enable UART
+ 100:	e0 91 78 00 	lds	r30, 0x0078
+ 104:	f0 91 79 00 	lds	r31, 0x0079
+ 108:	04 80       	ldd	r0, Z+4	; 0x04
+ 10a:	f5 81       	ldd	r31, Z+5	; 0x05
+ 10c:	e0 2d       	mov	r30, r0
+ 10e:	88 e9       	ldi	r24, 0x98	; 152
+ 110:	80 83       	st	Z, r24
+	
+	return &gSerial;
+}
+ 112:	ce 01       	movw	r24, r28
+ 114:	df 91       	pop	r29
+ 116:	cf 91       	pop	r28
+ 118:	1f 91       	pop	r17
+ 11a:	0f 91       	pop	r16
+ 11c:	ff 90       	pop	r15
+ 11e:	ef 90       	pop	r14
+ 120:	df 90       	pop	r13
+ 122:	cf 90       	pop	r12
+ 124:	08 95       	ret
+
+00000126 <USART0_RX_vect>:
+	// occures.  This function
+	// is "naked", so we need
+	// to take care of things
+	// like saving the context
+	//---------------------------
+	SAVE_IRQ();	//save the context
+ 126:	ff 93       	push	r31
+ 128:	ff b7       	in	r31, 0x3f	; 63
+ 12a:	f0 68       	ori	r31, 0x80	; 128
+ 12c:	ff 93       	push	r31
+ 12e:	ef 93       	push	r30
+ 130:	df 93       	push	r29
+ 132:	cf 93       	push	r28
+ 134:	bf 93       	push	r27
+ 136:	af 93       	push	r26
+ 138:	9f 93       	push	r25
+ 13a:	8f 93       	push	r24
+ 13c:	7f 93       	push	r23
+ 13e:	6f 93       	push	r22
+ 140:	5f 93       	push	r21
+ 142:	4f 93       	push	r20
+ 144:	3f 93       	push	r19
+ 146:	2f 93       	push	r18
+ 148:	1f 93       	push	r17
+ 14a:	0f 93       	push	r16
+ 14c:	ff 92       	push	r15
+ 14e:	ef 92       	push	r14
+ 150:	df 92       	push	r13
+ 152:	cf 92       	push	r12
+ 154:	bf 92       	push	r11
+ 156:	af 92       	push	r10
+ 158:	9f 92       	push	r9
+ 15a:	8f 92       	push	r8
+ 15c:	7f 92       	push	r7
+ 15e:	6f 92       	push	r6
+ 160:	5f 92       	push	r5
+ 162:	4f 92       	push	r4
+ 164:	3f 92       	push	r3
+ 166:	2f 92       	push	r2
+ 168:	1f 92       	push	r1
+ 16a:	11 24       	eor	r1, r1
+ 16c:	0f 92       	push	r0
+	++InterruptCount;	//incrment counter
+ 16e:	80 91 85 00 	lds	r24, 0x0085
+ 172:	90 91 86 00 	lds	r25, 0x0086
+ 176:	01 96       	adiw	r24, 0x01	; 1
+ 178:	90 93 86 00 	sts	0x0086, r25
+ 17c:	80 93 85 00 	sts	0x0085, r24
+ 180:	1b c0       	rjmp	.+54     	; 0x1b8 <USART0_RX_vect+0x92>
+
+static void RxIsr(IOREC *pI)
+{
+	while(*pI->regs->pUCSRnA & BV(RXC))	//while chars availiable
+	{
+		pI->m_pRxBuff[pI->m_RxHead++] = *pI->regs->pUDR;	//get char from UART
+ 182:	80 91 6c 00 	lds	r24, 0x006C
+ 186:	01 90       	ld	r0, Z+
+ 188:	f0 81       	ld	r31, Z
+ 18a:	e0 2d       	mov	r30, r0
+ 18c:	90 81       	ld	r25, Z
+ 18e:	e0 91 70 00 	lds	r30, 0x0070
+ 192:	f0 91 71 00 	lds	r31, 0x0071
+ 196:	e8 0f       	add	r30, r24
+ 198:	f1 1d       	adc	r31, r1
+ 19a:	90 83       	st	Z, r25
+ 19c:	8f 5f       	subi	r24, 0xFF	; 255
+ 19e:	80 93 6c 00 	sts	0x006C, r24
+		if(pI->m_RxHead == pI->m_RxSize) pI->m_RxHead = 0;
+ 1a2:	90 91 6f 00 	lds	r25, 0x006F
+ 1a6:	89 17       	cp	r24, r25
+ 1a8:	11 f4       	brne	.+4      	; 0x1ae <USART0_RX_vect+0x88>
+ 1aa:	10 92 6c 00 	sts	0x006C, r1
+		pI->m_RxnChar++;	//increment number of chars in buffer
+ 1ae:	80 91 6e 00 	lds	r24, 0x006E
+ 1b2:	8f 5f       	subi	r24, 0xFF	; 255
+ 1b4:	80 93 6e 00 	sts	0x006E, r24
+
+
+
+static void RxIsr(IOREC *pI)
+{
+	while(*pI->regs->pUCSRnA & BV(RXC))	//while chars availiable
+ 1b8:	e0 91 78 00 	lds	r30, 0x0078
+ 1bc:	f0 91 79 00 	lds	r31, 0x0079
+ 1c0:	a2 81       	ldd	r26, Z+2	; 0x02
+ 1c2:	b3 81       	ldd	r27, Z+3	; 0x03
+ 1c4:	8c 91       	ld	r24, X
+ 1c6:	87 fd       	sbrc	r24, 7
+ 1c8:	dc cf       	rjmp	.-72     	; 0x182 <USART0_RX_vect+0x5c>
+	// like saving the context
+	//---------------------------
+	SAVE_IRQ();	//save the context
+	++InterruptCount;	//incrment counter
+	RxIsr(&gSerial);	//call RX IRQ function
+	RESTORE_IRQ();	//restore context
+ 1ca:	0f 90       	pop	r0
+ 1cc:	1f 90       	pop	r1
+ 1ce:	2f 90       	pop	r2
+ 1d0:	3f 90       	pop	r3
+ 1d2:	4f 90       	pop	r4
+ 1d4:	5f 90       	pop	r5
+ 1d6:	6f 90       	pop	r6
+ 1d8:	7f 90       	pop	r7
+ 1da:	8f 90       	pop	r8
+ 1dc:	9f 90       	pop	r9
+ 1de:	af 90       	pop	r10
+ 1e0:	bf 90       	pop	r11
+ 1e2:	cf 90       	pop	r12
+ 1e4:	df 90       	pop	r13
+ 1e6:	ef 90       	pop	r14
+ 1e8:	ff 90       	pop	r15
+ 1ea:	0f 91       	pop	r16
+ 1ec:	1f 91       	pop	r17
+ 1ee:	2f 91       	pop	r18
+ 1f0:	3f 91       	pop	r19
+ 1f2:	4f 91       	pop	r20
+ 1f4:	5f 91       	pop	r21
+ 1f6:	6f 91       	pop	r22
+ 1f8:	7f 91       	pop	r23
+ 1fa:	8f 91       	pop	r24
+ 1fc:	9f 91       	pop	r25
+ 1fe:	af 91       	pop	r26
+ 200:	bf 91       	pop	r27
+ 202:	cf 91       	pop	r28
+ 204:	df 91       	pop	r29
+ 206:	ef 91       	pop	r30
+ 208:	ff 91       	pop	r31
+ 20a:	ff bf       	out	0x3f, r31	; 63
+ 20c:	ff 91       	pop	r31
+ 20e:	18 95       	reti
+
+00000210 <USART0_UDRE_vect>:
+	// occures.  This function
+	// is "naked", so we need
+	// to take care of things
+	// like saving the context
+	//---------------------------
+	SAVE_IRQ();
+ 210:	ff 93       	push	r31
+ 212:	ff b7       	in	r31, 0x3f	; 63
+ 214:	f0 68       	ori	r31, 0x80	; 128
+ 216:	ff 93       	push	r31
+ 218:	ef 93       	push	r30
+ 21a:	df 93       	push	r29
+ 21c:	cf 93       	push	r28
+ 21e:	bf 93       	push	r27
+ 220:	af 93       	push	r26
+ 222:	9f 93       	push	r25
+ 224:	8f 93       	push	r24
+ 226:	7f 93       	push	r23
+ 228:	6f 93       	push	r22
+ 22a:	5f 93       	push	r21
+ 22c:	4f 93       	push	r20
+ 22e:	3f 93       	push	r19
+ 230:	2f 93       	push	r18
+ 232:	1f 93       	push	r17
+ 234:	0f 93       	push	r16
+ 236:	ff 92       	push	r15
+ 238:	ef 92       	push	r14
+ 23a:	df 92       	push	r13
+ 23c:	cf 92       	push	r12
+ 23e:	bf 92       	push	r11
+ 240:	af 92       	push	r10
+ 242:	9f 92       	push	r9
+ 244:	8f 92       	push	r8
+ 246:	7f 92       	push	r7
+ 248:	6f 92       	push	r6
+ 24a:	5f 92       	push	r5
+ 24c:	4f 92       	push	r4
+ 24e:	3f 92       	push	r3
+ 250:	2f 92       	push	r2
+ 252:	1f 92       	push	r1
+ 254:	11 24       	eor	r1, r1
+ 256:	0f 92       	push	r0
+	++InterruptCount;
+ 258:	80 91 85 00 	lds	r24, 0x0085
+ 25c:	90 91 86 00 	lds	r25, 0x0086
+ 260:	01 96       	adiw	r24, 0x01	; 1
+ 262:	90 93 86 00 	sts	0x0086, r25
+ 266:	80 93 85 00 	sts	0x0085, r24
+ 26a:	1e c0       	rjmp	.+60     	; 0x2a8 <__stack+0x49>
+	//-------------------------------
+	char loop = 1;
+
+	while((*pI->regs->pUCSRnA & BV(UDRE)) && loop)	//while space availiable in TX
+	{
+		if(pI->m_TxnChar)	//while there are characters
+ 26c:	80 91 74 00 	lds	r24, 0x0074
+ 270:	88 23       	and	r24, r24
+ 272:	e1 f0       	breq	.+56     	; 0x2ac <__stack+0x4d>
+		{
+			*pI->regs->pUDR = pI->m_pTxBuff[pI->m_TxTail++];	//stuff char
+ 274:	a0 81       	ld	r26, Z
+ 276:	b1 81       	ldd	r27, Z+1	; 0x01
+ 278:	80 91 73 00 	lds	r24, 0x0073
+ 27c:	e0 91 76 00 	lds	r30, 0x0076
+ 280:	f0 91 77 00 	lds	r31, 0x0077
+ 284:	e8 0f       	add	r30, r24
+ 286:	f1 1d       	adc	r31, r1
+ 288:	90 81       	ld	r25, Z
+ 28a:	9c 93       	st	X, r25
+ 28c:	8f 5f       	subi	r24, 0xFF	; 255
+ 28e:	80 93 73 00 	sts	0x0073, r24
+			if(pI->m_TxTail == pI->m_TxSize) pI->m_TxTail = 0;
+ 292:	90 91 75 00 	lds	r25, 0x0075
+ 296:	89 17       	cp	r24, r25
+ 298:	11 f4       	brne	.+4      	; 0x29e <__stack+0x3f>
+ 29a:	10 92 73 00 	sts	0x0073, r1
+			pI->m_TxnChar--;	//decrement number of chars in buffer
+ 29e:	80 91 74 00 	lds	r24, 0x0074
+ 2a2:	81 50       	subi	r24, 0x01	; 1
+ 2a4:	80 93 74 00 	sts	0x0074, r24
+ 2a8:	81 e0       	ldi	r24, 0x01	; 1
+ 2aa:	07 c0       	rjmp	.+14     	; 0x2ba <__stack+0x5b>
+		}
+		else
+		{
+			//we have run out of characters...disable interrupt
+			*pI->regs->pUCSRnB &= ~(BV(UDRIE));	//disable tx interrupts
+ 2ac:	04 80       	ldd	r0, Z+4	; 0x04
+ 2ae:	f5 81       	ldd	r31, Z+5	; 0x05
+ 2b0:	e0 2d       	mov	r30, r0
+ 2b2:	80 81       	ld	r24, Z
+ 2b4:	8f 7d       	andi	r24, 0xDF	; 223
+ 2b6:	80 83       	st	Z, r24
+ 2b8:	80 e0       	ldi	r24, 0x00	; 0
+	//	parameter:
+	//		pI.....pointer to IORECord
+	//-------------------------------
+	char loop = 1;
+
+	while((*pI->regs->pUCSRnA & BV(UDRE)) && loop)	//while space availiable in TX
+ 2ba:	e0 91 78 00 	lds	r30, 0x0078
+ 2be:	f0 91 79 00 	lds	r31, 0x0079
+ 2c2:	a2 81       	ldd	r26, Z+2	; 0x02
+ 2c4:	b3 81       	ldd	r27, Z+3	; 0x03
+ 2c6:	9c 91       	ld	r25, X
+ 2c8:	95 ff       	sbrs	r25, 5
+ 2ca:	02 c0       	rjmp	.+4      	; 0x2d0 <__stack+0x71>
+ 2cc:	88 23       	and	r24, r24
+ 2ce:	71 f6       	brne	.-100    	; 0x26c <__stack+0xd>
+	// like saving the context
+	//---------------------------
+	SAVE_IRQ();
+	++InterruptCount;
+	TxIsr(&gSerial);
+	RESTORE_IRQ();
+ 2d0:	0f 90       	pop	r0
+ 2d2:	1f 90       	pop	r1
+ 2d4:	2f 90       	pop	r2
+ 2d6:	3f 90       	pop	r3
+ 2d8:	4f 90       	pop	r4
+ 2da:	5f 90       	pop	r5
+ 2dc:	6f 90       	pop	r6
+ 2de:	7f 90       	pop	r7
+ 2e0:	8f 90       	pop	r8
+ 2e2:	9f 90       	pop	r9
+ 2e4:	af 90       	pop	r10
+ 2e6:	bf 90       	pop	r11
+ 2e8:	cf 90       	pop	r12
+ 2ea:	df 90       	pop	r13
+ 2ec:	ef 90       	pop	r14
+ 2ee:	ff 90       	pop	r15
+ 2f0:	0f 91       	pop	r16
+ 2f2:	1f 91       	pop	r17
+ 2f4:	2f 91       	pop	r18
+ 2f6:	3f 91       	pop	r19
+ 2f8:	4f 91       	pop	r20
+ 2fa:	5f 91       	pop	r21
+ 2fc:	6f 91       	pop	r22
+ 2fe:	7f 91       	pop	r23
+ 300:	8f 91       	pop	r24
+ 302:	9f 91       	pop	r25
+ 304:	af 91       	pop	r26
+ 306:	bf 91       	pop	r27
+ 308:	cf 91       	pop	r28
+ 30a:	df 91       	pop	r29
+ 30c:	ef 91       	pop	r30
+ 30e:	ff 91       	pop	r31
+ 310:	ff bf       	out	0x3f, r31	; 63
+ 312:	ff 91       	pop	r31
+ 314:	18 95       	reti
+
+00000316 <RPutC>:
+	return retval;
+}
+
+
+void RPutC(IOREC *pI,char c)
+{
+ 316:	0f 93       	push	r16
+ 318:	1f 93       	push	r17
+ 31a:	df 93       	push	r29
+ 31c:	cf 93       	push	r28
+ 31e:	0f 92       	push	r0
+ 320:	cd b7       	in	r28, 0x3d	; 61
+ 322:	de b7       	in	r29, 0x3e	; 62
+ 324:	8c 01       	movw	r16, r24
+	//		pI.....pointer to the IO Record
+	//		c......character to send
+	//-------------------------------
+	char sr;
+
+	sr = Disable();		//enter critical section
+ 326:	69 83       	std	Y+1, r22	; 0x01
+ 328:	ac d0       	rcall	.+344    	; 0x482 <Disable>
+	if(pI->m_TxnChar < pI->m_TxSize)	//and room?
+ 32a:	d8 01       	movw	r26, r16
+ 32c:	18 96       	adiw	r26, 0x08	; 8
+ 32e:	2c 91       	ld	r18, X
+ 330:	18 97       	sbiw	r26, 0x08	; 8
+ 332:	19 96       	adiw	r26, 0x09	; 9
+ 334:	9c 91       	ld	r25, X
+ 336:	19 97       	sbiw	r26, 0x09	; 9
+ 338:	69 81       	ldd	r22, Y+1	; 0x01
+ 33a:	29 17       	cp	r18, r25
+ 33c:	50 f5       	brcc	.+84     	; 0x392 <RPutC+0x7c>
+	{
+		pI->m_pTxBuff[pI->m_TxHead++] = (unsigned char)c;
+ 33e:	16 96       	adiw	r26, 0x06	; 6
+ 340:	9c 91       	ld	r25, X
+ 342:	16 97       	sbiw	r26, 0x06	; 6
+ 344:	1a 96       	adiw	r26, 0x0a	; 10
+ 346:	ed 91       	ld	r30, X+
+ 348:	fc 91       	ld	r31, X
+ 34a:	1b 97       	sbiw	r26, 0x0b	; 11
+ 34c:	e9 0f       	add	r30, r25
+ 34e:	f1 1d       	adc	r31, r1
+ 350:	60 83       	st	Z, r22
+ 352:	9f 5f       	subi	r25, 0xFF	; 255
+ 354:	16 96       	adiw	r26, 0x06	; 6
+ 356:	9c 93       	st	X, r25
+ 358:	16 97       	sbiw	r26, 0x06	; 6
+		if(pI->m_TxHead == pI->m_TxSize) pI->m_TxHead = 0;	//check head pointer
+ 35a:	19 96       	adiw	r26, 0x09	; 9
+ 35c:	2c 91       	ld	r18, X
+ 35e:	19 97       	sbiw	r26, 0x09	; 9
+ 360:	92 17       	cp	r25, r18
+ 362:	19 f4       	brne	.+6      	; 0x36a <RPutC+0x54>
+ 364:	16 96       	adiw	r26, 0x06	; 6
+ 366:	1c 92       	st	X, r1
+ 368:	16 97       	sbiw	r26, 0x06	; 6
+		if(!pI->m_TxnChar)	//if first char
+ 36a:	f8 01       	movw	r30, r16
+ 36c:	90 85       	ldd	r25, Z+8	; 0x08
+ 36e:	99 23       	and	r25, r25
+ 370:	49 f4       	brne	.+18     	; 0x384 <RPutC+0x6e>
+			*pI->regs->pUCSRnB |= BV(UDRIE);	//enable tx interrupts
+ 372:	04 84       	ldd	r0, Z+12	; 0x0c
+ 374:	f5 85       	ldd	r31, Z+13	; 0x0d
+ 376:	e0 2d       	mov	r30, r0
+ 378:	04 80       	ldd	r0, Z+4	; 0x04
+ 37a:	f5 81       	ldd	r31, Z+5	; 0x05
+ 37c:	e0 2d       	mov	r30, r0
+ 37e:	90 81       	ld	r25, Z
+ 380:	90 62       	ori	r25, 0x20	; 32
+ 382:	90 83       	st	Z, r25
+		pI->m_TxnChar++;		//increment number of chars in buffer
+ 384:	d8 01       	movw	r26, r16
+ 386:	18 96       	adiw	r26, 0x08	; 8
+ 388:	9c 91       	ld	r25, X
+ 38a:	18 97       	sbiw	r26, 0x08	; 8
+ 38c:	9f 5f       	subi	r25, 0xFF	; 255
+ 38e:	18 96       	adiw	r26, 0x08	; 8
+ 390:	9c 93       	st	X, r25
+	}
+	Enable(sr);	//exit critical section
+ 392:	7b d0       	rcall	.+246    	; 0x48a <Enable>
+}
+ 394:	0f 90       	pop	r0
+ 396:	cf 91       	pop	r28
+ 398:	df 91       	pop	r29
+ 39a:	1f 91       	pop	r17
+ 39c:	0f 91       	pop	r16
+ 39e:	08 95       	ret
+
+000003a0 <RGetC>:
+	(unsigned char *)&UBRRL,
+	(unsigned char *)&UBRRH
+};
+
+char RGetC(IOREC *pI)
+{
+ 3a0:	1f 93       	push	r17
+ 3a2:	cf 93       	push	r28
+ 3a4:	df 93       	push	r29
+ 3a6:	ec 01       	movw	r28, r24
+	//------------------------------
+
+	char retval;
+	char sr;
+
+	while(pI->m_RxnChar == 0);
+ 3a8:	8a 81       	ldd	r24, Y+2	; 0x02
+ 3aa:	88 23       	and	r24, r24
+ 3ac:	d9 f0       	breq	.+54     	; 0x3e4 <RGetC+0x44>
+	sr = Disable();		//enter critical section
+ 3ae:	69 d0       	rcall	.+210    	; 0x482 <Disable>
+	if(pI->m_RxnChar)	//are there any characters to recieve
+ 3b0:	9a 81       	ldd	r25, Y+2	; 0x02
+ 3b2:	99 23       	and	r25, r25
+ 3b4:	11 f4       	brne	.+4      	; 0x3ba <RGetC+0x1a>
+ 3b6:	1f ef       	ldi	r17, 0xFF	; 255
+ 3b8:	0f c0       	rjmp	.+30     	; 0x3d8 <RGetC+0x38>
+	{
+		retval = (int)pI->m_pRxBuff[pI->m_RxTail++];	//get character	
+ 3ba:	99 81       	ldd	r25, Y+1	; 0x01
+ 3bc:	ec 81       	ldd	r30, Y+4	; 0x04
+ 3be:	fd 81       	ldd	r31, Y+5	; 0x05
+ 3c0:	e9 0f       	add	r30, r25
+ 3c2:	f1 1d       	adc	r31, r1
+ 3c4:	10 81       	ld	r17, Z
+ 3c6:	9f 5f       	subi	r25, 0xFF	; 255
+ 3c8:	99 83       	std	Y+1, r25	; 0x01
+		if(pI->m_RxTail == pI->m_RxSize) pI->m_RxTail = 0;	//check tail pointer
+ 3ca:	2b 81       	ldd	r18, Y+3	; 0x03
+ 3cc:	92 17       	cp	r25, r18
+ 3ce:	09 f4       	brne	.+2      	; 0x3d2 <RGetC+0x32>
+ 3d0:	19 82       	std	Y+1, r1	; 0x01
+		pI->m_RxnChar--;		//decrement the number of chars in buffer
+ 3d2:	9a 81       	ldd	r25, Y+2	; 0x02
+ 3d4:	91 50       	subi	r25, 0x01	; 1
+ 3d6:	9a 83       	std	Y+2, r25	; 0x02
+	}
+	else
+		retval = -1;	//return error
+	Enable(sr);	//exit critical section
+ 3d8:	58 d0       	rcall	.+176    	; 0x48a <Enable>
+	return retval;
+}
+ 3da:	81 2f       	mov	r24, r17
+ 3dc:	df 91       	pop	r29
+ 3de:	cf 91       	pop	r28
+ 3e0:	1f 91       	pop	r17
+ 3e2:	08 95       	ret
+ 3e4:	ff cf       	rjmp	.-2      	; 0x3e4 <RGetC+0x44>
+
+000003e6 <MidiClockDiv>:
+	**
+	** parameter:
+	**	mode....mode=1, inc and set port C bits
+	**			mode=0, set portC bits to 0
+	********************************/
+	if(mode)
+ 3e6:	00 97       	sbiw	r24, 0x00	; 0
+ 3e8:	49 f1       	breq	.+82     	; 0x43c <MidiClockDiv+0x56>
+	{
+		if(DivClk1 == 0)
+ 3ea:	80 91 87 00 	lds	r24, 0x0087
+ 3ee:	88 23       	and	r24, r24
+ 3f0:	c1 f4       	brne	.+48     	; 0x422 <MidiClockDiv+0x3c>
+		{
+			DivClk1 = 3;
+ 3f2:	83 e0       	ldi	r24, 0x03	; 3
+ 3f4:	80 93 87 00 	sts	0x0087, r24
+			if(DivClk1Carry == 0)
+ 3f8:	80 91 88 00 	lds	r24, 0x0088
+ 3fc:	88 23       	and	r24, r24
+ 3fe:	69 f4       	brne	.+26     	; 0x41a <MidiClockDiv+0x34>
+			{
+				DivClk1Carry = 2;
+ 400:	82 e0       	ldi	r24, 0x02	; 2
+ 402:	80 93 88 00 	sts	0x0088, r24
+				if(DivClk2 == 0)
+ 406:	80 91 89 00 	lds	r24, 0x0089
+ 40a:	88 23       	and	r24, r24
+ 40c:	11 f4       	brne	.+4      	; 0x412 <MidiClockDiv+0x2c>
+				{
+					DivClk2 = 0x3f;
+ 40e:	8f e3       	ldi	r24, 0x3F	; 63
+ 410:	01 c0       	rjmp	.+2      	; 0x414 <MidiClockDiv+0x2e>
+				}
+				else
+				{
+					DivClk2--;
+ 412:	81 50       	subi	r24, 0x01	; 1
+ 414:	80 93 89 00 	sts	0x0089, r24
+ 418:	07 c0       	rjmp	.+14     	; 0x428 <MidiClockDiv+0x42>
+				}
+			}
+			else
+			{
+				DivClk1Carry--;
+ 41a:	81 50       	subi	r24, 0x01	; 1
+ 41c:	80 93 88 00 	sts	0x0088, r24
+ 420:	03 c0       	rjmp	.+6      	; 0x428 <MidiClockDiv+0x42>
+			}
+		}
+		else
+		{
+			DivClk1--;
+ 422:	81 50       	subi	r24, 0x01	; 1
+ 424:	80 93 87 00 	sts	0x0087, r24
+		}
+		PORTC = (DivClk2 << 2) | (DivClk1 & 0x03);
+ 428:	80 91 89 00 	lds	r24, 0x0089
+ 42c:	88 0f       	add	r24, r24
+ 42e:	88 0f       	add	r24, r24
+ 430:	90 91 87 00 	lds	r25, 0x0087
+ 434:	93 70       	andi	r25, 0x03	; 3
+ 436:	89 2b       	or	r24, r25
+ 438:	85 bb       	out	0x15, r24	; 21
+ 43a:	08 95       	ret
+	}
+	else
+	{
+		PORTC = 0;
+ 43c:	15 ba       	out	0x15, r1	; 21
+ 43e:	08 95       	ret
+
+00000440 <MidiClockDivReset>:
+	}
+}
+
+void MidiClockDivReset()
+{
+	DivClk2 = 0x3f;
+ 440:	8f e3       	ldi	r24, 0x3F	; 63
+ 442:	80 93 89 00 	sts	0x0089, r24
+	DivClk1 = 0x3;
+ 446:	83 e0       	ldi	r24, 0x03	; 3
+ 448:	80 93 87 00 	sts	0x0087, r24
+	DivClk1Carry = 2;
+ 44c:	82 e0       	ldi	r24, 0x02	; 2
+ 44e:	80 93 88 00 	sts	0x0088, r24
+	PORTC = 0;
+ 452:	15 ba       	out	0x15, r1	; 21
+	PORTC = (DivClk2 << 2) | (DivClk1 & 0x03);
+ 454:	8f ef       	ldi	r24, 0xFF	; 255
+ 456:	85 bb       	out	0x15, r24	; 21
+
+}
+ 458:	08 95       	ret
+
+0000045a <MidiStart>:
+
+void MidiStart()
+{
+	DivClk2 = 0x3f;
+ 45a:	8f e3       	ldi	r24, 0x3F	; 63
+ 45c:	80 93 89 00 	sts	0x0089, r24
+	DivClk1 = 0x3;
+ 460:	83 e0       	ldi	r24, 0x03	; 3
+ 462:	80 93 87 00 	sts	0x0087, r24
+	DivClk1Carry = 2;
+ 466:	82 e0       	ldi	r24, 0x02	; 2
+ 468:	80 93 88 00 	sts	0x0088, r24
+	PORTC = 0;
+ 46c:	15 ba       	out	0x15, r1	; 21
+	PORTA |= BV(MIDI_START_BIT);
+ 46e:	d8 9a       	sbi	0x1b, 0	; 27
+	PORTC = (DivClk2 << 2) | (DivClk1 & 0x03);
+ 470:	8f ef       	ldi	r24, 0xFF	; 255
+ 472:	85 bb       	out	0x15, r24	; 21
+}
+ 474:	08 95       	ret
+
+00000476 <MidiStop>:
+
+void MidiStop()
+{
+	PORTA &= ~(BV(MIDI_START_BIT));
+ 476:	d8 98       	cbi	0x1b, 0	; 27
+}
+ 478:	08 95       	ret
+
+0000047a <MidiReset>:
+	PORTC = (DivClk2 << 2) | (DivClk1 & 0x03);
+}
+
+void MidiStop()
+{
+	PORTA &= ~(BV(MIDI_START_BIT));
+ 47a:	d8 98       	cbi	0x1b, 0	; 27
+}
+
+void MidiReset()
+{
+	MidiStop();
+	PORTA |= BV(MIDI_RESET_BIT);
+ 47c:	d9 9a       	sbi	0x1b, 1	; 27
+	PORTA &= ~(BV(MIDI_RESET_BIT));
+ 47e:	d9 98       	cbi	0x1b, 1	; 27
+}
+ 480:	08 95       	ret
+
+00000482 <Disable>:
+	; not re-enable.
+	; extern char Disable(void)
+	;-------------------------------
+Disable:
+
+	in	r24,_SFR_IO_ADDR(SREG)		;get status register
+ 482:	8f b7       	in	r24, 0x3f	; 63
+	cli								;disable interrupt
+ 484:	f8 94       	cli
+	andi r24,0x80					;strip off interrupt bit
+ 486:	80 78       	andi	r24, 0x80	; 128
+	ret								;return value in r24
+ 488:	08 95       	ret
+
+0000048a <Enable>:
+	; of r25 is set, interrupts
+	; will be enabled.
+	; extern void Enable(char srFlag);
+	;----------------------------
+Enable:
+	in r25,_SFR_IO_ADDR(SREG)
+ 48a:	9f b7       	in	r25, 0x3f	; 63
+	or r25,r24
+ 48c:	98 2b       	or	r25, r24
+	out _SFR_IO_ADDR(SREG),r25
+ 48e:	9f bf       	out	0x3f, r25	; 63
+	ret
+ 490:	08 95       	ret
+
+00000492 <ParseMidi>:
+
+int ParseMidi(char c)
+{
+//	unsigned long pitch;
+
+	if(c & 0x080)	//is it a command?
+ 492:	87 ff       	sbrs	r24, 7
+ 494:	23 c0       	rjmp	.+70     	; 0x4dc <ParseMidi+0x4a>
+	{
+		if(c < 0x0f0)
+ 496:	80 3f       	cpi	r24, 0xF0	; 240
+ 498:	40 f4       	brcc	.+16     	; 0x4aa <ParseMidi+0x18>
+		{
+			//process this stuff, dispose of everything else
+			cmd = (char)(c & 0xf0);
+ 49a:	98 2f       	mov	r25, r24
+ 49c:	90 7f       	andi	r25, 0xF0	; 240
+ 49e:	90 93 7d 00 	sts	0x007D, r25
+			chan = (char)(c & 0x0f);
+ 4a2:	8f 70       	andi	r24, 0x0F	; 15
+ 4a4:	80 93 7e 00 	sts	0x007E, r24
+ 4a8:	7b c0       	rjmp	.+246    	; 0x5a0 <ParseMidi+0x10e>
+			state = NOTE0;
+		}
+		else
+		{
+			switch(c)
+ 4aa:	80 3f       	cpi	r24, 0xF0	; 240
+ 4ac:	21 f0       	breq	.+8      	; 0x4b6 <ParseMidi+0x24>
+ 4ae:	87 3f       	cpi	r24, 0xF7	; 247
+ 4b0:	09 f0       	breq	.+2      	; 0x4b4 <ParseMidi+0x22>
+ 4b2:	79 c0       	rjmp	.+242    	; 0x5a6 <ParseMidi+0x114>
+ 4b4:	0a c0       	rjmp	.+20     	; 0x4ca <ParseMidi+0x38>
+			{
+				case SYSEX:
+                   	state = SYSEX_STATE;
+ 4b6:	93 e0       	ldi	r25, 0x03	; 3
+ 4b8:	90 93 7a 00 	sts	0x007A, r25
+                    SysexCount = 0;
+ 4bc:	10 92 7c 00 	sts	0x007C, r1
+ 4c0:	10 92 7b 00 	sts	0x007B, r1
+                    cmd = SYSEX;
+ 4c4:	80 93 7d 00 	sts	0x007D, r24
+					break;
+ 4c8:	6e c0       	rjmp	.+220    	; 0x5a6 <ParseMidi+0x114>
+				case SYSCOMUNDEF2:
+					break;
+				case SYSCOMTUNEREQ:
+					break;
+				case SYSEXEND:
+                   	state = IDLE;
+ 4ca:	10 92 7a 00 	sts	0x007A, r1
+                    cmd = SYSEXEND;
+ 4ce:	80 93 7d 00 	sts	0x007D, r24
+//                	ParseSysEx(SysexCount);
+                    SysexCount = 0;
+ 4d2:	10 92 7c 00 	sts	0x007C, r1
+ 4d6:	10 92 7b 00 	sts	0x007B, r1
+ 4da:	65 c0       	rjmp	.+202    	; 0x5a6 <ParseMidi+0x114>
+	else	// if(c & 0x080)	the data must be data
+	{
+		/*	we must handle the case of running status...so we need to keep track of
+		**  which data byte we are on
+		*/
+		switch(cmd)	//what was the last command?
+ 4dc:	90 91 7d 00 	lds	r25, 0x007D
+ 4e0:	90 3a       	cpi	r25, 0xA0	; 160
+ 4e2:	b1 f1       	breq	.+108    	; 0x550 <ParseMidi+0xbe>
+ 4e4:	91 3a       	cpi	r25, 0xA1	; 161
+ 4e6:	30 f4       	brcc	.+12     	; 0x4f4 <ParseMidi+0x62>
+ 4e8:	90 38       	cpi	r25, 0x80	; 128
+ 4ea:	61 f0       	breq	.+24     	; 0x504 <ParseMidi+0x72>
+ 4ec:	90 39       	cpi	r25, 0x90	; 144
+ 4ee:	09 f0       	breq	.+2      	; 0x4f2 <ParseMidi+0x60>
+ 4f0:	5a c0       	rjmp	.+180    	; 0x5a6 <ParseMidi+0x114>
+ 4f2:	10 c0       	rjmp	.+32     	; 0x514 <ParseMidi+0x82>
+ 4f4:	90 3d       	cpi	r25, 0xD0	; 208
+ 4f6:	61 f1       	breq	.+88     	; 0x550 <ParseMidi+0xbe>
+ 4f8:	90 3e       	cpi	r25, 0xE0	; 224
+ 4fa:	89 f1       	breq	.+98     	; 0x55e <ParseMidi+0xcc>
+ 4fc:	90 3c       	cpi	r25, 0xC0	; 192
+ 4fe:	09 f0       	breq	.+2      	; 0x502 <ParseMidi+0x70>
+ 500:	52 c0       	rjmp	.+164    	; 0x5a6 <ParseMidi+0x114>
+ 502:	4e c0       	rjmp	.+156    	; 0x5a0 <ParseMidi+0x10e>
+		{
+			case NOTEOFF:	//last command was note off
+				switch(state)
+ 504:	90 91 7a 00 	lds	r25, 0x007A
+ 508:	91 30       	cpi	r25, 0x01	; 1
+ 50a:	61 f0       	breq	.+24     	; 0x524 <ParseMidi+0x92>
+ 50c:	92 30       	cpi	r25, 0x02	; 2
+ 50e:	09 f0       	breq	.+2      	; 0x512 <ParseMidi+0x80>
+ 510:	4a c0       	rjmp	.+148    	; 0x5a6 <ParseMidi+0x114>
+ 512:	0f c0       	rjmp	.+30     	; 0x532 <ParseMidi+0xa0>
+						state = NOTE0;
+						break;
+				}
+				break;
+			case NOTEON:	// last command was note on
+				switch(state)
+ 514:	90 91 7a 00 	lds	r25, 0x007A
+ 518:	91 30       	cpi	r25, 0x01	; 1
+ 51a:	21 f0       	breq	.+8      	; 0x524 <ParseMidi+0x92>
+ 51c:	92 30       	cpi	r25, 0x02	; 2
+ 51e:	09 f0       	breq	.+2      	; 0x522 <ParseMidi+0x90>
+ 520:	42 c0       	rjmp	.+132    	; 0x5a6 <ParseMidi+0x114>
+ 522:	05 c0       	rjmp	.+10     	; 0x52e <ParseMidi+0x9c>
+				{
+					case NOTE0:
+						nextnote = ((int)c);
+ 524:	80 93 7f 00 	sts	0x007F, r24
+ 528:	10 92 80 00 	sts	0x0080, r1
+ 52c:	23 c0       	rjmp	.+70     	; 0x574 <ParseMidi+0xe2>
+						state = NOTE1;
+						break;
+					case NOTE1:
+						if(c > 0)
+ 52e:	88 23       	and	r24, r24
+ 530:	b9 f1       	breq	.+110    	; 0x5a0 <ParseMidi+0x10e>
+						{
+                           	if(DefMidiChan == chan)
+ 532:	90 91 8a 00 	lds	r25, 0x008A
+ 536:	80 91 7e 00 	lds	r24, 0x007E
+ 53a:	98 17       	cp	r25, r24
+ 53c:	89 f5       	brne	.+98     	; 0x5a0 <ParseMidi+0x10e>
+                            {
+								currentnote = nextnote;
+ 53e:	80 91 7f 00 	lds	r24, 0x007F
+ 542:	90 91 80 00 	lds	r25, 0x0080
+ 546:	90 93 82 00 	sts	0x0082, r25
+ 54a:	80 93 81 00 	sts	0x0081, r24
+ 54e:	28 c0       	rjmp	.+80     	; 0x5a0 <ParseMidi+0x10e>
+				}
+				break;
+			case CHANPRES:		//last command was channel pressure
+				break;
+			case CONTROL:			//control change
+				switch(state)
+ 550:	80 91 7a 00 	lds	r24, 0x007A
+ 554:	81 30       	cpi	r24, 0x01	; 1
+ 556:	71 f0       	breq	.+28     	; 0x574 <ParseMidi+0xe2>
+ 558:	82 30       	cpi	r24, 0x02	; 2
+ 55a:	29 f5       	brne	.+74     	; 0x5a6 <ParseMidi+0x114>
+ 55c:	21 c0       	rjmp	.+66     	; 0x5a0 <ParseMidi+0x10e>
+						state = NOTE0;
+						break;
+				}
+				break;
+			case WHEEL:			//last command was pitch wheel change
+				switch(state)
+ 55e:	90 91 7a 00 	lds	r25, 0x007A
+ 562:	91 30       	cpi	r25, 0x01	; 1
+ 564:	19 f0       	breq	.+6      	; 0x56c <ParseMidi+0xda>
+ 566:	92 30       	cpi	r25, 0x02	; 2
+ 568:	f1 f4       	brne	.+60     	; 0x5a6 <ParseMidi+0x114>
+ 56a:	06 c0       	rjmp	.+12     	; 0x578 <ParseMidi+0xe6>
+				{
+					case NOTE0:
+						v = ((int)c);
+ 56c:	80 93 83 00 	sts	0x0083, r24
+ 570:	10 92 84 00 	sts	0x0084, r1
+						state = NOTE1;
+ 574:	82 e0       	ldi	r24, 0x02	; 2
+ 576:	15 c0       	rjmp	.+42     	; 0x5a2 <ParseMidi+0x110>
+						break;
+					case NOTE1:
+						v |= ((int)c)<<7;
+						v <<= 2;	//12 bits;
+ 578:	90 e0       	ldi	r25, 0x00	; 0
+ 57a:	96 95       	lsr	r25
+ 57c:	98 2f       	mov	r25, r24
+ 57e:	88 27       	eor	r24, r24
+ 580:	97 95       	ror	r25
+ 582:	87 95       	ror	r24
+ 584:	20 91 83 00 	lds	r18, 0x0083
+ 588:	30 91 84 00 	lds	r19, 0x0084
+ 58c:	82 2b       	or	r24, r18
+ 58e:	93 2b       	or	r25, r19
+ 590:	88 0f       	add	r24, r24
+ 592:	99 1f       	adc	r25, r25
+ 594:	88 0f       	add	r24, r24
+ 596:	99 1f       	adc	r25, r25
+ 598:	90 93 84 00 	sts	0x0084, r25
+ 59c:	80 93 83 00 	sts	0x0083, r24
+						state = NOTE0;
+						break;
+				}
+				break;
+			case PATCH:			//last command was patch change
+				state = NOTE0;
+ 5a0:	81 e0       	ldi	r24, 0x01	; 1
+ 5a2:	80 93 7a 00 	sts	0x007A, r24
+//               		SysExBuf[SysexCount++] = c;
+               	break;
+		}	//end of switch(cmd)
+	}	//end of if(c & 0x080)
+	return 0;
+}
+ 5a6:	80 e0       	ldi	r24, 0x00	; 0
+ 5a8:	90 e0       	ldi	r25, 0x00	; 0
+ 5aa:	08 95       	ret
+
+000005ac <InitTimer>:
+#include <avr/interrupt.h>
+#include "1001037Midi.h"
+
+void InitTimer()
+{
+}
+ 5ac:	08 95       	ret
+
+000005ae <EnableTimer>:
+
+void EnableTimer(int flag)
+{
+}
+ 5ae:	08 95       	ret
+
+000005b0 <__vector_7>:
+unsigned short Timer1,Timer2;
+
+void TIMER0_OVF_vect(void) __attribute__ ((naked));
+void TIMER0_OVF_vect(void)
+{
+	SAVE_IRQ();
+ 5b0:	ff 93       	push	r31
+ 5b2:	ff b7       	in	r31, 0x3f	; 63
+ 5b4:	f0 68       	ori	r31, 0x80	; 128
+ 5b6:	ff 93       	push	r31
+ 5b8:	ef 93       	push	r30
+ 5ba:	df 93       	push	r29
+ 5bc:	cf 93       	push	r28
+ 5be:	bf 93       	push	r27
+ 5c0:	af 93       	push	r26
+ 5c2:	9f 93       	push	r25
+ 5c4:	8f 93       	push	r24
+ 5c6:	7f 93       	push	r23
+ 5c8:	6f 93       	push	r22
+ 5ca:	5f 93       	push	r21
+ 5cc:	4f 93       	push	r20
+ 5ce:	3f 93       	push	r19
+ 5d0:	2f 93       	push	r18
+ 5d2:	1f 93       	push	r17
+ 5d4:	0f 93       	push	r16
+ 5d6:	ff 92       	push	r15
+ 5d8:	ef 92       	push	r14
+ 5da:	df 92       	push	r13
+ 5dc:	cf 92       	push	r12
+ 5de:	bf 92       	push	r11
+ 5e0:	af 92       	push	r10
+ 5e2:	9f 92       	push	r9
+ 5e4:	8f 92       	push	r8
+ 5e6:	7f 92       	push	r7
+ 5e8:	6f 92       	push	r6
+ 5ea:	5f 92       	push	r5
+ 5ec:	4f 92       	push	r4
+ 5ee:	3f 92       	push	r3
+ 5f0:	2f 92       	push	r2
+ 5f2:	1f 92       	push	r1
+ 5f4:	11 24       	eor	r1, r1
+ 5f6:	0f 92       	push	r0
+	if(Timer1) --Timer1;
+ 5f8:	80 91 8d 00 	lds	r24, 0x008D
+ 5fc:	90 91 8e 00 	lds	r25, 0x008E
+ 600:	00 97       	sbiw	r24, 0x00	; 0
+ 602:	29 f0       	breq	.+10     	; 0x60e <__vector_7+0x5e>
+ 604:	01 97       	sbiw	r24, 0x01	; 1
+ 606:	90 93 8e 00 	sts	0x008E, r25
+ 60a:	80 93 8d 00 	sts	0x008D, r24
+	if(Timer2) --Timer2;
+ 60e:	80 91 8b 00 	lds	r24, 0x008B
+ 612:	90 91 8c 00 	lds	r25, 0x008C
+ 616:	00 97       	sbiw	r24, 0x00	; 0
+ 618:	29 f0       	breq	.+10     	; 0x624 <__vector_7+0x74>
+ 61a:	01 97       	sbiw	r24, 0x01	; 1
+ 61c:	90 93 8c 00 	sts	0x008C, r25
+ 620:	80 93 8b 00 	sts	0x008B, r24
+	RESTORE_IRQ();
+ 624:	0f 90       	pop	r0
+ 626:	1f 90       	pop	r1
+ 628:	2f 90       	pop	r2
+ 62a:	3f 90       	pop	r3
+ 62c:	4f 90       	pop	r4
+ 62e:	5f 90       	pop	r5
+ 630:	6f 90       	pop	r6
+ 632:	7f 90       	pop	r7
+ 634:	8f 90       	pop	r8
+ 636:	9f 90       	pop	r9
+ 638:	af 90       	pop	r10
+ 63a:	bf 90       	pop	r11
+ 63c:	cf 90       	pop	r12
+ 63e:	df 90       	pop	r13
+ 640:	ef 90       	pop	r14
+ 642:	ff 90       	pop	r15
+ 644:	0f 91       	pop	r16
+ 646:	1f 91       	pop	r17
+ 648:	2f 91       	pop	r18
+ 64a:	3f 91       	pop	r19
+ 64c:	4f 91       	pop	r20
+ 64e:	5f 91       	pop	r21
+ 650:	6f 91       	pop	r22
+ 652:	7f 91       	pop	r23
+ 654:	8f 91       	pop	r24
+ 656:	9f 91       	pop	r25
+ 658:	af 91       	pop	r26
+ 65a:	bf 91       	pop	r27
+ 65c:	cf 91       	pop	r28
+ 65e:	df 91       	pop	r29
+ 660:	ef 91       	pop	r30
+ 662:	ff 91       	pop	r31
+ 664:	ff bf       	out	0x3f, r31	; 63
+ 666:	ff 91       	pop	r31
+ 668:	18 95       	reti
+
+0000066a <__divmodsi4>:
+ 66a:	97 fb       	bst	r25, 7
+ 66c:	09 2e       	mov	r0, r25
+ 66e:	05 26       	eor	r0, r21
+ 670:	0e d0       	rcall	.+28     	; 0x68e <__divmodsi4_neg1>
+ 672:	57 fd       	sbrc	r21, 7
+ 674:	04 d0       	rcall	.+8      	; 0x67e <__divmodsi4_neg2>
+ 676:	14 d0       	rcall	.+40     	; 0x6a0 <__udivmodsi4>
+ 678:	0a d0       	rcall	.+20     	; 0x68e <__divmodsi4_neg1>
+ 67a:	00 1c       	adc	r0, r0
+ 67c:	38 f4       	brcc	.+14     	; 0x68c <__divmodsi4_exit>
+
+0000067e <__divmodsi4_neg2>:
+ 67e:	50 95       	com	r21
+ 680:	40 95       	com	r20
+ 682:	30 95       	com	r19
+ 684:	21 95       	neg	r18
+ 686:	3f 4f       	sbci	r19, 0xFF	; 255
+ 688:	4f 4f       	sbci	r20, 0xFF	; 255
+ 68a:	5f 4f       	sbci	r21, 0xFF	; 255
+
+0000068c <__divmodsi4_exit>:
+ 68c:	08 95       	ret
+
+0000068e <__divmodsi4_neg1>:
+ 68e:	f6 f7       	brtc	.-4      	; 0x68c <__divmodsi4_exit>
+ 690:	90 95       	com	r25
+ 692:	80 95       	com	r24
+ 694:	70 95       	com	r23
+ 696:	61 95       	neg	r22
+ 698:	7f 4f       	sbci	r23, 0xFF	; 255
+ 69a:	8f 4f       	sbci	r24, 0xFF	; 255
+ 69c:	9f 4f       	sbci	r25, 0xFF	; 255
+ 69e:	08 95       	ret
+
+000006a0 <__udivmodsi4>:
+ 6a0:	a1 e2       	ldi	r26, 0x21	; 33
+ 6a2:	1a 2e       	mov	r1, r26
+ 6a4:	aa 1b       	sub	r26, r26
+ 6a6:	bb 1b       	sub	r27, r27
+ 6a8:	fd 01       	movw	r30, r26
+ 6aa:	0d c0       	rjmp	.+26     	; 0x6c6 <__udivmodsi4_ep>
+
+000006ac <__udivmodsi4_loop>:
+ 6ac:	aa 1f       	adc	r26, r26
+ 6ae:	bb 1f       	adc	r27, r27
+ 6b0:	ee 1f       	adc	r30, r30
+ 6b2:	ff 1f       	adc	r31, r31
+ 6b4:	a2 17       	cp	r26, r18
+ 6b6:	b3 07       	cpc	r27, r19
+ 6b8:	e4 07       	cpc	r30, r20
+ 6ba:	f5 07       	cpc	r31, r21
+ 6bc:	20 f0       	brcs	.+8      	; 0x6c6 <__udivmodsi4_ep>
+ 6be:	a2 1b       	sub	r26, r18
+ 6c0:	b3 0b       	sbc	r27, r19
+ 6c2:	e4 0b       	sbc	r30, r20
+ 6c4:	f5 0b       	sbc	r31, r21
+
+000006c6 <__udivmodsi4_ep>:
+ 6c6:	66 1f       	adc	r22, r22
+ 6c8:	77 1f       	adc	r23, r23
+ 6ca:	88 1f       	adc	r24, r24
+ 6cc:	99 1f       	adc	r25, r25
+ 6ce:	1a 94       	dec	r1
+ 6d0:	69 f7       	brne	.-38     	; 0x6ac <__udivmodsi4_loop>
+ 6d2:	60 95       	com	r22
+ 6d4:	70 95       	com	r23
+ 6d6:	80 95       	com	r24
+ 6d8:	90 95       	com	r25
+ 6da:	9b 01       	movw	r18, r22
+ 6dc:	ac 01       	movw	r20, r24
+ 6de:	bd 01       	movw	r22, r26
+ 6e0:	cf 01       	movw	r24, r30
+ 6e2:	08 95       	ret
+
+000006e4 <_exit>:
+ 6e4:	f8 94       	cli
+
+000006e6 <__stop_program>:
+ 6e6:	ff cf       	rjmp	.-2      	; 0x6e6 <__stop_program>

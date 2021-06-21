@@ -1,0 +1,1 @@
+-m -yu -e10 -w100 -o2 -ygs -fP -v10 -dc22v10 -pPALCE22V10-25PC/PI -a multiseg.vhd -a stateseq.vhd -a compare3bit.vhd -b multisegtop.vhd -u multiseg.hie 

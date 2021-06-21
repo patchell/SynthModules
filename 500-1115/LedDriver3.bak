@@ -1,0 +1,245 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:500-1115-cache
+EELAYER 25 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 4 4
+Title "Tripple Led Driver"
+Date "2017-01-23"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L NPN Q31
+U 1 1 588700B9
+P 5500 3100
+AR Path="/5887004A/588700B9" Ref="Q31"  Part="1" 
+AR Path="/58872762/588700B9" Ref="Q34"  Part="1" 
+F 0 "Q31" H 5800 3150 50  0000 R CNN
+F 1 "2N3904" H 5500 3250 50  0000 R CNN
+F 2 "FootPrints:TO92" H 5700 3200 50  0001 C CNN
+F 3 "" H 5500 3100 50  0000 C CNN
+	1    5500 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RESISTOR R57
+U 1 1 588701F0
+P 4750 3100
+AR Path="/5887004A/588701F0" Ref="R57"  Part="1" 
+AR Path="/58872762/588701F0" Ref="R63"  Part="1" 
+F 0 "R57" H 4850 3000 60  0000 C CNN
+F 1 "100K" H 4850 3200 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 4750 3100 60  0001 C CNN
+F 3 "" H 4750 3100 60  0000 C CNN
+	1    4750 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RESISTOR R60
+U 1 1 588702BB
+P 6000 2800
+AR Path="/5887004A/588702BB" Ref="R60"  Part="1" 
+AR Path="/58872762/588702BB" Ref="R66"  Part="1" 
+F 0 "R60" H 6100 3000 60  0000 C CNN
+F 1 "10K" H 6100 2900 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 6000 2800 60  0001 C CNN
+F 3 "" H 6000 2800 60  0000 C CNN
+	1    6000 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 3100 5300 3100
+Wire Wire Line
+	5600 2900 5600 2800
+Wire Wire Line
+	5600 2800 5900 2800
+$Comp
+L GND #PWR032
+U 1 1 588703F5
+P 5600 3300
+AR Path="/5887004A/588703F5" Ref="#PWR032"  Part="1" 
+AR Path="/58872762/588703F5" Ref="#PWR61"  Part="1" 
+F 0 "#PWR032" H 5600 3050 50  0001 C CNN
+F 1 "GND" H 5600 3150 50  0000 C CNN
+F 2 "" H 5600 3300 50  0000 C CNN
+F 3 "" H 5600 3300 50  0000 C CNN
+	1    5600 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L NPN Q32
+U 1 1 5887051E
+P 5500 3900
+AR Path="/5887004A/5887051E" Ref="Q32"  Part="1" 
+AR Path="/58872762/5887051E" Ref="Q35"  Part="1" 
+F 0 "Q32" H 5800 3950 50  0000 R CNN
+F 1 "2N3904" H 5500 4050 50  0000 R CNN
+F 2 "FootPrints:TO92" H 5700 4000 50  0001 C CNN
+F 3 "" H 5500 3900 50  0000 C CNN
+	1    5500 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L RESISTOR R58
+U 1 1 58870524
+P 4750 3900
+AR Path="/5887004A/58870524" Ref="R58"  Part="1" 
+AR Path="/58872762/58870524" Ref="R64"  Part="1" 
+F 0 "R58" H 4850 3800 60  0000 C CNN
+F 1 "100K" H 4850 4000 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 4750 3900 60  0001 C CNN
+F 3 "" H 4750 3900 60  0000 C CNN
+	1    4750 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L RESISTOR R61
+U 1 1 5887052A
+P 6000 3600
+AR Path="/5887004A/5887052A" Ref="R61"  Part="1" 
+AR Path="/58872762/5887052A" Ref="R67"  Part="1" 
+F 0 "R61" H 6100 3800 60  0000 C CNN
+F 1 "10K" H 6100 3700 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 6000 3600 60  0001 C CNN
+F 3 "" H 6000 3600 60  0000 C CNN
+	1    6000 3600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 3900 5300 3900
+Wire Wire Line
+	5600 3700 5600 3600
+Wire Wire Line
+	5600 3600 5900 3600
+$Comp
+L GND #PWR033
+U 1 1 58870533
+P 5600 4100
+AR Path="/5887004A/58870533" Ref="#PWR033"  Part="1" 
+AR Path="/58872762/58870533" Ref="#PWR62"  Part="1" 
+F 0 "#PWR033" H 5600 3850 50  0001 C CNN
+F 1 "GND" H 5600 3950 50  0000 C CNN
+F 2 "" H 5600 4100 50  0000 C CNN
+F 3 "" H 5600 4100 50  0000 C CNN
+	1    5600 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L NPN Q33
+U 1 1 588705AB
+P 5500 4700
+AR Path="/5887004A/588705AB" Ref="Q33"  Part="1" 
+AR Path="/58872762/588705AB" Ref="Q36"  Part="1" 
+F 0 "Q33" H 5800 4750 50  0000 R CNN
+F 1 "2N3904" H 5500 4850 50  0000 R CNN
+F 2 "FootPrints:TO92" H 5700 4800 50  0001 C CNN
+F 3 "" H 5500 4700 50  0000 C CNN
+	1    5500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RESISTOR R59
+U 1 1 588705B1
+P 4750 4700
+AR Path="/5887004A/588705B1" Ref="R59"  Part="1" 
+AR Path="/58872762/588705B1" Ref="R65"  Part="1" 
+F 0 "R59" H 4850 4600 60  0000 C CNN
+F 1 "100K" H 4850 4800 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 4750 4700 60  0001 C CNN
+F 3 "" H 4750 4700 60  0000 C CNN
+	1    4750 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RESISTOR R62
+U 1 1 588705B7
+P 6000 4400
+AR Path="/5887004A/588705B7" Ref="R62"  Part="1" 
+AR Path="/58872762/588705B7" Ref="R68"  Part="1" 
+F 0 "R62" H 6100 4600 60  0000 C CNN
+F 1 "10K" H 6100 4500 60  0000 C CNN
+F 2 "FootPrints:AXIAL0.4" H 6000 4400 60  0001 C CNN
+F 3 "" H 6000 4400 60  0000 C CNN
+	1    6000 4400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 4700 5300 4700
+Wire Wire Line
+	5600 4500 5600 4400
+Wire Wire Line
+	5600 4400 5900 4400
+$Comp
+L GND #PWR034
+U 1 1 588705C0
+P 5600 4900
+AR Path="/5887004A/588705C0" Ref="#PWR034"  Part="1" 
+AR Path="/58872762/588705C0" Ref="#PWR63"  Part="1" 
+F 0 "#PWR034" H 5600 4650 50  0001 C CNN
+F 1 "GND" H 5600 4750 50  0000 C CNN
+F 2 "" H 5600 4900 50  0000 C CNN
+F 3 "" H 5600 4900 50  0000 C CNN
+	1    5600 4900
+	1    0    0    -1  
+$EndComp
+Text HLabel 4350 3100 0    60   Input ~ 0
+I0
+Text HLabel 4200 3900 0    60   Input ~ 0
+I1
+Text HLabel 4250 4700 0    60   Input ~ 0
+I2
+Text HLabel 6600 2800 2    60   Output ~ 0
+O0
+Text HLabel 6650 3600 2    60   Output ~ 0
+O1
+Text HLabel 6600 4400 2    60   Output ~ 0
+O2
+Wire Wire Line
+	6600 4400 6300 4400
+Wire Wire Line
+	6650 3600 6300 3600
+Wire Wire Line
+	6600 2800 6300 2800
+Wire Wire Line
+	4350 3100 4650 3100
+Wire Wire Line
+	4200 3900 4650 3900
+Wire Wire Line
+	4650 4700 4250 4700
+$EndSCHEMATC

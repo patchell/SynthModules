@@ -1,0 +1,13 @@
+Missing Designators From Netlist Load      : 8
+---------------------------------------------
+R3                  R33                 R16                 J2                  
+J1                  R12                 R28                 R23                 
+
+
+
+Missing Library Patterns or Component Types From Netlist Load : 2
+----------------------------------------------------------------
+PHONE-SC112A        POT-M248            
+
+
+

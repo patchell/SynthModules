@@ -1,0 +1,1002 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+                              D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o (exit)
+d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+                              malloc.o (__do_copy_data)
+d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+                              chip.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+AuxDacTaskTCB       0x18              main.o
+pMsgDac             0x2               main.o
+TStamp              0x2               timerticker.o
+ActiveTasks         0xa               createtask.o
+Ticks               0x2               main.o
+TaskMidiResetTCB    0x18              main.o
+TaskMidiClockTCB    0x18              main.o
+MidiParseDesc       0xc               main.o
+__brkval            0x2               malloc.o
+IdleTCB             0x18              main.o
+pSemClock           0x2               main.o
+pCurrentTask        0x2               createtask.o
+pStrobDone          0x2               main.o
+MidiInTCB           0x18              main.o
+OsRunning           0x2               createtask.o
+pSemReset           0x2               main.o
+MallocBlocker       0xc               malloc.o
+pNextTask           0x2               createtask.o
+DacOutTCB           0x18              main.o
+InterruptCount      0x2               ExitInterrupt.o
+pTimeoutList        0x2               createsemaphore.o
+CurrentNote         0x1               midiparse.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+ .text          0x00000000        0x0 chip.o
+ .data          0x00000000        0x0 chip.o
+ .bss           0x00000000        0x0 chip.o
+ .text          0x00000000        0x0 createsemaphore.o
+ .data          0x00000000        0x0 createsemaphore.o
+ .bss           0x00000000        0x0 createsemaphore.o
+ .text          0x00000000        0x0 createtask.o
+ .data          0x00000000        0x0 createtask.o
+ .bss           0x00000000        0x0 createtask.o
+ .text          0x00000000        0x0 DoSwap.o
+ .data          0x00000000        0x0 DoSwap.o
+ .bss           0x00000000        0x0 DoSwap.o
+ .data          0x00000000        0x0 EnableDisableIrq.o
+ .bss           0x00000000        0x0 EnableDisableIrq.o
+ .text          0x00000000        0x0 ExitInterrupt.o
+ .data          0x00000000        0x0 ExitInterrupt.o
+ .bss           0x00000000        0x0 ExitInterrupt.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .avr.prop      0x00000000       0x16 main.o
+ .text          0x00000000        0x0 malloc.o
+ .data          0x00000000        0x0 malloc.o
+ .bss           0x00000000        0x0 malloc.o
+ .text          0x00000000        0x0 MessageQueue.o
+ .data          0x00000000        0x0 MessageQueue.o
+ .bss           0x00000000        0x0 MessageQueue.o
+ .text          0x00000000        0x0 midiparse.o
+ .data          0x00000000        0x0 midiparse.o
+ .bss           0x00000000        0x0 midiparse.o
+ .text.newMidiParseDescriptor
+                0x00000000        0x6 midiparse.o
+ .text.ActionMTCQuarterFrameMessage
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysComSongPos
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysComSongSel
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysComUndef1
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysComUndef2
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysComTuneReq
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysRTUndef
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysRTStart
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysRTUndef1
+                0x00000000        0x2 midiparse.o
+ .text.ActionSysRTActiveSense
+                0x00000000        0x2 midiparse.o
+ .text.ActionProgramChange
+                0x00000000        0x2 midiparse.o
+ .text.ActionController
+                0x00000000        0x2 midiparse.o
+ .avr.prop      0x00000000       0x16 midiparse.o
+ .text          0x00000000        0x0 OSinit.o
+ .data          0x00000000        0x0 OSinit.o
+ .bss           0x00000000        0x0 OSinit.o
+ .text          0x00000000        0x0 pendsemaphore.o
+ .data          0x00000000        0x0 pendsemaphore.o
+ .bss           0x00000000        0x0 pendsemaphore.o
+ .text          0x00000000        0x0 postsemaphore.o
+ .data          0x00000000        0x0 postsemaphore.o
+ .bss           0x00000000        0x0 postsemaphore.o
+ .text          0x00000000        0x0 pq.o
+ .data          0x00000000        0x0 pq.o
+ .bss           0x00000000        0x0 pq.o
+ .text.Get      0x00000000       0x10 pq.o
+ .text.NumElem  0x00000000        0x8 pq.o
+ .text.GetI     0x00000000       0x16 pq.o
+ .text          0x00000000        0x0 StartOS.o
+ .data          0x00000000        0x0 StartOS.o
+ .bss           0x00000000        0x0 StartOS.o
+ .text          0x00000000        0x0 timedelay.o
+ .data          0x00000000        0x0 timedelay.o
+ .bss           0x00000000        0x0 timedelay.o
+ .text          0x00000000        0x0 timerticker.o
+ .data          0x00000000        0x0 timerticker.o
+ .bss           0x00000000        0x0 timerticker.o
+ .text          0x00000000        0x0 Uart.o
+ .data          0x00000000        0x0 Uart.o
+ .bss           0x00000000        0x0 Uart.o
+ .text.USART_Status
+                0x00000000        0xa Uart.o
+ .text          0x00000000        0x0 yield.o
+ .data          0x00000000        0x0 yield.o
+ .bss           0x00000000        0x0 yield.o
+ .text          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+LOAD chip.o
+LOAD createsemaphore.o
+LOAD createtask.o
+LOAD DoSwap.o
+LOAD EnableDisableIrq.o
+LOAD ExitInterrupt.o
+LOAD main.o
+LOAD malloc.o
+LOAD MessageQueue.o
+LOAD midiparse.o
+LOAD OSinit.o
+LOAD pendsemaphore.o
+LOAD postsemaphore.o
+LOAD pq.o
+LOAD StartOS.o
+LOAD timedelay.o
+LOAD timerticker.o
+LOAD Uart.o
+LOAD yield.o
+START GROUP
+LOAD d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a
+END GROUP
+START GROUP
+LOAD d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a
+LOAD d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a
+LOAD d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a
+LOAD D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4\libatmega8515.a
+END GROUP
+                0x00002000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x2000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1ca6
+ *(.vectors)
+ .vectors       0x00000000       0x22 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.DacOut
+                0x00000022       0x10 main.o
+ .progmem.gcc_sw_table.ParseMidi
+                0x00000032       0x20 midiparse.o
+                0x00000052                . = ALIGN (0x2)
+                0x00000052                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000052        0x0 linker stubs
+ *(.trampolines*)
+                0x00000052                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000052                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000052                __ctors_start = .
+ *(.ctors)
+                0x00000052                __ctors_end = .
+                0x00000052                __dtors_start = .
+ *(.dtors)
+                0x00000052                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000052        0x0 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+                0x00000052                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000052        0xc D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000005e       0x16 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+                0x0000005e                __do_copy_data
+ .init4         0x00000074       0x10 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+                0x00000074                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000084        0x4 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+ *(.init9)
+ *(.text)
+ .text          0x00000088        0x2 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+                0x00000088                __vector_12
+                0x00000088                __bad_interrupt
+                0x00000088                __vector_3
+                0x00000088                __vector_11
+                0x00000088                __vector_13
+                0x00000088                __vector_5
+                0x00000088                __vector_4
+                0x00000088                __vector_15
+                0x00000088                __vector_8
+                0x00000088                __vector_14
+                0x00000088                __vector_16
+ .text          0x0000008a       0x10 EnableDisableIrq.o
+                0x0000008a                Disable
+                0x00000092                Enable
+                0x0000009a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.SetGatePort
+                0x0000009a       0x1c chip.o
+                0x0000009a                SetGatePort
+ .text.ClearGatePort
+                0x000000b6       0x1e chip.o
+                0x000000b6                ClearGatePort
+ .text.CreateSemaphore
+                0x000000d4       0x5a createsemaphore.o
+                0x000000d4                CreateSemaphore
+ .text.NewSemaphore
+                0x0000012e       0x54 createsemaphore.o
+                0x0000012e                NewSemaphore
+ .text.DeleteSemaphore
+                0x00000182       0x9e createsemaphore.o
+                0x00000182                DeleteSemaphore
+ .text.CreateTask
+                0x00000220      0x136 createtask.o
+                0x00000220                CreateTask
+ .text.DoSwap   0x00000356       0xca DoSwap.o
+                0x00000356                DoSwap
+ .text.ExitInterrupt
+                0x00000420       0xe0 ExitInterrupt.o
+                0x00000420                ExitInterrupt
+ .text.EnterInterrupt
+                0x00000500       0x14 ExitInterrupt.o
+                0x00000500                EnterInterrupt
+ .text.TaskIdle
+                0x00000514       0x1a main.o
+                0x00000514                TaskIdle
+ .text.DacOut   0x0000052e      0x162 main.o
+                0x0000052e                DacOut
+ .text.AuxDacTask
+                0x00000690       0x2c main.o
+                0x00000690                AuxDacTask
+ .text.MidiIn   0x000006bc        0xc main.o
+                0x000006bc                MidiIn
+ .text.TaskMidiClock
+                0x000006c8       0x1a main.o
+                0x000006c8                TaskMidiClock
+ .text.TaskMidiReset
+                0x000006e2       0x1a main.o
+                0x000006e2                TaskMidiReset
+ .text.InitINT0Irq
+                0x000006fc       0x12 main.o
+                0x000006fc                InitINT0Irq
+ .text.__vector_1
+                0x0000070e       0xa6 main.o
+                0x0000070e                __vector_1
+ .text.__vector_2
+                0x000007b4       0x94 main.o
+                0x000007b4                __vector_2
+ .text.Timer0Init
+                0x00000848       0x16 main.o
+                0x00000848                Timer0Init
+ .text.__vector_7
+                0x0000085e       0xac main.o
+                0x0000085e                __vector_7
+ .text.__vector_6
+                0x0000090a       0x9c main.o
+                0x0000090a                __vector_6
+ .text.Timer1IrqInit
+                0x000009a6       0x22 main.o
+                0x000009a6                Timer1IrqInit
+ .text.reset    0x000009c8       0x1a main.o
+                0x000009c8                reset
+ .text.startup.main
+                0x000009e2      0x118 main.o
+                0x000009e2                main
+ .text.malloc   0x00000afa      0x17e malloc.o
+                0x00000afa                malloc
+ .text.free     0x00000c78       0xd2 malloc.o
+                0x00000c78                free
+ .text.OS_InitMalloc
+                0x00000d4a       0x3e malloc.o
+                0x00000d4a                OS_InitMalloc
+ .text.MqInit   0x00000d88       0x62 MessageQueue.o
+                0x00000d88                MqInit
+ .text.MqPut    0x00000dea       0x94 MessageQueue.o
+                0x00000dea                MqPut
+ .text.MqGet    0x00000e7e       0x66 MessageQueue.o
+                0x00000e7e                MqGet
+ .text.NewMSG   0x00000ee4       0x3a MessageQueue.o
+                0x00000ee4                NewMSG
+ .text.DeleteMSG
+                0x00000f1e        0x2 MessageQueue.o
+                0x00000f1e                DeleteMSG
+ .text.InitMessageQueueManager
+                0x00000f20       0x14 MessageQueue.o
+                0x00000f20                InitMessageQueueManager
+ .text.InitMidiParseDesc
+                0x00000f34       0x18 midiparse.o
+                0x00000f34                InitMidiParseDesc
+ .text.ActionSysEx
+                0x00000f4c       0x1a midiparse.o
+                0x00000f4c                ActionSysEx
+ .text.ActionSysExData
+                0x00000f66       0x24 midiparse.o
+                0x00000f66                ActionSysExData
+ .text.ActionSysExEnd
+                0x00000f8a       0x52 midiparse.o
+                0x00000f8a                ActionSysExEnd
+ .text.ActionSysRTClock
+                0x00000fdc       0x12 midiparse.o
+                0x00000fdc                ActionSysRTClock
+ .text.ActionSysRTContinue
+                0x00000fee        0x4 midiparse.o
+                0x00000fee                ActionSysRTContinue
+ .text.ActionSysRTStop
+                0x00000ff2        0x4 midiparse.o
+                0x00000ff2                ActionSysRTStop
+ .text.ActionSysRTReset
+                0x00000ff6       0x12 midiparse.o
+                0x00000ff6                ActionSysRTReset
+ .text.ActionNoteOff
+                0x00001008       0x66 midiparse.o
+                0x00001008                ActionNoteOff
+ .text.ActionNoteOn
+                0x0000106e       0x72 midiparse.o
+                0x0000106e                ActionNoteOn
+ .text.ActionAfterTouch
+                0x000010e0       0x32 midiparse.o
+                0x000010e0                ActionAfterTouch
+ .text.ActionChanPressure
+                0x00001112       0x32 midiparse.o
+                0x00001112                ActionChanPressure
+ .text.ActionPitchWheel
+                0x00001144       0x36 midiparse.o
+                0x00001144                ActionPitchWheel
+ .text.ParseMidi
+                0x0000117a      0x1ac midiparse.o
+                0x0000117a                ParseMidi
+ .text.PriorityCompare
+                0x00001326       0x38 OSinit.o
+ .text.OSInit   0x0000135e        0xe OSinit.o
+                0x0000135e                OSInit
+ .text.PendSemaphore
+                0x0000136c       0xc0 pendsemaphore.o
+                0x0000136c                PendSemaphore
+ .text.PostSemaphore
+                0x0000142c       0xa8 postsemaphore.o
+                0x0000142c                PostSemaphore
+ .text.ReheapDown
+                0x000014d4       0xd0 pq.o
+ .text.CreatePriorityQueue
+                0x000015a4       0x2a pq.o
+                0x000015a4                CreatePriorityQueue
+ .text.Insert   0x000015ce       0xbe pq.o
+                0x000015ce                Insert
+ .text.Delete   0x0000168c       0x56 pq.o
+                0x0000168c                Delete
+ .text.Replace  0x000016e2       0x9a pq.o
+                0x000016e2                Replace
+ .text.StartOS  0x0000177c       0x7c StartOS.o
+                0x0000177c                StartOS
+ .text.TimeDelay
+                0x000017f8       0x2c timedelay.o
+                0x000017f8                TimeDelay
+ .text.TimerTicker
+                0x00001824       0xa0 timerticker.o
+                0x00001824                TimerTicker
+ .text.__vector_9
+                0x000018c4      0x110 Uart.o
+                0x000018c4                __vector_9
+ .text.USART_GetC
+                0x000019d4       0x78 Uart.o
+                0x000019d4                USART_GetC
+ .text.USART_PutC
+                0x00001a4c       0x72 Uart.o
+                0x00001a4c                USART_PutC
+ .text.UART_TXirq
+                0x00001abe        0xc Uart.o
+                0x00001abe                UART_TXirq
+ .text.__vector_10
+                0x00001aca      0x10a Uart.o
+                0x00001aca                __vector_10
+ .text.USART_Init
+                0x00001bd4       0x7e Uart.o
+                0x00001bd4                USART_Init
+ .text.Yield    0x00001c52       0x50 yield.o
+                0x00001c52                Yield
+                0x00001ca2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001ca2        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+                0x00001ca2                _exit
+                0x00001ca2                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001ca2        0x4 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001ca6                _etext = .
+
+.data           0x00800060        0x6 load address 0x00001ca6
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.__malloc_heap_end
+                0x00800060        0x2 malloc.o
+                0x00800060                __malloc_heap_end
+ .data.__malloc_heap_start
+                0x00800062        0x2 malloc.o
+                0x00800062                __malloc_heap_start
+ .data.__malloc_margin
+                0x00800064        0x2 malloc.o
+                0x00800064                __malloc_margin
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800066                . = ALIGN (0x2)
+                0x00800066                _edata = .
+                0x00800066                PROVIDE (__data_end, .)
+
+.bss            0x00800066       0xee
+                0x00800066                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.GateShadow
+                0x00800066        0x1 chip.o
+ .bss.pSemaphorePool
+                0x00800067        0x2 createsemaphore.o
+ .bss.__flp     0x00800069        0x2 malloc.o
+                0x00800069                __flp
+ .bss.MsgAllocCount
+                0x0080006b        0x2 MessageQueue.o
+                0x0080006b                MsgAllocCount
+ .bss.MqBlocker
+                0x0080006d        0x2 MessageQueue.o
+ .bss.GateState
+                0x0080006f        0x1 midiparse.o
+                0x0080006f                GateState
+ .bss.MidiChan  0x00800070        0x1 midiparse.o
+                0x00800070                MidiChan
+ .bss.TxDesc    0x00800071        0xc Uart.o
+ .bss.RxDesc    0x0080007d        0xc Uart.o
+ *(COMMON)
+ COMMON         0x00800089        0x2 createsemaphore.o
+                0x00800089                pTimeoutList
+ COMMON         0x0080008b       0x10 createtask.o
+                0x0080008b                ActiveTasks
+                0x00800095                pCurrentTask
+                0x00800097                OsRunning
+                0x00800099                pNextTask
+ COMMON         0x0080009b        0x2 ExitInterrupt.o
+                0x0080009b                InterruptCount
+ COMMON         0x0080009d       0xa6 main.o
+                0x0080009d                AuxDacTaskTCB
+                0x008000b5                pMsgDac
+                0x008000b7                Ticks
+                0x008000b9                TaskMidiResetTCB
+                0x008000d1                TaskMidiClockTCB
+                0x008000e9                MidiParseDesc
+                0x008000f5                IdleTCB
+                0x0080010d                pSemClock
+                0x0080010f                pStrobDone
+                0x00800111                MidiInTCB
+                0x00800129                pSemReset
+                0x0080012b                DacOutTCB
+ COMMON         0x00800143        0xe malloc.o
+                0x00800143                __brkval
+                0x00800145                MallocBlocker
+ COMMON         0x00800151        0x1 midiparse.o
+                0x00800151                CurrentNote
+ COMMON         0x00800152        0x2 timerticker.o
+                0x00800152                TStamp
+                0x00800154                PROVIDE (__bss_end, .)
+                0x00001ca6                __data_load_start = LOADADDR (.data)
+                0x00001cac                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800154        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800154                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 chip.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 createsemaphore.o
+ .comment       0x00000030       0x31 createtask.o
+ .comment       0x00000030       0x31 DoSwap.o
+ .comment       0x00000030       0x31 ExitInterrupt.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 malloc.o
+ .comment       0x00000030       0x31 MessageQueue.o
+ .comment       0x00000030       0x31 midiparse.o
+ .comment       0x00000030       0x31 OSinit.o
+ .comment       0x00000030       0x31 pendsemaphore.o
+ .comment       0x00000030       0x31 postsemaphore.o
+ .comment       0x00000030       0x31 pq.o
+ .comment       0x00000030       0x31 StartOS.o
+ .comment       0x00000030       0x31 timedelay.o
+ .comment       0x00000030       0x31 timerticker.o
+ .comment       0x00000030       0x31 Uart.o
+ .comment       0x00000030       0x31 yield.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x430
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 chip.o
+ .debug_aranges
+                0x00000028       0x30 createsemaphore.o
+ .debug_aranges
+                0x00000058       0x20 createtask.o
+ .debug_aranges
+                0x00000078       0x20 DoSwap.o
+ .debug_aranges
+                0x00000098       0x20 EnableDisableIrq.o
+ .debug_aranges
+                0x000000b8       0x28 ExitInterrupt.o
+ .debug_aranges
+                0x000000e0       0x90 main.o
+ .debug_aranges
+                0x00000170       0x30 malloc.o
+ .debug_aranges
+                0x000001a0       0x48 MessageQueue.o
+ .debug_aranges
+                0x000001e8       0xb8 midiparse.o
+ .debug_aranges
+                0x000002a0       0x28 OSinit.o
+ .debug_aranges
+                0x000002c8       0x20 pendsemaphore.o
+ .debug_aranges
+                0x000002e8       0x20 postsemaphore.o
+ .debug_aranges
+                0x00000308       0x58 pq.o
+ .debug_aranges
+                0x00000360       0x20 StartOS.o
+ .debug_aranges
+                0x00000380       0x20 timedelay.o
+ .debug_aranges
+                0x000003a0       0x20 timerticker.o
+ .debug_aranges
+                0x000003c0       0x50 Uart.o
+ .debug_aranges
+                0x00000410       0x20 yield.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x549b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x3ea D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+ .debug_info    0x000003ea       0xd5 chip.o
+ .debug_info    0x000004bf      0x4c6 createsemaphore.o
+ .debug_info    0x00000985      0x343 createtask.o
+ .debug_info    0x00000cc8      0x16b DoSwap.o
+ .debug_info    0x00000e33       0x77 EnableDisableIrq.o
+ .debug_info    0x00000eaa      0x223 ExitInterrupt.o
+ .debug_info    0x000010cd      0xf0a main.o
+ .debug_info    0x00001fd7      0x4ed malloc.o
+ .debug_info    0x000024c4      0x5d0 MessageQueue.o
+ .debug_info    0x00002a94      0xda8 midiparse.o
+ .debug_info    0x0000383c      0x22e OSinit.o
+ .debug_info    0x00003a6a      0x337 pendsemaphore.o
+ .debug_info    0x00003da1      0x32f postsemaphore.o
+ .debug_info    0x000040d0      0x52a pq.o
+ .debug_info    0x000045fa      0x1e9 StartOS.o
+ .debug_info    0x000047e3      0x27f timedelay.o
+ .debug_info    0x00004a62      0x2a6 timerticker.o
+ .debug_info    0x00004d08      0x53a Uart.o
+ .debug_info    0x00005242      0x259 yield.o
+
+.debug_abbrev   0x00000000     0x1d3d
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3b5 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+ .debug_abbrev  0x000003b5       0x64 chip.o
+ .debug_abbrev  0x00000419      0x1d8 createsemaphore.o
+ .debug_abbrev  0x000005f1      0x182 createtask.o
+ .debug_abbrev  0x00000773       0x89 DoSwap.o
+ .debug_abbrev  0x000007fc       0x14 EnableDisableIrq.o
+ .debug_abbrev  0x00000810       0xfe ExitInterrupt.o
+ .debug_abbrev  0x0000090e      0x299 main.o
+ .debug_abbrev  0x00000ba7      0x179 malloc.o
+ .debug_abbrev  0x00000d20      0x1d7 MessageQueue.o
+ .debug_abbrev  0x00000ef7      0x2e9 midiparse.o
+ .debug_abbrev  0x000011e0      0x124 OSinit.o
+ .debug_abbrev  0x00001304      0x146 pendsemaphore.o
+ .debug_abbrev  0x0000144a      0x137 postsemaphore.o
+ .debug_abbrev  0x00001581      0x1fc pq.o
+ .debug_abbrev  0x0000177d       0xce StartOS.o
+ .debug_abbrev  0x0000184b       0xfb timedelay.o
+ .debug_abbrev  0x00001946      0x11f timerticker.o
+ .debug_abbrev  0x00001a65      0x1e6 Uart.o
+ .debug_abbrev  0x00001c4b       0xf2 yield.o
+
+.debug_line     0x00000000     0x21e8
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0xfd D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+ .debug_line    0x000000fd       0x61 chip.o
+ .debug_line    0x0000015e      0x200 createsemaphore.o
+ .debug_line    0x0000035e      0x269 createtask.o
+ .debug_line    0x000005c7       0x57 DoSwap.o
+ .debug_line    0x0000061e       0x6f EnableDisableIrq.o
+ .debug_line    0x0000068d       0xa1 ExitInterrupt.o
+ .debug_line    0x0000072e      0x5b2 main.o
+ .debug_line    0x00000ce0      0x32c malloc.o
+ .debug_line    0x0000100c      0x23e MessageQueue.o
+ .debug_line    0x0000124a      0x5eb midiparse.o
+ .debug_line    0x00001835       0x75 OSinit.o
+ .debug_line    0x000018aa       0xe1 pendsemaphore.o
+ .debug_line    0x0000198b       0xf9 postsemaphore.o
+ .debug_line    0x00001a84      0x278 pq.o
+ .debug_line    0x00001cfc       0x60 StartOS.o
+ .debug_line    0x00001d5c       0x6f timedelay.o
+ .debug_line    0x00001dcb       0xd5 timerticker.o
+ .debug_line    0x00001ea0      0x2c0 Uart.o
+ .debug_line    0x00002160       0x88 yield.o
+
+.debug_frame    0x00000000      0x98c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x34 chip.o
+ .debug_frame   0x00000034       0x8c createsemaphore.o
+ .debug_frame   0x000000c0       0x60 createtask.o
+ .debug_frame   0x00000120       0x24 DoSwap.o
+ .debug_frame   0x00000144       0x34 ExitInterrupt.o
+ .debug_frame   0x00000178      0x120 main.o
+ .debug_frame   0x00000298       0x84 malloc.o
+ .debug_frame   0x0000031c       0xc4 MessageQueue.o
+ .debug_frame   0x000003e0      0x21c midiparse.o
+ .debug_frame   0x000005fc       0x40 OSinit.o
+ .debug_frame   0x0000063c       0x40 pendsemaphore.o
+ .debug_frame   0x0000067c       0x40 postsemaphore.o
+ .debug_frame   0x000006bc      0x158 pq.o
+ .debug_frame   0x00000814       0x24 StartOS.o
+ .debug_frame   0x00000838       0x38 timedelay.o
+ .debug_frame   0x00000870       0x44 timerticker.o
+ .debug_frame   0x000008b4       0xac Uart.o
+ .debug_frame   0x00000960       0x2c yield.o
+
+.debug_str      0x00000000      0xc6e
+ *(.debug_str)
+ .debug_str     0x00000000      0x149 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega8515/avr4/crtatmega8515.o
+ .debug_str     0x00000149      0x151 chip.o
+                                0x18a (size before relaxing)
+ .debug_str     0x0000029a      0x188 createsemaphore.o
+                                0x2ec (size before relaxing)
+ .debug_str     0x00000422       0x55 createtask.o
+                                0x25b (size before relaxing)
+ .debug_str     0x00000477       0x15 DoSwap.o
+                                0x1d4 (size before relaxing)
+ .debug_str     0x0000048c       0x50 ExitInterrupt.o
+                                0x1fd (size before relaxing)
+ .debug_str     0x000004dc      0x2fc main.o
+                                0x5cd (size before relaxing)
+ .debug_str     0x000007d8       0x86 malloc.o
+                                0x2d0 (size before relaxing)
+ .debug_str     0x0000085e       0x46 MessageQueue.o
+                                0x34f (size before relaxing)
+ .debug_str     0x000008a4      0x206 midiparse.o
+                                0x594 (size before relaxing)
+ .debug_str     0x00000aaa       0x32 OSinit.o
+                                0x1cf (size before relaxing)
+ .debug_str     0x00000adc       0x24 pendsemaphore.o
+                                0x2ab (size before relaxing)
+ .debug_str     0x00000b00       0x21 postsemaphore.o
+                                0x292 (size before relaxing)
+ .debug_str     0x00000b21       0x8b pq.o
+                                0x24f (size before relaxing)
+ .debug_str     0x00000bac        0xf StartOS.o
+                                0x1cb (size before relaxing)
+ .debug_str     0x00000bbb       0x16 timedelay.o
+                                0x248 (size before relaxing)
+ .debug_str     0x00000bd1       0x13 timerticker.o
+                                0x223 (size before relaxing)
+ .debug_str     0x00000be4       0x7d Uart.o
+                                0x2f8 (size before relaxing)
+ .debug_str     0x00000c61        0xd yield.o
+                                0x1f4 (size before relaxing)
+
+.debug_loc      0x00000000     0x2bf3
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x42 chip.o
+ .debug_loc     0x00000042      0x2b6 createsemaphore.o
+ .debug_loc     0x000002f8      0x3d0 createtask.o
+ .debug_loc     0x000006c8      0x2a4 main.o
+ .debug_loc     0x0000096c      0x557 malloc.o
+ .debug_loc     0x00000ec3      0x3b3 MessageQueue.o
+ .debug_loc     0x00001276      0xb13 midiparse.o
+ .debug_loc     0x00001d89       0x93 OSinit.o
+ .debug_loc     0x00001e1c       0xf9 pendsemaphore.o
+ .debug_loc     0x00001f15      0x14c postsemaphore.o
+ .debug_loc     0x00002061      0x86b pq.o
+ .debug_loc     0x000028cc       0xcf timedelay.o
+ .debug_loc     0x0000299b       0xcb timerticker.o
+ .debug_loc     0x00002a66      0x142 Uart.o
+ .debug_loc     0x00002ba8       0x4b yield.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x338
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 chip.o
+ .debug_ranges  0x00000018       0x20 createsemaphore.o
+ .debug_ranges  0x00000038       0x10 createtask.o
+ .debug_ranges  0x00000048       0x10 DoSwap.o
+ .debug_ranges  0x00000058       0x18 ExitInterrupt.o
+ .debug_ranges  0x00000070       0x80 main.o
+ .debug_ranges  0x000000f0       0x20 malloc.o
+ .debug_ranges  0x00000110       0x38 MessageQueue.o
+ .debug_ranges  0x00000148       0xf0 midiparse.o
+ .debug_ranges  0x00000238       0x18 OSinit.o
+ .debug_ranges  0x00000250       0x10 pendsemaphore.o
+ .debug_ranges  0x00000260       0x10 postsemaphore.o
+ .debug_ranges  0x00000270       0x48 pq.o
+ .debug_ranges  0x000002b8       0x10 StartOS.o
+ .debug_ranges  0x000002c8       0x10 timedelay.o
+ .debug_ranges  0x000002d8       0x10 timerticker.o
+ .debug_ranges  0x000002e8       0x40 Uart.o
+ .debug_ranges  0x00000328       0x10 yield.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(200-2017Firmware.elf elf32-avr)
+LOAD linker stubs

@@ -1,0 +1,751 @@
+*PROTEL-ECO*
+
+*REMARK* 14-Jun-2014 07:14:55
+
+*REMARK* 14-Jun-2014 07:14:55
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 07:14:55
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 07:14:55
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 10:09:08
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 10:11:20
+*PART*
+D1 LED
+
+*REMARK* 14-Jun-2014 10:11:20
+*PART*
+J1 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:11:20
+*PART*
+J2 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:11:20
+*PART*
+J3 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:11:20
+*PART*
+J4 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:30
+*DELPART*
+J1 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:30
+*DELPART*
+J1 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:30
+*PART*
+J1 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 10:16:30
+*DELPART*
+J2 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:30
+*DELPART*
+J2 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:30
+*PART*
+J2 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 10:16:30
+*DELPART*
+J3 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:30
+*DELPART*
+J3 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:30
+*PART*
+J3 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 10:16:30
+*DELPART*
+J4 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:31
+*DELPART*
+J4 PHONE-N114A
+
+*REMARK* 14-Jun-2014 10:16:31
+*PART*
+J4 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 10:16:31
+*PART*
+JP1 IDC16-AMP-RA
+
+*REMARK* 14-Jun-2014 10:16:31
+*PART*
+R1 ALPHA POT V
+
+*REMARK* 14-Jun-2014 10:18:18
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 10:20:03
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J2.2 J2_S
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.10 J2_S
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J2_S 12
+JP1.10
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J2_S 12
+J2.2
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J2.3 J2_T
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.9 J2_T
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J2_T 12
+JP1.9
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J2_T 12
+J2.3
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.2 LED_C
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+D1.CATH LED_C
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* LED_C 12
+D1.CATH
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* LED_C 12
+JP1.2
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.1 LED_A
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+D1.ANOD LED_A
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* LED_A 12
+D1.ANOD
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* LED_A 12
+JP1.1
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.8 J3_T
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J3.3 J3_T
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J3_T 12
+J3.3
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J3_T 12
+JP1.8
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.6 J3_G
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J3.1 J3_G
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J3_G 12
+J3.1
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J3_G 12
+JP1.6
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J2.1 J2_G
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.7 J2_G
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J2_G 12
+JP1.7
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J2_G 12
+J2.1
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J1.1 J1_G
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.12 J1_G
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J1_G 12
+JP1.12
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J1_G 12
+J1.1
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J1.2 J1_S
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.14 J1_S
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J1_S 12
+JP1.14
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J1_S 12
+J1.2
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.11 J1_T
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J1.3 J1_T
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J1_T 12
+J1.3
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J1_T 12
+JP1.11
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.16 POTH
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+R1.A POTH
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* POTH 12
+R1.A
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* POTH 12
+JP1.16
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+R1.WIPE POTW
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.15 POTW
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* POTW 12
+JP1.15
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* POTW 12
+R1.WIPE
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+R1.B POTL
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.13 POTL
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* POTL 12
+JP1.13
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* POTL 12
+R1.B
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J4.3 J4_T
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.3 J4_T
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J4_T 12
+JP1.3
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J4_T 12
+J4.3
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J4.1 J4_G
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.4 J4_G
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J4_G 12
+JP1.4
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J4_G 12
+J4.1
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+JP1.5 J3_S
+
+*REMARK* 14-Jun-2014 10:22:21
+*DELPIN*
+J3.2 J3_S
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J3_S 12
+J3.2
+
+*REMARK* 14-Jun-2014 10:22:21
+*NET*
+*SIGNAL* J3_S 12
+JP1.5
+
+*REMARK* 14-Jun-2014 10:46:30
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1074\r1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 10:46:37
+*REMARK* .......................................................................
+*REMARK* file opened: C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1074\1074.PCB
+
+*REMARK* 14-Jun-2014 10:47:20
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 10:52:54
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 13:47:21
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 14:01:59
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 14:03:10
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1074\r1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J2.2 J2_S
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.10 J2_S
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J2_S 12
+JP1.10
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J2_S 12
+J2.2
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J2.3 J2_T
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.9 J2_T
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J2_T 12
+JP1.9
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J2_T 12
+J2.3
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.2 LED_C
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+D1.CATH LED_C
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* LED_C 12
+D1.CATH
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* LED_C 12
+JP1.2
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.1 LED_A
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+D1.ANOD LED_A
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* LED_A 12
+D1.ANOD
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* LED_A 12
+JP1.1
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.8 J3_T
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J3.3 J3_T
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J3_T 12
+J3.3
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J3_T 12
+JP1.8
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.6 J3_G
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J3.1 J3_G
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J3_G 12
+J3.1
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J3_G 12
+JP1.6
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J2.1 J2_G
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.7 J2_G
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J2_G 12
+JP1.7
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J2_G 12
+J2.1
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J1.1 J1_G
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.12 J1_G
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J1_G 12
+JP1.12
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J1_G 12
+J1.1
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J1.2 J1_S
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.14 J1_S
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J1_S 12
+JP1.14
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J1_S 12
+J1.2
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.11 J1_T
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J1.3 J1_T
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J1_T 12
+J1.3
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J1_T 12
+JP1.11
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.16 POTH
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+R1.A POTH
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* POTH 12
+R1.A
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* POTH 12
+JP1.16
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+R1.WIPE POTW
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.15 POTW
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* POTW 12
+JP1.15
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* POTW 12
+R1.WIPE
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+R1.B POTL
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.13 POTL
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* POTL 12
+JP1.13
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* POTL 12
+R1.B
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J4.3 J4_T
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.3 J4_T
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J4_T 12
+JP1.3
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J4_T 12
+J4.3
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J4.1 J4_G
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.4 J4_G
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J4_G 12
+JP1.4
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J4_G 12
+J4.1
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+JP1.5 J3_S
+
+*REMARK* 14-Jun-2014 14:03:35
+*DELPIN*
+J3.2 J3_S
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J3_S 12
+J3.2
+
+*REMARK* 14-Jun-2014 14:03:35
+*NET*
+*SIGNAL* J3_S 12
+JP1.5
+
+*REMARK* 14-Jun-2014 14:19:54
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 16:31:16
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 16:33:16
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 23-Nov-2014 20:06:52
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 26-Feb-2015 20:32:42
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1074\1074.PCB
+*REMARK* .......................................................................
+
+*REMARK* 26-Feb-2015 20:32:45
+*REMARK* .......................................................................
+*REMARK* file opened: PCB_1
+
+*REMARK* 26-Feb-2015 20:33:50
+*PART*
+1 PANEL_2U
+
+*REMARK* 26-Feb-2015 20:35:40
+*PART*
+2 POTLEGND-270
+
+*REMARK* 26-Feb-2015 20:35:51
+*PART*
+3 POTLEGND-270
+
+*REMARK* 26-Feb-2015 20:35:56
+*PART*
+4 POTLEGND-270
+
+*REMARK* 3-Oct-2015  20:36:44
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1074\1074.PCB
+*REMARK* .......................................................................

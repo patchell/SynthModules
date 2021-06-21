@@ -1,0 +1,14 @@
+ENTITY multisegtop IS
+    PORT (
+	clock : in std_logic  ; 
+	reset : in std_logic  ; 
+	count : inout std_logic_vector (2 downto 0) ; 
+	gate : in std_logic  ; 
+	settled : in std_logic  ; 
+	max : in std_logic_vector (2 downto 0) ; 
+	hold : in std_logic_vector (2 downto 0) ; 
+	maxo : inout std_logic  ; 
+	holdo : inout std_logic  ; 
+	state : inout std_logic_vector (1 downto 0)
+    ) ;
+END multisegtop ;

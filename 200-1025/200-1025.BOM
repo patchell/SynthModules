@@ -1,0 +1,31 @@
+CLOCK DIVIDER  Revised: Tuesday, June 24, 2003
+200-1025          Revision: NC
+
+
+
+
+
+
+
+Bill Of Materials          March 28,2004      10:55:26	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	9	C1,C2,C3,C6,C7,C8,C9,C10,	.1uF
+		C11
+2	2	C12,C4	100pF
+3	2	C5,C13	10uF
+4	2	D1,D2	1N914
+5	4	J1,J2,J3,J4	PHONEJACK
+6	1	P1	HEADER 4
+7	5	R1,R5,R6,R7,R8	1K
+8	6	R2,R4,R9,R12,R14,R17	10K
+9	1	R3	200K
+10	2	R18,R10	100
+11	2	R11,R15	100K
+12	1	R16	20K
+13	2	U1,U3	4027
+14	1	U2	LM311
+15	1	U4	TL072
+16	1	U5	LM4041-ADJ

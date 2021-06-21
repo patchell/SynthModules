@@ -1,0 +1,329 @@
+(PCB "500-1080"
+ (description
+  (timeStamp "2015 11 14 17 48 20")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "OTA MODULE")
+  (date "Saturday, November 14, 2015")
+  (document "500-1080")
+  (revision "A")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component PIN
+   (place P10
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 00000960)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P1
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 00000943)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P2
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 0000092E)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P3
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 00000838)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P4
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 00000860)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P5
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 00000896)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P6
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 000008D2)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P7
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 0000084B)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P8
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 0000091A)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P9
+    (property 
+     ("DIGIKEY PARTNO" "3103-2-00-15-00-00-08-0")
+     ("PCB Footprint" PAD)
+     (timestamp 00000881)
+     ("Source Package" PIN)
+     (Value PIN))))
+  (component NPN
+   (place Q20
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 00000003)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q21
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 00000159)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q22
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 00000101)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q10
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 00000675)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q11
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 00000692)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q12
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 00000411)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q13
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 0000042B)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q14
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 00000589)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q15
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 0000001D)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q16
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 0000013D)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q17
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000005A5)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q18
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 0000054D)
+     ("Source Package" NPN)
+     (Value 2N3904)))
+   (place Q19
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 00000037)
+     ("Source Package" NPN)
+     (Value 2N3904))))
+  (component PNP
+   (place Q6
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000001CB)
+     ("Source Package" PNP)
+     (Value 2N3906)))
+   (place Q7
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 0000062D)
+     ("Source Package" PNP)
+     (Value 2N3906)))
+   (place Q8
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000003FF)
+     ("Source Package" PNP)
+     (Value 2N3906)))
+   (place Q9
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000001E5)
+     ("Source Package" PNP)
+     (Value 2N3906)))
+   (place Q1
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000005F1)
+     ("Source Package" PNP)
+     (Value 2N3906)))
+   (place Q2
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000005D1)
+     ("Source Package" PNP)
+     (Value 2N3906)))
+   (place Q3
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000003D1)
+     ("Source Package" PNP)
+     (Value 2N3906)))
+   (place Q4
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000003B5)
+     ("Source Package" PNP)
+     (Value 2N3906)))
+   (place Q5
+    (property 
+     ("PCB Footprint" TO92)
+     (timestamp 000001FF)
+     ("Source Package" PNP)
+     (Value 2N3906)))))
+ (library
+  (image PNP
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 BASE
+    (property 
+     (pinname BASE)
+     (pintype 0)))
+   (pin 999 EMITTER
+    (property 
+     (pinname EMITTER)
+     (pintype 4)))
+   (pin 999 COLLECTOR
+    (property 
+     (pinname COLLECTOR)
+     (pintype 4))))
+  (image PIN
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image NPN
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 BASE
+    (property 
+     (pinname BASE)
+     (pintype 0)))
+   (pin 999 EMITTER
+    (property 
+     (pinname EMITTER)
+     (pintype 4)))
+   (pin 999 COLLECTOR
+    (property 
+     (pinname COLLECTOR)
+     (pintype 4)))))
+ (network
+  (net N00269
+   (pins
+     Q16-EMITTER Q22-COLLECTOR Q21-BASE Q22-BASE))
+  (net N00109
+   (pins
+     Q19-BASE Q20-BASE Q15-EMITTER Q20-COLLECTOR))
+  (net N00621
+   (pins
+     Q5-BASE Q6-COLLECTOR Q9-EMITTER Q6-BASE))
+  (net N01093
+   (pins
+     Q13-EMITTER Q12-EMITTER Q15-COLLECTOR))
+  (net N00983
+   (pins
+     Q4-COLLECTOR Q8-EMITTER Q3-BASE Q4-BASE))
+  (net N00985
+   (pins
+     Q3-COLLECTOR Q8-BASE Q12-COLLECTOR))
+  (net N00789
+   (pins
+     Q5-COLLECTOR Q9-BASE Q13-COLLECTOR))
+  (net N00265
+   (pins
+     Q21-COLLECTOR Q16-BASE Q8-COLLECTOR))
+  (net N01369
+   (pins
+     Q14-EMITTER Q18-COLLECTOR Q17-BASE Q18-BASE))
+  (net N01465
+   (pins
+     Q2-COLLECTOR Q7-EMITTER Q1-BASE Q2-BASE))
+  (net N01461
+   (pins
+     Q1-COLLECTOR Q7-BASE Q10-COLLECTOR))
+  (net INA+
+   (pins
+     P3-1 Q10-BASE))
+  (net "INA-"
+   (pins
+     P7-1 Q11-BASE))
+  (net IA
+   (pins
+     Q17-COLLECTOR P8-1 Q14-BASE))
+  (net "INB-"
+   (pins
+     P4-1 Q12-BASE))
+  (net IB
+   (pins
+     P9-1 Q19-COLLECTOR Q15-BASE))
+  (net INB+
+   (pins
+     Q13-BASE P5-1))
+  (net IOB
+   (pins
+     Q16-COLLECTOR P6-1 Q9-COLLECTOR))
+  (net IOA
+   (pins
+     Q11-COLLECTOR P2-1 Q7-COLLECTOR))
+  (net +15
+   (pins
+     Q5-EMITTER Q6-EMITTER Q3-EMITTER Q4-EMITTER P1-1 Q1-EMITTER Q2-EMITTER))
+  (net "-15"
+   (pins
+     Q22-EMITTER Q17-EMITTER Q21-EMITTER Q20-EMITTER P10-1 Q19-EMITTER Q18-EMITTER))
+  (net N01708
+   (pins
+     Q14-COLLECTOR Q10-EMITTER Q11-EMITTER)))
+)

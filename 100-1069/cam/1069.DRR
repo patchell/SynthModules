@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 1069.PcbDoc   8/8/2014  12:18:06 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 1069.TXT
+EIA File   : 1069.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        22mil (0.5588mm)         Round          395              425.67 Inch (10812.06 mm)
+T2        32mil (0.8128mm)         Round          186              337.62 Inch (8575.60 mm)
+T3        36mil (0.9144mm)         Round          1393             527.56 Inch (13400.08 mm)
+T4        40mil (1.016mm)          Round          21               289.56 Inch (7354.88 mm)
+T5        60mil (1.524mm)          Round          12               296.78 Inch (7538.33 mm)
+T6        70mil (1.778mm)          Round          4                291.39 Inch (7401.24 mm)
+T7        95mil (2.413mm)          Round          12               295.67 Inch (7509.98 mm)
+T8        140mil (3.556mm)         Round          3                298.18 Inch (7573.84 mm)
+---------------------------------------------------------------------------
+Totals                                            2026             2762.44 Inch (70166.02 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

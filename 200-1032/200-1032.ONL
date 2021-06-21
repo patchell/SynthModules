@@ -1,0 +1,133 @@
+(PCB "200-1032"
+ (description
+  (timeStamp "2003 09 04 00 12 51")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Wednesday, September 03, 2003")
+  (document "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\SYNTHMOD\\200-1032\\200-1032.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component PHONEJACK
+   (place J1
+    (property 
+     (timestamp 00000003)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK)))
+   (place J2
+    (property 
+     (timestamp 0000001D)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK))))
+  (component JUMPER
+   (place JP2
+    (property 
+     (timestamp 00000205)
+     ("Source Package" JUMPER)
+     (Value JUMPER)))
+   (place JP3
+    (property 
+     (timestamp 000001EF)
+     ("Source Package" JUMPER)
+     (Value JUMPER))))
+  (component "HEADER 5X2"
+   (place JP1
+    (property 
+     (timestamp 00000037)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))))
+ (library
+  (image "HEADER 5X2"
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\OLDLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4))))
+  (image JUMPER
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\OLDLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image PHONEJACK
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\OLDLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))))
+ (network
+  (net N00137
+   (pins
+     J1-1 JP1-2))
+  (net N00189
+   (pins
+     JP1-6 J2-1))
+  (net N00539
+   (pins
+     J1-2 JP2-1))
+  (net N00241
+   (pins
+     JP3-2 J1-3 JP2-2 J2-3 JP1-7 JP1-9 JP1-5 JP1-1 JP1-3))
+  (net N00649
+   (pins
+     JP3-1 J2-2)))
+)

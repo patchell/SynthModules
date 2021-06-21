@@ -1,0 +1,231 @@
+*PROTEL-ECO*
+
+*REMARK* 2-Aug-2014  16:44:46
+
+*REMARK* 2-Aug-2014  16:44:46
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1008\1008.PCB
+*REMARK* .......................................................................
+
+*REMARK* 6-Aug-2014  07:52:32
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1008\1008.PCB
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  15:34:37
+*REMARK* .......................................................................
+*REMARK* file opened: C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1008\1008.PCB
+
+*REMARK* 6-Feb-2015  15:35:16
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1008\1008b.PCB
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+J3 PHONE-SC112A
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+J4 PHONE-SC112A
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+J5 PHONE-SC112A
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+J6 PHONE-SC112A
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP1 IDC20-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP1 IDC20-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+JP1 MTA-4X156-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP2 IDC10-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP2 IDC10-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+JP2 IDC16-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP3 IDC10-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP3 IDC10-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+JP3 IDC16-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP4 MTA-4X156-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP4 MTA-4X156-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP5 JMPR6
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+JP5 JMPR6
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+JP5 IDC10-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+JP6 IDC10-AMP-RA
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+R24 ALPHA POT V
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+R24 ALPHA POT V
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+R24 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+R25 ALPHA POT V
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+R25 ALPHA POT V
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+R25 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+R26 ALPHA POT V
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+R26 ALPHA POT V
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+R26 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+R27 ALPHA POT V
+
+*REMARK* 6-Feb-2015  15:35:46
+*DELPART*
+R27 ALPHA POT V
+
+*REMARK* 6-Feb-2015  15:35:46
+*PART*
+R27 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:36:05
+*DELPART*
+R37 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:36:05
+*DELPART*
+R37 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:36:05
+*DELPART*
+R38 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:36:05
+*DELPART*
+R38 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:36:05
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:36:05
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 6-Feb-2015  15:47:41
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1008\1008b.PCB
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  15:47:45
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  15:47:45
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  15:47:45
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  15:47:45
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  15:47:45
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  20:07:16
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1008\1008b.PCB
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  20:16:13
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1008\1008b.PCB
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  20:16:35
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1008\1008b.PCB
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  20:16:36
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  20:16:36
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  20:16:36
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  20:16:36
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 6-Feb-2015  20:16:36
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 9-Feb-2015  13:17:08
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1008\1008b.PCB
+*REMARK* .......................................................................
+
+*REMARK* 9-Feb-2015  13:17:11
+*REMARK* .......................................................................
+*REMARK* file opened: PCB_1

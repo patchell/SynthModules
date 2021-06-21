@@ -1,0 +1,156 @@
+Protel Design System Auto-Router Log
+------------------------------------
+Log Filename     : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1063\1063.LOG
+Date             : 23-6-2014
+Time             : 9:04
+
+Input  .PCB File : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1063\1063.PCB
+Output .PCB File : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1063\1063.PCB
+
+
+Clearances
+  Arc    : 5mil
+  Fill   : 5mil
+  Pad    : 5mil
+  Track  : 5mil
+  Text   : 5mil
+  Via    : 5mil
+
+
+Layers
+  Top Layer      : Horizontal
+  Mid Layer 1    : Not Used
+  Mid Layer 2    : Not Used
+  Mid Layer 3    : Not Used
+  Mid Layer 4    : Not Used
+  Mid Layer 5    : Not Used
+  Mid Layer 6    : Not Used
+  Mid Layer 7    : Not Used
+  Mid Layer 8    : Not Used
+  Mid Layer 9    : Not Used
+  Mid Layer 10   : Not Used
+  Mid Layer 11   : Not Used
+  Mid Layer 12   : Not Used
+  Mid Layer 13   : Not Used
+  Mid Layer 14   : Not Used
+  Bottom Layer   : Vertical
+
+
+Hugging 
+  Before 100%  : No Hugging
+  After 100%   : No Hugging
+
+
+Other Settings
+  Route Grid  : 25mil
+  Route Track : 12mil
+  Route Via   : 62mil
+
+
+                   Connections       Time           Items Added During Pass
+Router Pass        Routed  (%)       Used        Arcs    Pads    Tracks  Vias
+--------------------------------------------------------------------------------
+Pre-Router          164 ( 75.93%)  00:00:02         0       0       0       0
+Smd Stringer                                              Not Used
+SMD Fanout                                                Not Used
+Memory                                                    Not Used
+Line Probe                                                Not Used
+Maze                                                      Not Used
+Miter                                                     Not Used
+--------------------------------------------------------------------------------
+Totals              164 (75.93%)  00:00:02         0       0       0       0
+
+
+
+
+---------------------
+Net Name : O2
+     U8-9 to U11-13
+Net Name : O3
+     U8-8 to U11-12
+Net Name : SCL
+     JP4-6 to U7-28
+Net Name : SDA
+     JP4-5 to U7-27
+Net Name : N09648
+     U6-16 to U7-14
+Net Name : N09548
+     U7-15 to U6-15
+Net Name : N00989
+     U6-9 to U7-11
+Net Name : N00683
+     U6-13 to U7-3
+Net Name : N00759
+     U6-12 to U7-4
+Net Name : N00835
+     U6-11 to U7-5
+Net Name : N03283
+     U4-1 to U4-2
+     U4-2 to U6-19
+Net Name : N00607
+     U6-14 to U7-2
+Net Name : N00911
+     U6-10 to U7-6
+Net Name : N02716
+     U4-3 to R15-1
+Net Name : N01580
+     U6-4 to U7-26
+Net Name : N01145
+     U6-7 to U7-13
+Net Name : N01067
+     U6-8 to U7-12
+Net Name : N03414
+     U6-1 to U4-6
+Net Name : N07206
+     JP3-10 to R21-1
+Net Name : N07076
+     JP3-6 to R19-1
+Net Name : N06942
+     JP3-2 to R24-1
+Net Name : N07011
+     JP3-4 to R22-1
+Net Name : N07141
+     JP3-8 to R20-1
+Net Name : N06803
+     D3-ANOD to D4-CATH
+     D4-CATH to U7-18
+     D4-CATH to R20-2
+Net Name : N06797
+     R24-2 to D11-ANOD
+     D11-ANOD to D12-CATH
+     D12-CATH to U7-16
+Net Name : N06805
+     D5-ANOD to R21-2
+     R21-2 to D6-CATH
+     D6-CATH to U7-1
+Net Name : N06799
+     R22-2 to D8-CATH
+     D8-CATH to U7-17
+     D8-CATH to D7-ANOD
+Net Name : N06801
+     D1-ANOD to R19-2
+     R19-2 to D2-CATH
+     D2-CATH to U7-19
+Net Name : N02117
+     U1-1 to R5-2
+Net Name : N02732
+     U9-2 to R1-1
+Net Name : N00423
+     U7-24 to U11-2
+Net Name : N00401
+     U8-2 to U6-20
+     U6-20 to U4-7
+Net Name : N02695
+     R4-1 to U9-6
+Net Name : N00434
+     U7-25 to U11-6
+Net Name : N00412
+     U7-23 to U11-1
+Net Name : AGND
+     R27-2 to U7-22
+     R27-2 to U2-5
+     U7-22 to U7-8
+Net Name : O0
+     U8-1 to U11-15
+Net Name : O1
+     U8-16 to U11-14

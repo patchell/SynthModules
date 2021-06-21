@@ -1,0 +1,2047 @@
+*PROTEL-ECO*
+
+*REMARK* 14-Jun-2014 14:25:08
+
+*REMARK* 14-Jun-2014 14:25:08
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D1 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D10 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D11 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D12 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D13 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D14 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D15 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D16 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D2 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D3 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D4 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D5 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D6 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D7 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D8 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+D9 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+J1 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+J2 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+J3 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+J4 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q1 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q10 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q11 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q12 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q14 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q15 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q16 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q17 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q19 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q2 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q20 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q21 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q22 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q23 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q24 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q4 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q5 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q6 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q7 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+Q9 TO92
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R10 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R11 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R12 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R13 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R14 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R15 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R16 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R17 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R18 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R2 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R20 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R21 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R22 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R23 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R24 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R25 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R26 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R27 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R28 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R29 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R30 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R31 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R32 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R33 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R34 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R35 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R37 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R38 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R39 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R40 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R41 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R42 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R43 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R44 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R45 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R46 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R47 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R48 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R49 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R50 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R51 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R52 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R54 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R55 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R56 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R57 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R58 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R59 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R6 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R60 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R61 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R62 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R63 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R64 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R65 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R66 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R67 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R68 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:34
+*PART*
+R69 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R7 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R71 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R72 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R73 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R74 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R75 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R76 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R77 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R78 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R79 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R8 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R80 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R81 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R82 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R83 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R84 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R85 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R86 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R87 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R88 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R89 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+R9 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U1 DIP8
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U2 DIP8
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U3 DIP8
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U4 DIP8
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U5 DIP8
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U6 DIP8
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U7 DIP8
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U8 DIP8
+
+*REMARK* 14-Jun-2014 14:25:35
+*PART*
+U9 DIP28.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+J1 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+J1 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+J1 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+J2 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+J2 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+J2 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+J3 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+J3 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+J3 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+J4 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+J4 PHONE-N114A
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+J4 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+R2 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+R2 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+R2 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:18
+*PART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:19
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:19
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:19
+*PART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:19
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:19
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:28:19
+*PART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:22
+*DELPART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:22
+*DELPART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+JP1 IDC16-AMP-RA
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+JP2 IDC16-AMP-RA
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+JP3 IDC16-AMP-RA
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R2 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R2 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+R2 ALPHA POT V
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:30:23
+*PART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+C1 AXIAL0.5X0.2
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+C2 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+C2 RAD0.2
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+C3 AXIAL0.5X0.2
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+C4 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+C4 RAD0.2
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+C5 AXIAL0.5X0.2
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+C6 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+C6 RAD0.2
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+C7 AXIAL0.5X0.2
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+C8 AXIAL0.3
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+C8 RAD0.2
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:36:43
+*PART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:37:37
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 14:40:06
+*REMARK* .......................................................................
+*REMARK* file opened: C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1065\1065.PCB
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+C1 AXIAL0.5X0.2
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+C2 RAD0.2
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+C3 AXIAL0.5X0.2
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+C4 RAD0.2
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+C5 AXIAL0.5X0.2
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+C6 RAD0.2
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+C7 AXIAL0.5X0.2
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+C8 RAD0.2
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D1 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D10 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D11 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D12 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D13 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D14 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D15 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D16 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D2 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D3 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D4 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D5 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D6 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D7 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D8 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+D9 DIODE0.4
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+J1 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+J2 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+J3 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+J4 PHONE-SC112A
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+JP1 IDC16-AMP-RA
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+JP2 IDC16-AMP-RA
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+JP3 IDC16-AMP-RA
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q1 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q10 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q11 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q12 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q13 TO92-J111
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q14 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q15 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q16 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q17 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q18 TO92-J111
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q19 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q2 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q20 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q21 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q22 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q23 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q24 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q3 TO92-J111
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q4 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q5 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q6 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q7 TO92
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q8 TO92-J111
+
+*REMARK* 14-Jun-2014 14:40:26
+*PART*
+Q9 TO92
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R10 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R11 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R12 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R13 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R14 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R15 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R16 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R17 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R18 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R2 ALPHA POT V
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R20 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R21 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R22 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R23 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R24 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R25 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R26 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R27 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R28 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R29 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R30 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R31 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R32 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R33 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R34 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R35 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R37 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R38 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R39 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R40 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R41 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R42 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R43 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R44 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R45 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R46 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R47 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R48 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R49 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R50 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R51 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R52 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R54 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R55 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R56 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R57 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R58 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R59 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R6 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R60 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R61 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R62 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R63 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R64 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R65 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R66 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R67 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R68 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R69 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R7 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R71 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R72 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R73 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R74 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R75 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R76 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R77 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R78 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R79 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R8 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R80 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R81 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R82 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R83 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R84 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R85 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R86 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R87 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R88 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R89 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+R9 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U1 DIP8
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U2 DIP8
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U3 DIP8
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U4 DIP8
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U5 DIP8
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U6 DIP8
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U7 DIP8
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U8 DIP8
+
+*REMARK* 14-Jun-2014 14:40:27
+*PART*
+U9 DIP28.3
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*PART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*PART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*PART*
+R3 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*PART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*PART*
+R4 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*PART*
+R5 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*PART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:44:17
+*PART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C10 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C11 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C12 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C13 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C14 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C15 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C16 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C17 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C18 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C19 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C20 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C21 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C22 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C23 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C24 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+C9 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+R1 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+R19 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+R36 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+R53 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*DELPART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:46:52
+*PART*
+R70 AXIAL0.4
+
+*REMARK* 14-Jun-2014 14:52:33
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 14:57:37
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 14:59:13
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 15:01:50
+*PART*
+JP4 MTA-4X156-RA
+
+*REMARK* 14-Jun-2014 15:03:11
+*REMARK* file closed and saved as C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 15:03:13
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 15:35:18
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 15:35:40
+*PART*
+C25 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 15:35:40
+*PART*
+C26 AXIALCAP0.3
+
+*REMARK* 14-Jun-2014 15:35:40
+*PART*
+U10 TO92-LM336
+
+*REMARK* 14-Jun-2014 16:14:39
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 16:51:03
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 19:15:58
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 20:25:28
+*DELPART*
+C2 RAD0.2
+
+*REMARK* 14-Jun-2014 20:25:28
+*DELPART*
+C2 RAD0.2
+
+*REMARK* 14-Jun-2014 20:25:28
+*PART*
+C2 RAD0.1
+
+*REMARK* 14-Jun-2014 20:25:28
+*DELPART*
+C4 RAD0.2
+
+*REMARK* 14-Jun-2014 20:25:28
+*DELPART*
+C4 RAD0.2
+
+*REMARK* 14-Jun-2014 20:25:28
+*PART*
+C4 RAD0.1
+
+*REMARK* 14-Jun-2014 20:25:28
+*DELPART*
+C6 RAD0.2
+
+*REMARK* 14-Jun-2014 20:25:28
+*DELPART*
+C6 RAD0.2
+
+*REMARK* 14-Jun-2014 20:25:28
+*PART*
+C6 RAD0.1
+
+*REMARK* 14-Jun-2014 20:25:28
+*DELPART*
+C8 RAD0.2
+
+*REMARK* 14-Jun-2014 20:25:28
+*DELPART*
+C8 RAD0.2
+
+*REMARK* 14-Jun-2014 20:25:28
+*PART*
+C8 RAD0.1
+
+*REMARK* 14-Jun-2014 20:27:33
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 20:32:25
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 20:56:04
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 20:58:04
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 21:31:21
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 21:37:27
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 21:38:26
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 21:43:33
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 21:50:00
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 21:56:20
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 22:05:15
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 22:11:51
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 22:17:44
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 22:18:10
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 22:27:49
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 22:33:28
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 22:40:06
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Jun-2014 22:40:07
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 15-Jun-2014 09:31:21
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 15-Jun-2014 09:33:53
+*PART*
+D17 LED
+
+*REMARK* 15-Jun-2014 09:35:28
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 15-Jun-2014 09:35:53
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 15-Jun-2014 20:53:14
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 15-Jun-2014 20:59:29
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 15-Jun-2014 21:03:31
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 15-Jun-2014 21:04:36
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:26:18
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:34:51
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:36:40
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:38:30
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:39:03
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:47:14
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:49:47
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:55:10
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:56:14
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 17:58:34
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 16-Jun-2014 18:03:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 3-Jul-2014  14:01:08
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................
+
+*REMARK* 1-Aug-2014  20:03:32
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1065\1065.PCB
+*REMARK* .......................................................................

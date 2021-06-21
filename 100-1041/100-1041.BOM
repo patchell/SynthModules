@@ -1,0 +1,30 @@
+  Revised: Saturday, May 08, 2004
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 3,2004      13:18:20	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	25	C1,C2,C3,C4,C5,C6,C7,C8,	.1uF
+		C9,C10,C11,C12,C13,C14,
+		C15,C16,C17,C18,C19,C20,
+		C21,C22,C23,C24,C25
+2	2	JP1,JP2	HEADER 10X2
+3	2	JP6,JP3	HEADER 8X2
+4	2	JP5,JP4	HEADER 4
+5	8	R1,R2,R3,R4,R5,R6,R7,R8	470
+6	5	U1,U4,U10,U17,U19	1489
+7	2	U2,U3	74HC109
+8	3	U5,U15,U20	74HC14
+9	3	U6,U9,U13	74HC86
+10	1	U7	74HC283
+11	4	U8,U12,U14,U18	74HC151
+12	1	U11	74HC32
+13	1	U16	74HC08

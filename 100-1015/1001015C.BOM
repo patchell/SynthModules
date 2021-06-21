@@ -1,0 +1,32 @@
+LOGIC MODULE  Revised: Monday, April 26, 2004
+100-1015          Revision: NC
+
+
+
+
+
+
+
+Bill Of Materials           July 3,2004      13:22:51	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	29	C1,C2,C3,C4,C5,C6,C7,C8,	.1uF
+		C9,C10,C11,C12,C13,C14,
+		C15,C16,C17,C18,C19,C20,
+		C21,C22,C23,C24,C25,C26,
+		C27,C28,C29
+2	2	JP2,JP1	HEADER 4
+3	2	J1,J2	HEADER 10X2
+4	2	J3,J4	HEADER 8X2
+5	2	Q1,Q2	2N3904
+6	8	RN1,RN2,RN3,RN4,RN5,RN6,	SIP 10
+		RN7,RN8
+7	2	R1,R2	270
+8	2	R4,R3	20K
+9	8	U1,U4,U6,U9,U12,U15,U17,	1489
+		U20
+10	8	U2,U5,U7,U10,U13,U16,U18,	74HC86
+		U21
+11	6	U3,U8,U11,U14,U19,U22	74HC20

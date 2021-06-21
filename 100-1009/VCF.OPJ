@@ -1,0 +1,108 @@
+(ExpressProject "VCF"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\vcf.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (TL071
+      (FullPartName "TL071.Normal")
+      (LibraryName "C:\PROJECTS\ANASEQ\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (CA3280E
+      (FullPartName "CA3280E.Normal")
+      (LibraryName "C:\PROJECTS\ANASEQ\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TL072
+      (FullPartName "TL072.Normal")
+      (LibraryName "C:\PROJECTS\ANASEQ\SYNTH-DIY.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (NTE43
+      (FullPartName "NTE43.Normal")
+      (LibraryName "C:\PROJECTS\ANASEQ\SYNTH-DIY.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\projects\anaseq\VCF\vcf.dsn")
+      (Path "Design Resources" "C:\projects\anaseq\VCF\vcf.dsn" "VCF")
+      (Select "Design Resources" "C:\projects\anaseq\VCF\vcf.dsn" "VCF" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 421"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 160 982 90 538")
+        (Scroll "0 0")
+        (Zoom "55")
+        (Occurrence "/"))
+      (Path "C:\PROJECTS\ANASEQ\VCF\VCF.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 44 866 44 492")
+        (Scroll "0 0")
+        (Zoom "55"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 110 907 110 562")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/MIXER"))
+      (Path "C:\PROJECTS\ANASEQ\VCF\VCF.DSN")
+      (Schematic "MIXER_6I_1O")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 110 936 110 562")
+        (Scroll "0 0")
+        (Zoom "55"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 132 929 132 584")
+        (Scroll "0 0")
+        (Zoom "55")
+        (Occurrence "/MIXER/EXPO"))
+      (Path "C:\PROJECTS\ANASEQ\VCF\VCF.DSN")
+      (Schematic "EXPO")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -1 -1 154 976 154 602")
+        (Scroll "295 0")
+        (Zoom "110"))
+      (Path "C:\PROJECTS\ANASEQ\VCF\VCF.DSN")
+      (Schematic "VCF")
+      (Page "PAGE1"))))

@@ -1,0 +1,783 @@
+*PROTEL-ECO*
+
+*REMARK* 13-Nov-2015 19:33:32
+
+*REMARK* 13-Nov-2015 19:33:32
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1080\1080.PCB
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:37:30
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1080\1080.PCB
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:45:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:45:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:45:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:45:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:45:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:45:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:45:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 13-Nov-2015 19:45:08
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q22.BASE N00269
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q22.COLL N00269
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q21.BASE N00269
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q16.EMIT N00269
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00269 12
+Q16.EMIT
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00269 12
+Q21.BASE
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00269 12
+Q22.COLL
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00269 12
+Q22.BASE
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q20.COLL N00109
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q20.BASE N00109
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q19.BASE N00109
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q15.EMIT N00109
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00109 12
+Q15.EMIT
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00109 12
+Q19.BASE
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00109 12
+Q20.BASE
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00109 12
+Q20.COLL
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q6.BASE N00621
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q6.COLL N00621
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q5.BASE N00621
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q9.EMIT N00621
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00621 12
+Q9.EMIT
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00621 12
+Q5.BASE
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00621 12
+Q6.COLL
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N00621 12
+Q6.BASE
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q15.COLL N01093
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q12.EMIT N01093
+
+*REMARK* 14-Nov-2015 09:45:12
+*DELPIN*
+Q13.EMIT N01093
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N01093 12
+Q13.EMIT
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N01093 12
+Q12.EMIT
+
+*REMARK* 14-Nov-2015 09:45:12
+*NET*
+*SIGNAL* N01093 12
+Q15.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q4.BASE N00983
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q4.COLL N00983
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q3.BASE N00983
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q8.EMIT N00983
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00983 12
+Q8.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00983 12
+Q3.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00983 12
+Q4.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00983 12
+Q4.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q12.COLL N00985
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q8.BASE N00985
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q3.COLL N00985
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00985 12
+Q3.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00985 12
+Q8.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00985 12
+Q12.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q13.COLL N00789
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q9.BASE N00789
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q5.COLL N00789
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00789 12
+Q5.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00789 12
+Q9.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00789 12
+Q13.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q21.COLL N00265
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q16.BASE N00265
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q8.COLL N00265
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00265 12
+Q8.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00265 12
+Q16.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N00265 12
+Q21.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q18.BASE N01369
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q18.COLL N01369
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q17.BASE N01369
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q14.EMIT N01369
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01369 12
+Q14.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01369 12
+Q17.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01369 12
+Q18.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01369 12
+Q18.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q2.BASE N01465
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q2.COLL N01465
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q1.BASE N01465
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q7.EMIT N01465
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01465 12
+Q7.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01465 12
+Q1.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01465 12
+Q2.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01465 12
+Q2.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q10.COLL N01461
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q7.BASE N01461
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q1.COLL N01461
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01461 12
+Q1.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01461 12
+Q7.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* N01461 12
+Q10.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q10.BASE INA+
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P3.1 INA+
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INA+ 12
+P3.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INA+ 12
+Q10.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q11.BASE INA-
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P7.1 INA-
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q11.EMIT INA-
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q10.EMIT INA-
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q14.COLL INA-
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INA- 12
+Q14.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INA- 12
+Q10.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INA- 12
+Q11.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INA- 12
+P7.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INA- 12
+Q11.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q14.BASE IA
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q17.COLL IA
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P8.1 IA
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IA 12
+P8.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IA 12
+Q17.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IA 12
+Q14.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q12.BASE INB-
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P4.1 INB-
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INB- 12
+P4.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INB- 12
+Q12.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q15.BASE IB
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q19.COLL IB
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P9.1 IB
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IB 12
+P9.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IB 12
+Q19.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IB 12
+Q15.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P5.1 INB+
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q13.BASE INB+
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INB+ 12
+Q13.BASE
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* INB+ 12
+P5.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q16.COLL IOB
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P6.1 IOB
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q9.COLL IOB
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IOB 12
+Q9.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IOB 12
+P6.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IOB 12
+Q16.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q11.COLL IOA
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q7.COLL IOA
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P2.1 IOA
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IOA 12
+P2.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IOA 12
+Q7.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* IOA 12
+Q11.COLL
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q6.EMIT +15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P1.1 +15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q1.EMIT +15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q2.EMIT +15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q3.EMIT +15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q5.EMIT +15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q4.EMIT +15
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* +15 50
+Q4.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* +15 50
+Q5.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* +15 50
+Q3.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* +15 50
+Q2.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* +15 50
+Q1.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* +15 50
+P1.1
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* +15 50
+Q6.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+P10.1 -15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q21.EMIT -15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q22.EMIT -15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q20.EMIT -15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q19.EMIT -15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q17.EMIT -15
+
+*REMARK* 14-Nov-2015 09:45:13
+*DELPIN*
+Q18.EMIT -15
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* -15 50
+Q18.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* -15 50
+Q17.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* -15 50
+Q19.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* -15 50
+Q20.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* -15 50
+Q22.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* -15 50
+Q21.EMIT
+
+*REMARK* 14-Nov-2015 09:45:13
+*NET*
+*SIGNAL* -15 50
+P10.1
+
+*REMARK* 14-Nov-2015 09:48:47
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1080\1080.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 09:49:38
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1080\1080.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 10:10:01
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 10:10:01
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 10:10:01
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 10:10:01
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 10:10:01
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 10:10:01
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 10:10:01
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 10:10:01
+*REMARK* file closed but NOT saved!!!
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 19:11:20
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1080\1080.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 19:13:27
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1080\1080.PCB
+*REMARK* .......................................................................
+
+*REMARK* 14-Nov-2015 19:13:31
+*REMARK* .......................................................................
+*REMARK* file opened: PCB_1
+
+*REMARK* 26-Nov-2015 11:40:59
+*REMARK* file closed and saved as c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-1080\1080.PCB
+*REMARK* .......................................................................

@@ -1,0 +1,40 @@
+POWER SUPPLY AND GLIDE BOARD  Revised: Sunday, October 12, 2003
+200-1031          Revision: NC
+
+
+
+
+
+
+
+Bill Of Materials          March 28,2004      11:00:07	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C1,C4	10uF
+2	2	C2,C3	3300uF
+3	1	C5	.047uF
+4	1	C6	18pF
+5	10	C7,C8,C9,C10,C11,C12,C13,	.1uF
+		C14,C15,C16
+6	8	D1,D2,D3,D4,D5,D6,D7,D8	1N4004
+7	4	JP1,JP2,JP3,JP4	HEADER 4
+8	4	J1,J2,J3,J4	MULT
+9	1	J5	CV
+10	1	J6	IN
+11	1	J7	OUT
+12	8	R1,R2,R4,R6,R13,R16,R17,	100K
+		R18
+13	1	R3	5K
+14	1	R5	1K
+15	7	R7,R8,R10,R12,R14,R15,	10K
+		R20
+16	1	R9	200
+17	1	R11	3.3K
+18	1	R19	30K
+19	1	U1	LM7815
+20	1	U2	LM7915
+21	4	U3,U4,U6,U8	TL052
+22	1	U5	THAT140
+23	1	U7	LM4041-ADJ

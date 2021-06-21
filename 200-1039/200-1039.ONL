@@ -1,0 +1,152 @@
+(PCB "200-1039"
+ (description
+  (timeStamp "2004 05 25 03 51 21")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Monday, May 24, 2004")
+  (document "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\SYNTHMOD\\200-1039\\200-1039.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component "HEADER 4"
+   (place JP9
+    (property 
+     (timestamp 00005652)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4"))))
+  (component "HEADER 5X2"
+   (place JP1
+    (property 
+     (timestamp 00004B34)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP2
+    (property 
+     (timestamp 0000551F)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP3
+    (property 
+     (timestamp 00004EA0)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP4
+    (property 
+     (timestamp 000052BF)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP5
+    (property 
+     (timestamp 00004F67)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP6
+    (property 
+     (timestamp 000054D7)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP7
+    (property 
+     (timestamp 000053BF)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))
+   (place JP8
+    (property 
+     (timestamp 00005065)
+     ("Source Package" "HEADER 5X2")
+     (Value "HEADER 5X2")))))
+ (library
+  (image "HEADER 5X2"
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\OLDLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4))))
+  (image "HEADER 4"
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\OLDLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))))
+ (network
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     JP1-7 JP9-2 JP8-5 JP2-5 JP3-8 JP7-3 JP7-4 JP5-8 JP7-6
+     JP8-6 JP6-3 JP4-6 JP4-5 JP9-3 JP5-5 JP7-5 JP3-4 JP4-3
+     JP4-4 JP5-4 JP2-4 JP6-8 JP3-5 JP1-3 JP2-6 JP1-8 JP8-7
+     JP6-4 JP4-8 JP5-6 JP8-4 JP7-7 JP3-6 JP6-7 JP4-7 JP2-7
+     JP6-6 JP1-6 JP2-3 JP8-3 JP1-4 JP6-5 JP5-7 JP2-8 JP8-8
+     JP3-7 JP1-5 JP3-3 JP5-3 JP7-8))
+  (net +15
+    (property 
+     (nettype S))
+   (pins
+     JP4-2 JP1-2 JP9-1 JP8-2 JP2-2 JP2-1 JP7-1 JP5-2 JP7-2
+     JP4-1 JP5-1 JP8-1 JP3-2 JP1-1 JP3-1 JP6-1 JP6-2))
+  (net "-15"
+    (property 
+     (nettype S))
+   (pins
+     JP8-10 JP4-9 JP2-9 JP9-4 JP5-9 JP1-10 JP1-9 JP6-9 JP7-10
+     JP2-10 JP3-9 JP3-10 JP7-9 JP4-10 JP6-10 JP5-10 JP8-9)))
+)

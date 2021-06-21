@@ -1,0 +1,476 @@
+Archive member included because of file (symbol)
+
+d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_divmodsi4.o)
+                              rs232.o (__divmodsi4)
+d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_exit.o)
+                              d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o (exit)
+d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_copy_data.o)
+                              rs232.o (__do_copy_data)
+d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_clear_bss.o)
+                              rs232.o (__do_clear_bss)
+d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_udivmodsi4.o)
+                              d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+DefMidiChan         0x1               midiparse.o
+DivClk1             0x1               MidiClockDiv.o
+DivClk1Carry        0x1               MidiClockDiv.o
+Timer2              0x2               Timer.o
+Timer1              0x2               Timer.o
+InterruptCount      0x2               rs232.o
+DivClk2             0x1               MidiClockDiv.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+LOAD 1001037Midi.o
+LOAD rs232.o
+LOAD MidiClockDiv.o
+LOAD swap.o
+LOAD midiparse.o
+LOAD Timer.o
+LOAD d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a
+LOAD d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4\libc.a
+LOAD d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x6e8
+ *(.vectors)
+ .vectors       0x00000000       0x22 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000022                . = ALIGN (0x2)
+                0x00000022                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000022        0x0 linker stubs
+ *(.trampolines*)
+                0x00000022                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000022                __ctors_start = .
+ *(.ctors)
+                0x00000022                __ctors_end = .
+                0x00000022                __dtors_start = .
+ *(.dtors)
+                0x00000022                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000022        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+                0x00000022                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000022        0xc d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000002e       0x16 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_copy_data.o)
+                0x0000002e                __do_copy_data
+ .init4         0x00000044       0x10 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_clear_bss.o)
+                0x00000044                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000054        0x4 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+ *(.init9)
+ *(.text)
+ .text          0x00000058        0x2 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+                0x00000058                __vector_1
+                0x00000058                __vector_12
+                0x00000058                __bad_interrupt
+                0x00000058                __vector_6
+                0x00000058                __vector_3
+                0x00000058                __vector_11
+                0x00000058                __vector_13
+                0x00000058                __vector_5
+                0x00000058                __vector_4
+                0x00000058                __vector_9
+                0x00000058                __vector_2
+                0x00000058                __vector_15
+                0x00000058                __vector_8
+                0x00000058                __vector_14
+                0x00000058                __vector_10
+                0x00000058                __vector_16
+ .text          0x0000005a        0x6 1001037Midi.o
+                0x0000005a                main
+ .text          0x00000060      0x386 rs232.o
+                0x00000060                RStatus
+                0x00000066                RInit
+                0x00000126                USART0_RX_vect
+                0x00000210                USART0_UDRE_vect
+                0x00000316                RPutC
+                0x000003a0                RGetC
+ .text          0x000003e6       0x9c MidiClockDiv.o
+                0x000003e6                MidiClockDiv
+                0x00000440                MidiClockDivReset
+                0x0000045a                MidiStart
+                0x00000476                MidiStop
+                0x0000047a                MidiReset
+ .text          0x00000482       0x10 swap.o
+                0x00000482                Disable
+                0x0000048a                Enable
+ .text          0x00000492      0x11a midiparse.o
+                0x00000492                ParseMidi
+ .text          0x000005ac       0xbe Timer.o
+                0x000005ac                InitTimer
+                0x000005ae                EnableTimer
+                0x000005b0                __vector_7
+ .text          0x0000066a        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_divmodsi4.o)
+ .text          0x0000066a        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_exit.o)
+ .text          0x0000066a        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_copy_data.o)
+ .text          0x0000066a        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_clear_bss.o)
+ .text          0x0000066a        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_udivmodsi4.o)
+                0x0000066a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x0000066a       0x36 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_divmodsi4.o)
+                0x0000066a                __divmodsi4
+ .text.libgcc   0x000006a0        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_exit.o)
+ .text.libgcc   0x000006a0        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000006a0        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000006a0       0x44 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_udivmodsi4.o)
+                0x000006a0                __udivmodsi4
+                0x000006e4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000006e4        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_exit.o)
+                0x000006e4                _exit
+                0x000006e4                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000006e4        0x4 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000006e8                _etext = .
+
+.data           0x00800060        0xc load address 0x000006e8
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+ .data          0x00800060        0x0 1001037Midi.o
+ .data          0x00800060        0xc rs232.o
+ .data          0x0080006c        0x0 MidiClockDiv.o
+ .data          0x0080006c        0x0 swap.o
+ .data          0x0080006c        0x0 midiparse.o
+ .data          0x0080006c        0x0 Timer.o
+ .data          0x0080006c        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_divmodsi4.o)
+ .data          0x0080006c        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_exit.o)
+ .data          0x0080006c        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_copy_data.o)
+ .data          0x0080006c        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_clear_bss.o)
+ .data          0x0080006c        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_udivmodsi4.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080006c                . = ALIGN (0x2)
+                0x0080006c                _edata = .
+                0x0080006c                PROVIDE (__data_end, .)
+
+.bss            0x0080006c       0x23
+                0x0080006c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080006c        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+ .bss           0x0080006c        0x0 1001037Midi.o
+ .bss           0x0080006c        0xe rs232.o
+ .bss           0x0080007a        0x0 MidiClockDiv.o
+ .bss           0x0080007a        0x0 swap.o
+ .bss           0x0080007a        0xb midiparse.o
+ .bss           0x00800085        0x0 Timer.o
+ .bss           0x00800085        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_divmodsi4.o)
+ .bss           0x00800085        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_exit.o)
+ .bss           0x00800085        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_copy_data.o)
+ .bss           0x00800085        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_clear_bss.o)
+ .bss           0x00800085        0x0 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/avr4\libgcc.a(_udivmodsi4.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800085        0x2 rs232.o
+                0x00800085                InterruptCount
+ COMMON         0x00800087        0x3 MidiClockDiv.o
+                0x00800087                DivClk1
+                0x00800088                DivClk1Carry
+                0x00800089                DivClk2
+ COMMON         0x0080008a        0x1 midiparse.o
+                0x0080008a                DefMidiChan
+ COMMON         0x0080008b        0x4 Timer.o
+                0x0080008b                Timer2
+                0x0080008d                Timer1
+                0x0080008f                PROVIDE (__bss_end, .)
+                0x000006e8                __data_load_start = LOADADDR (.data)
+                0x000006f4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080008f        0x0
+                0x0080008f                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080008f                PROVIDE (__noinit_end, .)
+                0x0080008f                _end = .
+                0x0080008f                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000      0x6cc
+ *(.stab)
+ .stab          0x00000000      0x6cc d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+
+.stabstr        0x00000000       0x85
+ *(.stabstr)
+ .stabstr       0x00000000       0x85 d:/avrtoolchain/bin/../lib/gcc/avr/4.4.3/../../../../avr/lib/avr4/crtm8515.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xc0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 1001037Midi.o
+ .debug_aranges
+                0x00000020       0x20 rs232.o
+ .debug_aranges
+                0x00000040       0x20 MidiClockDiv.o
+ .debug_aranges
+                0x00000060       0x20 swap.o
+ .debug_aranges
+                0x00000080       0x20 midiparse.o
+ .debug_aranges
+                0x000000a0       0x20 Timer.o
+
+.debug_pubnames
+                0x00000000      0x1a2
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1b 1001037Midi.o
+ .debug_pubnames
+                0x0000001b       0x77 rs232.o
+ .debug_pubnames
+                0x00000092       0x8b MidiClockDiv.o
+ .debug_pubnames
+                0x0000011d       0x30 midiparse.o
+ .debug_pubnames
+                0x0000014d       0x55 Timer.o
+
+.debug_info     0x00000000      0x7b2
+ *(.debug_info)
+ .debug_info    0x00000000       0x75 1001037Midi.o
+ .debug_info    0x00000075      0x3bb rs232.o
+ .debug_info    0x00000430      0x129 MidiClockDiv.o
+ .debug_info    0x00000559       0x92 swap.o
+ .debug_info    0x000005eb       0xec midiparse.o
+ .debug_info    0x000006d7       0xdb Timer.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x375
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x3f 1001037Midi.o
+ .debug_abbrev  0x0000003f      0x164 rs232.o
+ .debug_abbrev  0x000001a3       0xb4 MidiClockDiv.o
+ .debug_abbrev  0x00000257       0x14 swap.o
+ .debug_abbrev  0x0000026b       0x81 midiparse.o
+ .debug_abbrev  0x000002ec       0x89 Timer.o
+
+.debug_line     0x00000000      0x5f2
+ *(.debug_line)
+ .debug_line    0x00000000       0x62 1001037Midi.o
+ .debug_line    0x00000062      0x21a rs232.o
+ .debug_line    0x0000027c      0x173 MidiClockDiv.o
+ .debug_line    0x000003ef       0x3f swap.o
+ .debug_line    0x0000042e      0x128 midiparse.o
+ .debug_line    0x00000556       0x9c Timer.o
+
+.debug_frame    0x00000000      0x150
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 1001037Midi.o
+ .debug_frame   0x00000020       0x70 rs232.o
+ .debug_frame   0x00000090       0x60 MidiClockDiv.o
+ .debug_frame   0x000000f0       0x20 midiparse.o
+ .debug_frame   0x00000110       0x40 Timer.o
+
+.debug_str      0x00000000      0x303
+ *(.debug_str)
+ .debug_str     0x00000000       0xb5 1001037Midi.o
+                                 0xe9 (size before relaxing)
+ .debug_str     0x000000b5      0x14f rs232.o
+                                0x227 (size before relaxing)
+ .debug_str     0x00000204       0x70 MidiClockDiv.o
+                                0x148 (size before relaxing)
+ .debug_str     0x00000274       0x50 midiparse.o
+                                 0xce (size before relaxing)
+ .debug_str     0x000002c4       0x3f Timer.o
+                                0x125 (size before relaxing)
+
+.debug_loc      0x00000000      0x1e2
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x165 rs232.o
+ .debug_loc     0x00000165       0x28 MidiClockDiv.o
+ .debug_loc     0x0000018d       0x55 midiparse.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(1001037Midi.elf elf32-avr)
+LOAD linker stubs

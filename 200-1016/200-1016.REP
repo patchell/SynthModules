@@ -1,0 +1,13 @@
+Missing Designators From Netlist Load      : 6
+---------------------------------------------
+J1                  J4                  J3                  J5                  
+JP1                 J2                  
+
+
+
+Missing Library Patterns or Component Types From Netlist Load : 2
+----------------------------------------------------------------
+PHONEJACK           HEADER 4            
+
+
+

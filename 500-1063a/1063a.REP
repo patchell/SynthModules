@@ -1,0 +1,430 @@
+Nets report for c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\500-10~3\1063a.PCB
+On 8-Jul-2014  at 15:29:21
+
++15    Signal Layers Only  Length:0 mils
+   JP1-1 to C6-1               Unrouted       
+   C6-1 to U3-8                Unrouted       
+   U3-8 to C4-1                Unrouted       
+   C4-1 to U1-8                Unrouted       
+   U1-8 to C2-1                Unrouted       
+   C2-1 to U2-8                Unrouted       
+   U2-8 to U6-8                Unrouted       
+   U6-8 to C13-1               Unrouted       
+   C13-1 to U4-13              Unrouted       
+   U4-13 to C16-1              Unrouted       
+   C16-1 to U5-8               Unrouted       
+   U5-8 to C9-1                Unrouted       
+   C9-1 to C19-1               Unrouted       
+   R18-2 to C19-1              Unrouted       
+   U8-8 to C19-1               Unrouted       
+   C19-1 to U13-3              Unrouted       
+
+-15    Signal Layers Only  Length:0 mils
+   JP1-4 to U3-4               Unrouted       
+   U3-4 to C5-1                Unrouted       
+   C5-1 to U1-4                Unrouted       
+   U1-4 to C3-1                Unrouted       
+   C3-1 to U2-4                Unrouted       
+   U2-4 to C1-1                Unrouted       
+   C1-1 to C12-1               Unrouted       
+   C12-1 to U6-4               Unrouted       
+   U6-4 to C15-1               Unrouted       
+   C15-1 to U4-4               Unrouted       
+   U4-4 to C8-1                Unrouted       
+   U5-4 to C8-1                Unrouted       
+   C8-1 to C18-1               Unrouted       
+   C18-1 to U8-4               Unrouted       
+
+AGND    Signal Layers Only  Length:0 mils
+   C27-2 to C25-2              Unrouted       
+   C25-2 to C28-2              Unrouted       
+   C28-2 to C26-2              Unrouted       
+   C26-2 to C24-2              Unrouted       
+   J5-3 to C24-2               Unrouted       
+   C24-2 to C23-2              Unrouted       
+   C20-2 to JP3-3              Unrouted       
+   R25-2 to U9-3               Unrouted       
+   U9-3 to C19-2               Unrouted       
+   JP3-9 to JP3-7              Unrouted       
+   JP3-7 to JP3-5              Unrouted       
+   JP3-5 to JP3-3              Unrouted       
+   JP3-3 to JP3-1              Unrouted       
+   JP3-1 to JP2-9              Unrouted       
+   JP2-9 to JP2-7              Unrouted       
+   JP2-1 to JP2-3              Unrouted       
+   JP2-3 to JP2-5              Unrouted       
+   JP2-5 to JP2-7              Unrouted       
+   JP2-7 to C22-2              Unrouted       
+   C22-2 to U11-8              Unrouted       
+   U11-22 to U11-8             Unrouted       
+   U11-8 to D6-ANOD            Unrouted       
+   D6-ANOD to D12-ANOD         Unrouted       
+   D12-ANOD to D14-ANOD        Unrouted       
+   D14-ANOD to C23-2           Unrouted       
+   C23-2 to JP5-6              Unrouted       
+   JP5-6 to C17-2              Unrouted       
+   C17-2 to U7-3               Unrouted       
+   U7-3 to U7-4                Unrouted       
+   U7-4 to U7-5                Unrouted       
+   U7-5 to U12-6               Unrouted       
+   U12-6 to U12-7              Unrouted       
+   U12-7 to U12-8              Unrouted       
+   U12-8 to J4-2               Unrouted       
+   J4-2 to J4-3                Unrouted       
+   J4-3 to J3-3                Unrouted       
+   J3-3 to J2-3                Unrouted       
+   J1-3 to J2-3                Unrouted       
+   J2-3 to C12-2               Unrouted       
+   C12-2 to C11-2              Unrouted       
+   C15-2 to C11-2              Unrouted       
+   C11-2 to C13-2              Unrouted       
+   C14-2 to C13-2              Unrouted       
+   C13-2 to U4-5               Unrouted       
+   U4-5 to C16-2               Unrouted       
+   C9-2 to JP4-7               Unrouted       
+   JP4-7 to JP4-8              Unrouted       
+   JP4-8 to JP4-10             Unrouted       
+   JP4-10 to JP4-9             Unrouted       
+   JP4-9 to C8-2               Unrouted       
+   JP1-3 to JP1-2              Unrouted       
+   JP1-2 to C6-2               Unrouted       
+   C6-2 to U3-3                Unrouted       
+   U3-5 to C5-2                Unrouted       
+   C5-2 to C4-2                Unrouted       
+   C3-2 to U1-3                Unrouted       
+   C1-2 to U2-5                Unrouted       
+   U2-5 to U2-3                Unrouted       
+   U2-3 to C2-2                Unrouted       
+   C2-2 to U1-3                Unrouted       
+   U1-3 to C4-2                Unrouted       
+   C4-2 to U3-3                Unrouted       
+   U3-3 to R17-2               Unrouted       
+   R17-2 to C10-2              Unrouted       
+   C10-2 to C8-2               Unrouted       
+   C8-2 to C16-2               Unrouted       
+   C16-2 to C7-2               Unrouted       
+   R23-2 to C7-2               Unrouted       
+   C7-2 to C18-2               Unrouted       
+   C18-2 to U8-3               Unrouted       
+   U8-3 to C19-2               Unrouted       
+   C19-2 to U13-2              Unrouted       
+   U13-2 to U10-2              Unrouted       
+   U10-2 to D2-ANOD            Unrouted       
+   D2-ANOD to D4-ANOD          Unrouted       
+   D4-ANOD to D8-ANOD          Unrouted       
+   D8-ANOD to D10-ANOD         Unrouted       
+
+B0    Signal Layers Only  Length:0 mils
+
+B1    Signal Layers Only  Length:0 mils
+   U10-4 to U11-15             Unrouted       
+   U11-15 to U14-3             Unrouted       
+
+B2    Signal Layers Only  Length:0 mils
+   U11-16 to U14-11            Unrouted       
+
+B3    Signal Layers Only  Length:0 mils
+   U10-5 to U12-13             Unrouted       
+
+B4    Signal Layers Only  Length:0 mils
+
+B5    Signal Layers Only  Length:0 mils
+   U10-6 to U12-3              Unrouted       
+
+B6    Signal Layers Only  Length:0 mils
+
+B7    Signal Layers Only  Length:0 mils
+
+C4    Signal Layers Only  Length:0 mils
+   JP4-5 to U11-27             Unrouted       
+
+C5    Signal Layers Only  Length:0 mils
+   JP4-6 to U11-28             Unrouted       
+
+C6    Signal Layers Only  Length:0 mils
+   U11-1 to JP5-5              Unrouted       
+   U12-9 to U12-10             Unrouted       
+   U12-10 to U12-11            Unrouted       
+   U12-11 to JP5-5             Unrouted       
+
+D0    Signal Layers Only  Length:0 mils
+
+D1    Signal Layers Only  Length:0 mils
+
+GND    Signal Layers Only  Length:0 mils
+   U7-8 to U14-7               Unrouted       
+
+MISO    Signal Layers Only  Length:0 mils
+   JP5-1 to U12-2              Unrouted       
+
+MOSI    Signal Layers Only  Length:0 mils
+   JP5-4 to U12-12             Unrouted       
+
+N00265    Signal Layers Only  Length:0 mils
+   U14-5 to U14-12             Unrouted       
+
+N00316    Signal Layers Only  Length:0 mils
+   U14-1 to U14-8              Unrouted       
+
+N00401    Signal Layers Only  Length:0 mils
+   U4-7 to U4-10               Unrouted       
+   U4-10 to U4-15              Unrouted       
+   U4-15 to U4-2               Unrouted       
+   U4-2 to C21-1               Unrouted       
+   U10-8 to U8-1               Unrouted       
+   U8-1 to C21-1               Unrouted       
+
+N00412    Signal Layers Only  Length:0 mils
+   U7-1 to U11-5               Unrouted       
+
+N00423    Signal Layers Only  Length:0 mils
+   U7-2 to U11-6               Unrouted       
+
+N00434    Signal Layers Only  Length:0 mils
+   U11-4 to U14-9              Unrouted       
+   U7-6 to U14-9               Unrouted       
+
+N00793    Signal Layers Only  Length:0 mils
+   C14-1 to U4-6               Unrouted       
+   U4-6 to U6-3                Unrouted       
+
+N00840    Signal Layers Only  Length:0 mils
+   C11-1 to U4-11              Unrouted       
+   U4-11 to U6-5               Unrouted       
+
+N00902    Signal Layers Only  Length:0 mils
+   C10-1 to U4-14              Unrouted       
+   U4-14 to U5-5               Unrouted       
+
+N00949    Signal Layers Only  Length:0 mils
+   C7-1 to U4-3                Unrouted       
+   U4-3 to U5-3                Unrouted       
+
+N01167    Signal Layers Only  Length:0 mils
+   R15-2 to U3-2               Unrouted       
+   U3-2 to R13-2               Unrouted       
+   R14-1 to R13-2              Unrouted       
+
+N01251    Signal Layers Only  Length:0 mils
+   R14-2 to U3-1               Unrouted       
+   U3-1 to J5-1                Unrouted       
+
+N01305    Signal Layers Only  Length:0 mils
+   J4-1 to R12-1               Unrouted       
+
+N01376    Signal Layers Only  Length:0 mils
+   U1-2 to R12-2               Unrouted       
+   R12-2 to R10-1              Unrouted       
+
+N01476    Signal Layers Only  Length:0 mils
+   U1-1 to R3-1                Unrouted       
+   R6-1 to R3-1                Unrouted       
+   R3-1 to R9-1                Unrouted       
+   R9-1 to R15-1               Unrouted       
+   R15-1 to R16-B              Unrouted       
+
+N01654    Signal Layers Only  Length:0 mils
+   U3-6 to R9-2                Unrouted       
+   R9-2 to R8-1                Unrouted       
+   R8-1 to R7-2                Unrouted       
+
+N01725    Signal Layers Only  Length:0 mils
+   R8-2 to U3-7                Unrouted       
+   U3-7 to J3-1                Unrouted       
+
+N01995    Signal Layers Only  Length:0 mils
+   U2-2 to R6-2                Unrouted       
+   R6-2 to R5-1                Unrouted       
+   R5-1 to R4-2                Unrouted       
+
+N02117    Signal Layers Only  Length:0 mils
+   J2-1 to U2-1                Unrouted       
+   R5-2 to U2-1                Unrouted       
+
+N02244    Signal Layers Only  Length:0 mils
+   R2-2 to U2-7                Unrouted       
+   U2-7 to J1-1                Unrouted       
+
+N02325    Signal Layers Only  Length:0 mils
+   U2-6 to R3-2                Unrouted       
+   R1-2 to R2-1                Unrouted       
+   R3-2 to R2-1                Unrouted       
+
+N02621    Signal Layers Only  Length:0 mils
+   R13-1 to U6-1               Unrouted       
+   U6-2 to U6-1                Unrouted       
+
+N02658    Signal Layers Only  Length:0 mils
+   R7-1 to U6-7                Unrouted       
+   U6-6 to U6-7                Unrouted       
+
+N02695    Signal Layers Only  Length:0 mils
+   R4-1 to U5-6                Unrouted       
+   U5-6 to U5-7                Unrouted       
+
+N02716    Signal Layers Only  Length:0 mils
+   R18-1 to U9-2               Unrouted       
+   U9-2 to R22-1               Unrouted       
+   R22-1 to R20-1              Unrouted       
+   R20-1 to R21-1              Unrouted       
+
+N02732    Signal Layers Only  Length:0 mils
+   R1-1 to U5-2                Unrouted       
+   U5-2 to U5-1                Unrouted       
+
+N02752    Signal Layers Only  Length:0 mils
+   U9-1 to R24-WIPE            Unrouted       
+
+N03130    Signal Layers Only  Length:0 mils
+   U11-17 to U12-14            Unrouted       
+
+N03160    Signal Layers Only  Length:0 mils
+   R24-A to R25-1              Unrouted       
+
+N03283    Signal Layers Only  Length:0 mils
+   U8-5 to R21-2               Unrouted       
+   R23-1 to R21-2              Unrouted       
+
+N03294    Signal Layers Only  Length:0 mils
+   U11-18 to U12-15            Unrouted       
+
+N03314    Signal Layers Only  Length:0 mils
+   U10-7 to U8-7               Unrouted       
+   U8-7 to R19-2               Unrouted       
+
+N03371    Signal Layers Only  Length:0 mils
+   U12-4 to U11-19             Unrouted       
+
+N03414    Signal Layers Only  Length:0 mils
+   C21-2 to U8-2               Unrouted       
+   U10-1 to U8-2               Unrouted       
+
+N06797    Signal Layers Only  Length:0 mils
+   D9-ANOD to D10-CATH         Unrouted       
+   R30-2 to U11-23             Unrouted       
+   U11-23 to D10-CATH          Unrouted       
+
+N06799    Signal Layers Only  Length:0 mils
+   D7-ANOD to D8-CATH          Unrouted       
+   R29-2 to U11-24             Unrouted       
+   U11-24 to D8-CATH           Unrouted       
+
+N06801    Signal Layers Only  Length:0 mils
+   R26-2 to D1-ANOD            Unrouted       
+   D1-ANOD to D2-CATH          Unrouted       
+   U11-26 to D2-CATH           Unrouted       
+
+N06803    Signal Layers Only  Length:0 mils
+   R27-2 to D3-ANOD            Unrouted       
+   D3-ANOD to D4-CATH          Unrouted       
+   U11-25 to D4-CATH           Unrouted       
+
+N06805    Signal Layers Only  Length:0 mils
+   U11-11 to D5-ANOD           Unrouted       
+   D5-ANOD to D6-CATH          Unrouted       
+   R28-2 to D6-CATH            Unrouted       
+
+N06942    Signal Layers Only  Length:0 mils
+   JP2-2 to R30-1              Unrouted       
+
+N07011    Signal Layers Only  Length:0 mils
+   JP2-4 to R29-1              Unrouted       
+
+N07076    Signal Layers Only  Length:0 mils
+   JP2-6 to R26-1              Unrouted       
+
+N07141    Signal Layers Only  Length:0 mils
+   JP2-8 to R27-1              Unrouted       
+
+N07206    Signal Layers Only  Length:0 mils
+   JP3-2 to R28-1              Unrouted       
+
+N106101    Signal Layers Only  Length:0 mils
+   R24-B to R22-2              Unrouted       
+
+N16467    Signal Layers Only  Length:0 mils
+   R19-1 to R20-2              Unrouted       
+   R20-2 to U8-6               Unrouted       
+
+N24224    Signal Layers Only  Length:0 mils
+   R16-A to R17-1              Unrouted       
+
+N24293    Signal Layers Only  Length:0 mils
+   R11-2 to R16-WIPE           Unrouted       
+
+N244391    Signal Layers Only  Length:0 mils
+   R11-1 to R10-2              Unrouted       
+
+N26002    Signal Layers Only  Length:0 mils
+   U11-12 to D11-ANOD          Unrouted       
+   D11-ANOD to D12-CATH        Unrouted       
+   R31-2 to D12-CATH           Unrouted       
+
+N26013    Signal Layers Only  Length:0 mils
+   U11-13 to D13-ANOD          Unrouted       
+   D13-ANOD to D14-CATH        Unrouted       
+   R32-2 to D14-CATH           Unrouted       
+
+N26933    Signal Layers Only  Length:0 mils
+   JP3-4 to R31-1              Unrouted       
+
+N26986    Signal Layers Only  Length:0 mils
+   JP3-6 to R32-1              Unrouted       
+
+O0    Signal Layers Only  Length:0 mils
+   U4-1 to U7-15               Unrouted       
+
+O1    Signal Layers Only  Length:0 mils
+   U4-16 to U7-14              Unrouted       
+
+O2    Signal Layers Only  Length:0 mils
+   U4-9 to U7-13               Unrouted       
+
+O3    Signal Layers Only  Length:0 mils
+   U4-8 to U7-12               Unrouted       
+
+O4    Signal Layers Only  Length:0 mils
+
+O5    Signal Layers Only  Length:0 mils
+
+O6    Signal Layers Only  Length:0 mils
+
+O7    Signal Layers Only  Length:0 mils
+
+SCK    Signal Layers Only  Length:0 mils
+   JP5-3 to U12-5              Unrouted       
+
+VCC    Signal Layers Only  Length:0 mils
+   U7-16 to C17-1              Unrouted       
+   C17-1 to U12-16             Unrouted       
+   JP4-4 to JP4-3              Unrouted       
+   JP4-3 to JP4-1              Unrouted       
+   JP4-1 to JP4-2              Unrouted       
+   JP4-2 to U13-1              Unrouted       
+   C20-1 to U13-1              Unrouted       
+   U13-1 to U10-3              Unrouted       
+   C22-1 to D1-CATH            Unrouted       
+   D1-CATH to D7-CATH          Unrouted       
+   U10-3 to D7-CATH            Unrouted       
+   JP5-2 to U12-16             Unrouted       
+   U12-16 to C23-1             Unrouted       
+   C25-1 to C27-1              Unrouted       
+   C27-1 to C26-1              Unrouted       
+   C26-1 to C28-1              Unrouted       
+   C28-1 to U14-4              Unrouted       
+   C24-1 to U14-10             Unrouted       
+   C23-1 to U14-14             Unrouted       
+   U14-14 to U14-13            Unrouted       
+   U14-13 to U14-10            Unrouted       
+   U14-10 to U14-4             Unrouted       
+   U14-4 to U14-2              Unrouted       
+   U14-2 to D13-CATH           Unrouted       
+   D13-CATH to D11-CATH        Unrouted       
+   D11-CATH to D5-CATH         Unrouted       
+   D5-CATH to U11-7            Unrouted       
+   U11-7 to U11-21             Unrouted       
+   U11-20 to U11-21            Unrouted       
+   U11-21 to D3-CATH           Unrouted       
+   D7-CATH to D3-CATH          Unrouted       
+   D3-CATH to D9-CATH          Unrouted       
+

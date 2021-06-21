@@ -1,0 +1,267 @@
+Protel Design System Auto-Router Log
+------------------------------------
+Log Filename     : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-10~3\R1063A.LOG
+Date             : 8-7-2014
+Time             : 21:24
+
+Input  .PCB File : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-10~3\1063A.PCB
+Output .PCB File : C:\DOCUME~1\JIMPAT~1\MYDOCU~1\PROJECTS\SYNTHMOD\500-10~3\R1063A.PCB
+
+
+Clearances
+  Arc    : 5mil
+  Fill   : 5mil
+  Pad    : 5mil
+  Track  : 5mil
+  Text   : 5mil
+  Via    : 5mil
+
+
+Layers
+  Top Layer      : Horizontal
+  Mid Layer 1    : Not Used
+  Mid Layer 2    : Not Used
+  Mid Layer 3    : Not Used
+  Mid Layer 4    : Not Used
+  Mid Layer 5    : Not Used
+  Mid Layer 6    : Not Used
+  Mid Layer 7    : Not Used
+  Mid Layer 8    : Not Used
+  Mid Layer 9    : Not Used
+  Mid Layer 10   : Not Used
+  Mid Layer 11   : Not Used
+  Mid Layer 12   : Not Used
+  Mid Layer 13   : Not Used
+  Mid Layer 14   : Not Used
+  Bottom Layer   : Vertical
+
+
+Hugging 
+  Before 100%  : No Hugging
+  After 100%   : No Hugging
+
+
+Other Settings
+  Route Grid  : 25mil
+  Route Track : 12mil
+  Route Via   : 62mil
+
+
+                   Connections       Time           Items Added During Pass
+Router Pass        Routed  (%)       Used        Arcs    Pads    Tracks  Vias
+--------------------------------------------------------------------------------
+Pre-Router          123 ( 46.59%)  00:00:04         0       0       0       0
+Smd Stringer                                              Not Used
+SMD Fanout                                                Not Used
+Memory                                                    Not Used
+Line Probe                                                Not Used
+Maze                                                      Not Used
+Miter                                                     Not Used
+--------------------------------------------------------------------------------
+Totals              123 (46.59%)  00:00:04         0       0       0       0
+
+
+
+
+---------------------
+Net Name : C5
+     U11-28 to JP4-6
+Net Name : C4
+     U11-27 to JP4-5
+Net Name : B2
+     U14-11 to U11-16
+Net Name : B1
+     U14-3 to U11-15
+     U11-15 to U10-4
+Net Name : B5
+     U12-3 to U10-6
+Net Name : B3
+     U12-13 to U10-5
+Net Name : O1
+     U7-14 to U4-16
+Net Name : O2
+     U7-13 to U4-9
+Net Name : O3
+     U7-12 to U4-8
+Net Name : N00949
+     U5-3 to U4-3
+     U4-3 to C7-1
+Net Name : N00316
+     U14-8 to U14-1
+Net Name : N00902
+     U5-5 to U4-14
+     U4-14 to C10-1
+Net Name : N00265
+     U14-12 to U14-5
+Net Name : N00840
+     U6-5 to U4-11
+     U4-11 to C11-1
+Net Name : N00793
+     U6-3 to U4-6
+     U4-6 to C14-1
+Net Name : O0
+     U7-15 to U4-1
+Net Name : C6
+     JP5-5 to U12-11
+     U12-11 to U12-10
+     U12-10 to U12-9
+     JP5-5 to U11-1
+Net Name : N03314
+     R19-2 to U8-7
+     U8-7 to U10-7
+Net Name : N16467
+     U8-6 to R20-2
+     R20-2 to R19-1
+Net Name : N106101
+     R22-2 to R24-B
+Net Name : N02752
+     R24-WIPE to U9-1
+Net Name : N03160
+     R25-1 to R24-A
+Net Name : N02716
+     R21-1 to R20-1
+     R20-1 to U9-2
+     U9-2 to R18-1
+     U9-2 to R22-1
+Net Name : N03283
+     R21-2 to R23-1
+     R21-2 to U8-5
+Net Name : N03371
+     U11-19 to U12-4
+Net Name : N03294
+     U12-15 to U11-18
+Net Name : N03414
+     U8-2 to U10-1
+     U8-2 to C21-2
+Net Name : N03130
+     U12-14 to U11-17
+Net Name : SCK
+     U12-5 to JP5-3
+Net Name : N26986
+     R32-1 to JP3-6
+Net Name : N26933
+     R31-1 to JP3-4
+Net Name : N26013
+     D14-CATH to R32-2
+     D14-CATH to D13-ANOD
+     D13-ANOD to U11-13
+Net Name : N26002
+     D12-CATH to R31-2
+     D12-CATH to D11-ANOD
+     D11-ANOD to U11-12
+Net Name : MISO
+     U12-2 to JP5-1
+Net Name : MOSI
+     U12-12 to JP5-4
+Net Name : N244391
+     R10-2 to R11-1
+Net Name : N06942
+     R30-1 to JP2-2
+Net Name : N06805
+     D6-CATH to R28-2
+     D6-CATH to D5-ANOD
+     D5-ANOD to U11-11
+Net Name : N06803
+     D4-CATH to U11-25
+     D4-CATH to D3-ANOD
+     D3-ANOD to R27-2
+Net Name : N06801
+     D2-CATH to U11-26
+     D2-CATH to D1-ANOD
+     D1-ANOD to R26-2
+Net Name : N06799
+     D8-CATH to U11-24
+     U11-24 to R29-2
+     D8-CATH to D7-ANOD
+Net Name : N00401
+     C21-1 to U8-1
+     U8-1 to U10-8
+     C21-1 to U4-2
+     U4-2 to U4-15
+     U4-15 to U4-10
+     U4-10 to U4-7
+Net Name : VCC
+     D5-CATH to D11-CATH
+     D11-CATH to D13-CATH
+     D13-CATH to U14-2
+     U14-2 to U14-4
+     D5-CATH to U10-3
+     U10-3 to JP4-1
+     U14-2 to U14-13
+Net Name : N00412
+     U11-5 to U7-1
+Net Name : N06797
+     D10-CATH to U11-23
+     U11-23 to R30-2
+     D10-CATH to D9-ANOD
+Net Name : AGND
+     J5-3 to J4-3
+     J4-3 to J4-2
+     J4-2 to JP5-6
+     J4-3 to J3-3
+     J3-3 to J2-3
+     JP5-6 to R25-2
+     R25-2 to U13-2
+     R25-2 to U9-3
+     JP5-6 to U2-5
+     J2-3 to J1-3
+     U2-5 to C3-2
+Net Name : N02117
+     U2-1 to R5-2
+     U2-1 to J2-1
+Net Name : N01995
+     R4-2 to R5-1
+     R5-1 to R6-2
+     R4-2 to U2-2
+Net Name : N02732
+     U5-2 to R1-1
+Net Name : N02695
+     U5-6 to R4-1
+Net Name : N02658
+     U6-7 to U6-6
+Net Name : N01167
+     R13-2 to R14-1
+     R13-2 to U3-2
+     U3-2 to R15-2
+Net Name : N02621
+     U6-1 to U6-2
+     U6-1 to R13-1
+Net Name : N01376
+     U1-2 to R10-1
+Net Name : N01725
+     J3-1 to U3-7
+Net Name : N01476
+     R16-B to R15-1
+     R15-1 to R9-1
+     R9-1 to R3-1
+     R3-1 to R6-1
+     R6-1 to U1-1
+Net Name : N07206
+     R28-1 to JP3-2
+Net Name : N02325
+     R2-1 to R3-2
+     R2-1 to R1-2
+     R3-2 to U2-6
+Net Name : N07141
+     R27-1 to JP2-8
+Net Name : N02244
+     J1-1 to R2-2
+     R2-2 to U2-7
+Net Name : N07076
+     R26-1 to JP2-6
+Net Name : N24293
+     R16-WIPE to R11-2
+Net Name : N01251
+     J5-1 to U3-1
+     U3-1 to R14-2
+Net Name : N07011
+     R29-1 to JP2-4
+Net Name : N00423
+     U11-6 to U7-2
+Net Name : N00434
+     U14-9 to U7-6
+     U14-9 to U11-4
+Net Name : N24224
+     R17-1 to R16-A
+Net Name : N01305
+     R12-1 to J4-1

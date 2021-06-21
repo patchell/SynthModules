@@ -1,0 +1,43 @@
+Digital Noise Generator  Revised: Thursday, November 14, 2002
+200-1021          Revision: NC
+
+
+
+
+
+
+
+Bill Of Materials      September 18,2003      10:32:33	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C1,C5	.001uF
+2	2	C2,C4	.01uF
+3	1	C3	.0022uF
+4	1	C6	.02uF
+5	14	C7,C8,C10,C11,C12,C13,	.1uF
+		C14,C18,C19,C22,C23,C25,
+		C28,C31
+6	3	C26,C27,C32	10uF
+7	4	D1,D2,D3,D4	1N914
+8	5	J1,J2,J3,J4,J5	PHONEJACK
+9	1	P1	POWER
+10	5	R1,R11,R23,R24,R25	1K
+11	4	R2,R13,R18,R19	10K
+12	7	R3,R10,R12,R14,R20,R21,	100K
+		R22
+13	1	R4	2.49K
+14	2	R6,R5	4.99K
+15	1	R7	7.5K
+16	1	R8	4.7K
+17	1	R9	15K
+18	2	R15,R16	1M
+19	1	R17	20K
+20	1	U1	74HC14
+21	4	U3,U6,U7,U9	74HC164
+22	1	U11	74HC86
+23	1	U13	DAC08
+24	2	U14,U15	TL072
+25	1	U16	LM4041CZ-ADJ
+26	1	U17	78L05

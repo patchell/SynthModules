@@ -1,0 +1,493 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:500-1083-cache
+EELAYER 25 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "DUAL Quad Pot With Illuminated Shaft"
+Date "2017-01-14"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L POT-ALPHA9mm-LedShaft R1
+U 1 1 587AC3B5
+P 4650 1450
+F 0 "R1" H 4650 1150 60  0000 C CNN
+F 1 "LED-POT" H 4800 1250 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 4650 1450 60  0001 C CNN
+F 3 "" H 4650 1450 60  0000 C CNN
+	1    4650 1450
+	0    1    1    0   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R2
+U 1 1 587AC402
+P 4650 2150
+F 0 "R2" H 4650 1850 60  0000 C CNN
+F 1 "LED-POT" H 4800 1950 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 4650 2150 60  0001 C CNN
+F 3 "" H 4650 2150 60  0000 C CNN
+	1    4650 2150
+	0    1    1    0   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R3
+U 1 1 587AC434
+P 4650 2950
+F 0 "R3" H 4650 2650 60  0000 C CNN
+F 1 "LED-POT" H 4800 2750 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 4650 2950 60  0001 C CNN
+F 3 "" H 4650 2950 60  0000 C CNN
+	1    4650 2950
+	0    1    1    0   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R4
+U 1 1 587AC471
+P 4650 3700
+F 0 "R4" H 4650 3400 60  0000 C CNN
+F 1 "LED-POT" H 4800 3500 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 4650 3700 60  0001 C CNN
+F 3 "" H 4650 3700 60  0000 C CNN
+	1    4650 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R1
+U 2 1 587AC4DB
+P 2000 4150
+F 0 "R1" H 2000 4300 60  0000 C CNN
+F 1 "LED-POT" H 2150 3950 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 2000 4150 60  0001 C CNN
+F 3 "" H 2000 4150 60  0000 C CNN
+	2    2000 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R2
+U 2 1 587AC544
+P 2050 3550
+F 0 "R2" H 2050 3700 60  0000 C CNN
+F 1 "LED-POT" H 2200 3450 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 2050 3550 60  0001 C CNN
+F 3 "" H 2050 3550 60  0000 C CNN
+	2    2050 3550
+	-1   0    0    1   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R3
+U 2 1 587AC57A
+P 2050 3150
+F 0 "R3" H 2150 3250 60  0000 C CNN
+F 1 "LED-POT" H 2200 2950 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 2050 3150 60  0001 C CNN
+F 3 "" H 2050 3150 60  0000 C CNN
+	2    2050 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R4
+U 2 1 587AC5AB
+P 2050 2600
+F 0 "R4" H 2150 2750 60  0000 C CNN
+F 1 "LED-POT" H 2200 2400 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 2050 2600 60  0001 C CNN
+F 3 "" H 2050 2600 60  0000 C CNN
+	2    2050 2600
+	-1   0    0    1   
+$EndComp
+$Comp
+L 500-1083-LED-CON P1
+U 1 1 587ACD70
+P 1900 1200
+F 0 "P1" H 2050 800 60  0000 C CNN
+F 1 "500-1083-LED-CON" H 2100 900 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 1900 1200 60  0001 C CNN
+F 3 "" H 1900 1200 60  0001 C CNN
+	1    1900 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R5
+U 1 1 588FB851
+P 4600 4850
+F 0 "R5" H 4600 4550 60  0000 C CNN
+F 1 "LED-POT" H 4750 4650 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 4600 4850 60  0001 C CNN
+F 3 "" H 4600 4850 60  0000 C CNN
+	1    4600 4850
+	0    1    1    0   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R6
+U 1 1 588FB857
+P 4600 5550
+F 0 "R6" H 4600 5250 60  0000 C CNN
+F 1 "LED-POT" H 4750 5350 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 4600 5550 60  0001 C CNN
+F 3 "" H 4600 5550 60  0000 C CNN
+	1    4600 5550
+	0    1    1    0   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R7
+U 1 1 588FB85D
+P 4600 6350
+F 0 "R7" H 4600 6050 60  0000 C CNN
+F 1 "LED-POT" H 4750 6150 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 4600 6350 60  0001 C CNN
+F 3 "" H 4600 6350 60  0000 C CNN
+	1    4600 6350
+	0    1    1    0   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R8
+U 1 1 588FB863
+P 4600 7100
+F 0 "R8" H 4600 6800 60  0000 C CNN
+F 1 "LED-POT" H 4750 6900 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 4600 7100 60  0001 C CNN
+F 3 "" H 4600 7100 60  0000 C CNN
+	1    4600 7100
+	0    1    1    0   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R5
+U 2 1 588FB957
+P 2850 4150
+F 0 "R5" H 2900 4300 60  0000 C CNN
+F 1 "LED-POT" H 3000 3950 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 2850 4150 60  0001 C CNN
+F 3 "" H 2850 4150 60  0000 C CNN
+	2    2850 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R8
+U 2 1 588FB95D
+P 2900 2600
+F 0 "R8" H 2900 2750 60  0000 C CNN
+F 1 "LED-POT" H 3050 2400 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 2900 2600 60  0001 C CNN
+F 3 "" H 2900 2600 60  0000 C CNN
+	2    2900 2600
+	-1   0    0    1   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R7
+U 2 1 588FB963
+P 2900 3150
+F 0 "R7" H 3000 3250 60  0000 C CNN
+F 1 "LED-POT" H 2950 3050 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 2900 3150 60  0001 C CNN
+F 3 "" H 2900 3150 60  0000 C CNN
+	2    2900 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L POT-ALPHA9mm-LedShaft R6
+U 2 1 588FB969
+P 2900 3550
+F 0 "R6" H 2950 3700 60  0000 C CNN
+F 1 "LED-POT" H 2950 3400 60  0000 C CNN
+F 2 "FootPrints:Alpha14mmPotWithLED" H 2900 3550 60  0001 C CNN
+F 3 "" H 2900 3550 60  0000 C CNN
+	2    2900 3550
+	-1   0    0    1   
+$EndComp
+$Comp
+L 500-1083-POT-CON P2
+U 1 1 589000B9
+P 6550 4200
+F 0 "P2" H 6550 3600 60  0000 C CNN
+F 1 "500-1083-POT-CON" H 6500 3700 60  0000 C CNN
+F 2 "FootPrints:IDC8x2_Vert" H 6550 4150 60  0001 C CNN
+F 3 "" H 6550 4150 60  0001 C CNN
+	1    6550 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 4500 4600 4750
+Wire Wire Line
+	2150 2600 2700 2600
+Wire Wire Line
+	2150 3150 2700 3150
+Wire Wire Line
+	2150 3550 2700 3550
+Wire Wire Line
+	2100 4150 2650 4150
+Wire Wire Line
+	1700 1000 750  1000
+Wire Wire Line
+	750  1000 750  4150
+Wire Wire Line
+	750  4150 1800 4150
+Wire Wire Line
+	1700 1100 850  1100
+Wire Wire Line
+	850  1100 850  3550
+Wire Wire Line
+	850  3550 1850 3550
+Wire Wire Line
+	1700 1200 1000 1200
+Wire Wire Line
+	1000 1200 1000 3150
+Wire Wire Line
+	1000 3150 1850 3150
+Wire Wire Line
+	1850 2600 1100 2600
+Wire Wire Line
+	1100 2600 1100 1300
+Wire Wire Line
+	1100 1300 1700 1300
+Wire Wire Line
+	2400 1300 3300 1300
+Wire Wire Line
+	3300 1300 3300 2600
+Wire Wire Line
+	3300 2600 3000 2600
+Wire Wire Line
+	2400 1200 3400 1200
+Wire Wire Line
+	3400 1200 3400 3150
+Wire Wire Line
+	3400 3150 3000 3150
+Wire Wire Line
+	2400 1100 3500 1100
+Wire Wire Line
+	3500 1100 3500 3550
+Wire Wire Line
+	3500 3550 3000 3550
+Wire Wire Line
+	2400 1000 3600 1000
+Wire Wire Line
+	3600 1000 3600 4150
+Wire Wire Line
+	3600 4150 2950 4150
+Wire Wire Line
+	4900 1550 5900 1550
+Wire Wire Line
+	5900 1550 5900 3850
+Wire Wire Line
+	5900 3850 6200 3850
+Wire Wire Line
+	4900 2250 5800 2250
+Wire Wire Line
+	5800 2250 5800 3950
+Wire Wire Line
+	5800 3950 6200 3950
+Wire Wire Line
+	4900 3050 5650 3050
+Wire Wire Line
+	5650 3050 5650 4050
+Wire Wire Line
+	5650 4050 6200 4050
+Wire Wire Line
+	4900 3800 5550 3800
+Wire Wire Line
+	5550 3800 5550 4150
+Wire Wire Line
+	5550 4150 6200 4150
+Wire Wire Line
+	6200 4250 5550 4250
+Wire Wire Line
+	5550 4250 5550 4950
+Wire Wire Line
+	5550 4950 4850 4950
+Wire Wire Line
+	6200 4350 5650 4350
+Wire Wire Line
+	5650 4350 5650 5650
+Wire Wire Line
+	5650 5650 4850 5650
+Wire Wire Line
+	6200 4450 5750 4450
+Wire Wire Line
+	5750 4450 5750 6450
+Wire Wire Line
+	5750 6450 4850 6450
+Wire Wire Line
+	6200 4550 5850 4550
+Wire Wire Line
+	5850 4550 5850 7200
+Wire Wire Line
+	5850 7200 4850 7200
+Wire Wire Line
+	4650 1350 4650 1150
+Wire Wire Line
+	4050 1150 8400 1150
+Wire Wire Line
+	4050 1150 4050 3550
+Wire Wire Line
+	4050 2000 4650 2000
+Wire Wire Line
+	4650 2000 4650 2050
+Wire Wire Line
+	4050 2750 4650 2750
+Wire Wire Line
+	4650 2750 4650 2850
+Connection ~ 4050 2000
+Wire Wire Line
+	4050 3550 4650 3550
+Wire Wire Line
+	4650 3550 4650 3600
+Connection ~ 4050 2750
+Wire Wire Line
+	4650 1750 4650 1900
+Wire Wire Line
+	3900 1900 8300 1900
+Wire Wire Line
+	3900 1900 3900 4150
+Wire Wire Line
+	3900 2600 4650 2600
+Wire Wire Line
+	4650 2600 4650 2450
+Wire Wire Line
+	3900 3400 4650 3400
+Wire Wire Line
+	4650 3400 4650 3250
+Connection ~ 3900 2600
+Wire Wire Line
+	3900 4150 4650 4150
+Wire Wire Line
+	4650 4150 4650 4000
+Connection ~ 3900 3400
+Wire Wire Line
+	8400 1150 8400 4150
+Wire Wire Line
+	8400 4150 6900 4150
+Connection ~ 4650 1150
+Wire Wire Line
+	6900 4050 7000 4050
+Wire Wire Line
+	7000 4050 7000 4150
+Connection ~ 7000 4150
+Wire Wire Line
+	8300 1900 8300 3850
+Wire Wire Line
+	8300 3850 6900 3850
+Connection ~ 4650 1900
+Wire Wire Line
+	7050 3850 7050 3950
+Wire Wire Line
+	7050 3950 6900 3950
+Connection ~ 7050 3850
+Wire Wire Line
+	4600 4500 4050 4500
+Wire Wire Line
+	4050 4500 4050 6900
+Wire Wire Line
+	4050 5350 7550 5350
+Wire Wire Line
+	4600 5350 4600 5450
+Wire Wire Line
+	4050 6150 4600 6150
+Wire Wire Line
+	4600 6150 4600 6250
+Connection ~ 4050 5350
+Wire Wire Line
+	4050 6900 4600 6900
+Wire Wire Line
+	4600 6900 4600 7000
+Connection ~ 4050 6150
+Wire Wire Line
+	4600 5150 4600 5250
+Wire Wire Line
+	3900 5250 7700 5250
+Wire Wire Line
+	3900 5250 3900 7550
+Wire Wire Line
+	3900 5950 4600 5950
+Wire Wire Line
+	4600 5950 4600 5850
+Wire Wire Line
+	3900 6750 4600 6750
+Wire Wire Line
+	4600 6750 4600 6650
+Connection ~ 3900 5950
+Wire Wire Line
+	3900 7550 4600 7550
+Wire Wire Line
+	4600 7550 4600 7400
+Connection ~ 3900 6750
+Wire Wire Line
+	7700 5250 7700 4350
+Wire Wire Line
+	7700 4350 6900 4350
+Connection ~ 4600 5250
+Wire Wire Line
+	6900 4250 7000 4250
+Wire Wire Line
+	7000 4250 7000 4350
+Connection ~ 7000 4350
+Wire Wire Line
+	7550 5350 7550 4450
+Wire Wire Line
+	7550 4450 6900 4450
+Connection ~ 4600 5350
+Wire Wire Line
+	6900 4550 7000 4550
+Wire Wire Line
+	7000 4550 7000 4450
+Connection ~ 7000 4450
+$Comp
+L PAD P3
+U 1 1 58901999
+P 9300 1150
+F 0 "P3" H 9300 950 60  0000 C CNN
+F 1 "PAD" H 9325 875 60  0000 C CNN
+F 2 "FootPrints:MountingHole_140" H 9300 800 60  0000 C CNN
+F 3 "" H 9300 850 60  0000 C CNN
+	1    9300 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PAD P4
+U 1 1 58901CB3
+P 9650 1150
+F 0 "P4" H 9650 950 60  0000 C CNN
+F 1 "PAD" H 9675 875 60  0000 C CNN
+F 2 "FootPrints:MountingHole_140" H 9650 850 60  0001 C CNN
+F 3 "" H 9650 850 60  0000 C CNN
+	1    9650 1150
+	1    0    0    -1  
+$EndComp
+NoConn ~ 9650 1150
+NoConn ~ 9300 1150
+$EndSCHEMATC

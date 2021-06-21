@@ -1,0 +1,12 @@
+multisegtop.vhd #Entity multisegtop 16
+multisegtop.vhd #Architecture archmultisegtop multisegtop 53
+multisegtop.vhd #Instance u1 compare 58
+multisegtop.vhd #Instance u2 compare 59
+multisegtop.vhd #Instance u3 counter 60
+multisegtop.vhd #Instance u4 statemachine 61
+compare3bit.vhd #Entity compare 25
+compare3bit.vhd #Architecture compare_arch compare 33
+stateseq.vhd #Entity statemachine 41
+stateseq.vhd #Architecture statemachine_arch statemachine 55
+multiseg.vhd #Entity counter 25
+multiseg.vhd #Architecture counter_arch counter 35

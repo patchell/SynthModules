@@ -1,0 +1,114 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:100-1130-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 6
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 1850 800  700  1100
+U 5B36FF94
+F0 "VCO1" 60
+F1 "VCO.sch" 60
+F2 "PWM1" I L 1850 1600 60 
+F3 "PWM2" I L 1850 1700 60 
+F4 "PWM3" I L 1850 1800 60 
+F5 "VCO1" I L 1850 850 60 
+F6 "VCO2" I L 1850 950 60 
+F7 "VCO3" I L 1850 1050 60 
+F8 "VCO4" I L 1850 1150 60 
+F9 "VCO5" I L 1850 1250 60 
+F10 "VCO6" I L 1850 1350 60 
+F11 "-5Vr" I R 2550 1750 60 
+F12 "+5Vr" I R 2550 1650 60 
+F13 "RAMP" O R 2550 850 60 
+F14 "PULSE" O R 2550 1000 60 
+F15 "SYNC" I L 1850 1450 60 
+$EndSheet
+$Sheet
+S 1850 2350 700  1400
+U 5B370379
+F0 "VCO 2" 60
+F1 "VCO.sch" 60
+F2 "PWM1" I L 1850 3300 60 
+F3 "PWM2" I L 1850 3400 60 
+F4 "PWM3" I L 1850 3500 60 
+F5 "VCO1" I L 1850 2450 60 
+F6 "VCO2" I L 1850 2550 60 
+F7 "VCO3" I L 1850 2650 60 
+F8 "VCO4" I L 1850 2750 60 
+F9 "VCO5" I L 1850 2850 60 
+F10 "VCO6" I L 1850 2950 60 
+F11 "-5Vr" I R 2550 3400 60 
+F12 "+5Vr" I R 2550 3300 60 
+F13 "RAMP" O R 2550 2450 60 
+F14 "PULSE" O R 2550 2650 60 
+F15 "SYNC" I L 1850 3100 60 
+$EndSheet
+$Sheet
+S 3800 950  750  700 
+U 5B3704E4
+F0 "VCF" 60
+F1 "VCF.sch" 60
+$EndSheet
+$Sheet
+S 3950 2300 800  800 
+U 5B394E08
+F0 "ADSR" 60
+F1 "ADSR.sch" 60
+F2 "IN" I L 3950 2500 60 
+F3 "OUT" O R 4750 2500 60 
+F4 "DONE" O R 4750 2700 60 
+$EndSheet
+$Sheet
+S 5200 900  750  650 
+U 5B3979BB
+F0 "GLIDE" 60
+F1 "GLIDE.sch" 60
+F2 "IN" I L 5200 1050 60 
+F3 "OUT" O R 5950 1050 60 
+F4 "CV" I L 5200 1300 60 
+$EndSheet
+$EndSCHEMATC

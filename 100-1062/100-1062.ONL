@@ -1,0 +1,17 @@
+(PCB "100-1062"
+ (description
+  (timeStamp "2012 03 11 23 07 16")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "BLACKMER SYNTH MODULE BOARD (BMSMB)")
+  (date "Sunday, March 11, 2012")
+  (document "100-1062")
+  (revision "A")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )

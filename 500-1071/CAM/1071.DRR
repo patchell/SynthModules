@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 1071.PcbDoc   8/7/2014  9:39:17 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 1071.TXT
+EIA File   : 1071.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        36mil (0.9144mm)         Round          46               296.54 Inch (7532.14 mm)
+T2        50mil (1.27mm)           Round          12               288.25 Inch (7321.47 mm)
+---------------------------------------------------------------------------
+Totals                                            58               584.79 Inch (14853.61 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

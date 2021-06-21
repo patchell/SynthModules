@@ -1,0 +1,199 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "Tripple Alpha Pot Board 1.0 inch spacing"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L SynthMod:500-1137 P1
+U 1 1 5BDAE7C2
+P 3400 3200
+F 0 "P1" H 3425 3725 50  0000 C CNN
+F 1 "500-1137" H 3425 3634 50  0000 C CNN
+F 2 "FootPrints:IDC8x2_Vert" H 3400 3200 50  0001 C CNN
+F 3 "" H 3400 3200 50  0001 C CNN
+	1    3400 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SynthMod:POT-ALPHA9mm-LedShaft R1
+U 1 1 5BDAE8E9
+P 4550 2450
+F 0 "R1" V 4703 2392 60  0000 R CNN
+F 1 "ALPHA9mm" V 4597 2392 60  0000 R CNN
+F 2 "FootPrints:Alpha9mmPotWithLED" H 4550 2450 60  0001 C CNN
+F 3 "" H 4550 2450 60  0000 C CNN
+	1    4550 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SynthMod:POT-ALPHA9mm-LedShaft R2
+U 1 1 5BDAE9FA
+P 5800 2500
+F 0 "R2" V 5953 2442 60  0000 R CNN
+F 1 "ALPHA9mm" V 5847 2442 60  0000 R CNN
+F 2 "FootPrints:Alpha9mmPotWithLED" H 5800 2500 60  0001 C CNN
+F 3 "" H 5800 2500 60  0000 C CNN
+	1    5800 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SynthMod:POT-ALPHA9mm-LedShaft R3
+U 1 1 5BDAEA34
+P 6900 2500
+F 0 "R3" V 7053 2442 60  0000 R CNN
+F 1 "ALPHA9mm" V 6947 2442 60  0000 R CNN
+F 2 "FootPrints:Alpha9mmPotWithLED" H 6900 2500 60  0001 C CNN
+F 3 "" H 6900 2500 60  0000 C CNN
+	1    6900 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SynthMod:POT-ALPHA9mm-LedShaft R1
+U 2 1 5BDAEBA8
+P 4550 4100
+F 0 "R1" V 4547 4017 60  0000 R CNN
+F 1 "ALPHA9mm" V 4653 4017 60  0000 R CNN
+F 2 "FootPrints:Alpha9mmPotWithLED" H 4550 4100 60  0001 C CNN
+F 3 "" H 4550 4100 60  0000 C CNN
+	2    4550 4100
+	0    -1   1    0   
+$EndComp
+$Comp
+L SynthMod:POT-ALPHA9mm-LedShaft R2
+U 2 1 5BDAEBAE
+P 5800 4150
+F 0 "R2" V 5797 4067 60  0000 R CNN
+F 1 "ALPHA9mm" V 5903 4067 60  0000 R CNN
+F 2 "FootPrints:Alpha9mmPotWithLED" H 5800 4150 60  0001 C CNN
+F 3 "" H 5800 4150 60  0000 C CNN
+	2    5800 4150
+	0    -1   1    0   
+$EndComp
+$Comp
+L SynthMod:POT-ALPHA9mm-LedShaft R3
+U 2 1 5BDAEBB4
+P 6900 4150
+F 0 "R3" V 6897 4067 60  0000 R CNN
+F 1 "ALPHA9mm" V 7003 4067 60  0000 R CNN
+F 2 "FootPrints:Alpha9mmPotWithLED" H 6900 4150 60  0001 C CNN
+F 3 "" H 6900 4150 60  0000 C CNN
+	2    6900 4150
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	3800 3400 4550 3400
+Wire Wire Line
+	4550 3400 4550 4000
+Wire Wire Line
+	3800 3500 5800 3500
+Wire Wire Line
+	5800 3500 5800 4050
+Wire Wire Line
+	3800 3600 6900 3600
+Wire Wire Line
+	6900 3600 6900 4050
+Wire Wire Line
+	4550 4300 4550 4450
+Wire Wire Line
+	4550 4450 2450 4450
+Wire Wire Line
+	2450 4450 2450 3400
+Wire Wire Line
+	2450 3400 3050 3400
+Wire Wire Line
+	5800 4350 5800 4500
+Wire Wire Line
+	5800 4500 2350 4500
+Wire Wire Line
+	2350 4500 2350 3500
+Wire Wire Line
+	2350 3500 3050 3500
+Wire Wire Line
+	6900 4350 6900 4550
+Wire Wire Line
+	6900 4550 2250 4550
+Wire Wire Line
+	2250 4550 2250 3600
+Wire Wire Line
+	2250 3600 3050 3600
+Wire Wire Line
+	3050 2900 2950 2900
+Wire Wire Line
+	2950 2900 2950 1900
+Wire Wire Line
+	2950 1900 4550 1900
+Wire Wire Line
+	4550 1900 4550 2150
+Wire Wire Line
+	4300 2350 4100 2350
+Wire Wire Line
+	4100 2350 4100 2900
+Wire Wire Line
+	4100 2900 3750 2900
+Wire Wire Line
+	3750 3000 5100 3000
+Wire Wire Line
+	5100 3000 5100 1900
+Wire Wire Line
+	5100 1900 5800 1900
+Wire Wire Line
+	5800 1900 5800 2200
+Wire Wire Line
+	3050 3000 2850 3000
+Wire Wire Line
+	2850 3000 2850 2600
+Wire Wire Line
+	2850 2600 4550 2600
+Wire Wire Line
+	4550 2600 4550 2550
+Wire Wire Line
+	3750 3100 5800 3100
+Wire Wire Line
+	5800 3100 5800 2600
+Wire Wire Line
+	3050 3100 2750 3100
+Wire Wire Line
+	2750 3100 2750 1800
+Wire Wire Line
+	2750 1800 5350 1800
+Wire Wire Line
+	5350 1800 5350 2400
+Wire Wire Line
+	5350 2400 5550 2400
+Wire Wire Line
+	3800 3200 6500 3200
+Wire Wire Line
+	6500 3200 6500 2400
+Wire Wire Line
+	6500 2400 6650 2400
+Wire Wire Line
+	3050 3200 2650 3200
+Wire Wire Line
+	2650 3200 2650 1650
+Wire Wire Line
+	2650 1650 6900 1650
+Wire Wire Line
+	6900 1650 6900 2200
+Wire Wire Line
+	3050 3300 2500 3300
+Wire Wire Line
+	2500 3300 2500 1500
+Wire Wire Line
+	2500 1500 7200 1500
+Wire Wire Line
+	7200 1500 7200 2800
+Wire Wire Line
+	7200 2800 6900 2800
+Wire Wire Line
+	6900 2800 6900 2600
+$EndSCHEMATC

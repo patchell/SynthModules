@@ -1,0 +1,430 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:500-1115-cache
+EELAYER 25 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 4
+Title "Dule One Hot Line To Binary Encoder"
+Date "2017-01-22"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 4400 3650 900  950 
+U 58859326
+F0 "Logic_1" 60
+F1 "Logic4_2.sch" 60
+F2 "A" I L 4400 3750 60 
+F3 "B" I L 4400 3900 60 
+F4 "C" I L 4400 4050 60 
+F5 "D" I L 4400 4200 60 
+F6 "O1" O R 5300 3850 60 
+F7 "O2" O R 5300 4050 60 
+F8 "E" O R 5300 4250 60 
+$EndSheet
+$Comp
+L 500-1116-Tripple-Banana P5
+U 1 1 5886A0E5
+P 6950 4050
+F 0 "P5" H 6950 3600 60  0000 C CNN
+F 1 "500-1116-Tripple-Banana" H 7450 3700 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 6950 3800 60  0001 C CNN
+F 3 "" H 6950 3800 60  0001 C CNN
+	1    6950 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 500-1072-1073-Quad-Jack_Board P1
+U 1 1 5886AC3F
+P 3050 4050
+F 0 "P1" H 3050 3600 60  0000 C CNN
+F 1 "500-1072-1073-Quad-Jack_Board" H 2900 3700 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 3050 4050 60  0001 C CNN
+F 3 "" H 3050 4050 60  0000 C CNN
+	1    3050 4050
+	-1   0    0    -1  
+$EndComp
+$Sheet
+S 4400 4950 1050 1000
+U 5886B504
+F0 "LedDrv4_1" 60
+F1 "quadLEDdrvr.sch" 60
+F2 "IN1" I L 4400 5100 60 
+F3 "IN2" I L 4400 5250 60 
+F4 "IN3" I L 4400 5400 60 
+F5 "IN4" I L 4400 5550 60 
+F6 "OUT1" O R 5450 5100 60 
+F7 "OUT2" O R 5450 5250 60 
+F8 "OUT3" O R 5450 5400 60 
+F9 "OUT4" O R 5450 5550 60 
+$EndSheet
+$Comp
+L 500-1072-1073-LED P3
+U 1 1 5886F872
+P 6350 5300
+F 0 "P3" H 6350 4950 60  0000 C CNN
+F 1 "500-1072-1073-LED" H 6400 5650 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 6350 5300 60  0001 C CNN
+F 3 "" H 6350 5300 60  0000 C CNN
+	1    6350 5300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L +15V0 #PWR01
+U 1 1 5886F88A
+P 6700 4900
+F 0 "#PWR01" H 6700 4750 50  0001 C CNN
+F 1 "+15V0" H 6700 5050 50  0000 C CNN
+F 2 "" H 6700 4900 50  0000 C CNN
+F 3 "" H 6700 4900 50  0000 C CNN
+	1    6700 4900
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 5800 2900 900  400 
+U 5887004A
+F0 "Driver3_1" 60
+F1 "LedDriver3.sch" 60
+F2 "I0" I L 5800 3000 60 
+F3 "I1" I L 5800 3100 60 
+F4 "I2" I L 5800 3200 60 
+F5 "O0" O R 6700 3000 60 
+F6 "O1" O R 6700 3100 60 
+F7 "O2" O R 6700 3200 60 
+$EndSheet
+$Comp
+L +15V0 #PWR02
+U 1 1 58876C61
+P 7450 3650
+F 0 "#PWR02" H 7450 3500 50  0001 C CNN
+F 1 "+15V0" H 7450 3800 50  0000 C CNN
+F 2 "" H 7450 3650 50  0000 C CNN
+F 3 "" H 7450 3650 50  0000 C CNN
+	1    7450 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 3850 5300 3850
+Wire Wire Line
+	5300 4050 6600 4050
+Wire Wire Line
+	6600 4250 5300 4250
+Wire Wire Line
+	4400 3750 3250 3750
+Wire Wire Line
+	3250 3850 4000 3850
+Wire Wire Line
+	4000 3850 4000 5250
+Wire Wire Line
+	4000 3900 4400 3900
+Wire Wire Line
+	3250 3950 3900 3950
+Wire Wire Line
+	3900 3950 3900 5400
+Wire Wire Line
+	3900 4050 4400 4050
+Wire Wire Line
+	3250 4050 3800 4050
+Wire Wire Line
+	3800 4050 3800 5550
+Wire Wire Line
+	3800 4200 4400 4200
+Wire Wire Line
+	4100 3750 4100 5100
+Wire Wire Line
+	4100 5100 4400 5100
+Connection ~ 4100 3750
+Wire Wire Line
+	4000 5250 4400 5250
+Connection ~ 4000 3900
+Wire Wire Line
+	3900 5400 4400 5400
+Connection ~ 3900 4050
+Wire Wire Line
+	3800 5550 4400 5550
+Connection ~ 3800 4200
+Wire Wire Line
+	5450 5100 5850 5100
+Wire Wire Line
+	5450 5250 5600 5250
+Wire Wire Line
+	5600 5250 5600 5200
+Wire Wire Line
+	5600 5200 5850 5200
+Wire Wire Line
+	5850 5300 5700 5300
+Wire Wire Line
+	5700 5300 5700 5400
+Wire Wire Line
+	5700 5400 5450 5400
+Wire Wire Line
+	5850 5400 5750 5400
+Wire Wire Line
+	5750 5400 5750 5550
+Wire Wire Line
+	5750 5550 5450 5550
+Wire Wire Line
+	6550 5300 6700 5300
+Wire Wire Line
+	6700 4900 6700 5500
+Wire Wire Line
+	6550 5100 6700 5100
+Connection ~ 6700 5100
+Wire Wire Line
+	6550 5200 6700 5200
+Connection ~ 6700 5200
+Wire Wire Line
+	6700 5400 6550 5400
+Connection ~ 6700 5300
+Wire Wire Line
+	5800 3000 5400 3000
+Wire Wire Line
+	5400 3000 5400 3850
+Connection ~ 5400 3850
+Wire Wire Line
+	5800 3100 5500 3100
+Wire Wire Line
+	5500 3100 5500 4050
+Connection ~ 5500 4050
+Wire Wire Line
+	5800 3200 5600 3200
+Wire Wire Line
+	5600 3200 5600 4250
+Connection ~ 5600 4250
+Wire Wire Line
+	6700 3000 7150 3000
+Wire Wire Line
+	7150 3000 7150 3700
+Wire Wire Line
+	7150 3700 6550 3700
+Wire Wire Line
+	6550 3700 6550 3950
+Wire Wire Line
+	6550 3950 6600 3950
+Wire Wire Line
+	6700 3100 7050 3100
+Wire Wire Line
+	7050 3100 7050 3600
+Wire Wire Line
+	7050 3600 6450 3600
+Wire Wire Line
+	6450 3600 6450 4050
+Connection ~ 6450 4050
+Wire Wire Line
+	6700 3200 7800 3200
+Wire Wire Line
+	7800 3200 7800 4150
+Wire Wire Line
+	7800 4150 7300 4150
+Wire Wire Line
+	7450 4250 7300 4250
+Wire Wire Line
+	7450 3650 7450 4250
+Wire Wire Line
+	7450 3850 7300 3850
+Wire Wire Line
+	7300 3950 7450 3950
+Connection ~ 7450 3950
+Connection ~ 7450 3850
+$Comp
+L CONN-5U-POWER P7
+U 1 1 58878A98
+P 7200 1200
+F 0 "P7" H 7200 850 60  0000 C CNN
+F 1 "CONN-5U-POWER" H 7250 950 60  0000 C CNN
+F 2 "FootPrints:CONN-5U-POWER-VERT" H 7200 1200 60  0001 C CNN
+F 3 "" H 7200 1200 60  0000 C CNN
+	1    7200 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L EurorackPower16pin P8
+U 1 1 58878D16
+P 8550 1350
+F 0 "P8" H 8565 710 60  0000 C CNN
+F 1 "EurorackPower16pin" H 8625 815 60  0000 C CNN
+F 2 "FootPrints:IDC8x2_Vert" H 8550 1350 60  0001 C CNN
+F 3 "" H 8550 1350 60  0000 C CNN
+	1    8550 1350
+	1    0    0    -1  
+$EndComp
+Text Notes 7900 800  0    60   ~ 0
+NOTE:This circuit can run off of either +15 or +12.\nJust don't ever connect up both the 5U and \nEuroRack power supplies at the same time.
+$Comp
+L +15V0 #PWR03
+U 1 1 58879AE8
+P 7850 1050
+F 0 "#PWR03" H 7850 900 50  0001 C CNN
+F 1 "+15V0" H 7850 1200 50  0000 C CNN
+F 2 "" H 7850 1050 50  0000 C CNN
+F 3 "" H 7850 1050 50  0000 C CNN
+	1    7850 1050
+	0    1    1    0   
+$EndComp
+$Comp
+L +15V0 #PWR04
+U 1 1 58879C0E
+P 8950 1450
+F 0 "#PWR04" H 8950 1300 50  0001 C CNN
+F 1 "+15V0" H 8950 1600 50  0000 C CNN
+F 2 "" H 8950 1450 50  0000 C CNN
+F 3 "" H 8950 1450 50  0000 C CNN
+	1    8950 1450
+	0    1    1    0   
+$EndComp
+$Comp
+L +15V0 #PWR05
+U 1 1 58879D2D
+P 8250 1450
+F 0 "#PWR05" H 8250 1300 50  0001 C CNN
+F 1 "+15V0" H 8250 1600 50  0000 C CNN
+F 2 "" H 8250 1450 50  0000 C CNN
+F 3 "" H 8250 1450 50  0000 C CNN
+	1    8250 1450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 1050 7850 1050
+Wire Wire Line
+	8450 1450 8250 1450
+Wire Wire Line
+	8950 1450 8850 1450
+Wire Wire Line
+	7500 1150 8450 1150
+Wire Wire Line
+	7500 1250 8450 1250
+Wire Wire Line
+	8850 1150 9550 1150
+Wire Wire Line
+	9550 1150 9550 1500
+Wire Wire Line
+	8850 1250 9000 1250
+Wire Wire Line
+	9000 1150 9000 1350
+Connection ~ 9000 1150
+Wire Wire Line
+	7700 1150 7700 1250
+Connection ~ 7700 1250
+Connection ~ 7700 1150
+Wire Wire Line
+	7850 1250 7850 1550
+Connection ~ 7850 1250
+$Comp
+L GND #PWR06
+U 1 1 5887AC5E
+P 7850 1550
+F 0 "#PWR06" H 7850 1300 50  0001 C CNN
+F 1 "GND" H 7850 1400 50  0000 C CNN
+F 2 "" H 7850 1550 50  0000 C CNN
+F 3 "" H 7850 1550 50  0000 C CNN
+	1    7850 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR07
+U 1 1 5887AE90
+P 9550 1500
+F 0 "#PWR07" H 9550 1250 50  0001 C CNN
+F 1 "GND" H 9550 1350 50  0000 C CNN
+F 2 "" H 9550 1500 50  0000 C CNN
+F 3 "" H 9550 1500 50  0000 C CNN
+	1    9550 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8450 1350 8400 1350
+Wire Wire Line
+	8400 1350 8400 1250
+Connection ~ 8400 1250
+Wire Wire Line
+	9000 1350 8850 1350
+Connection ~ 9000 1250
+$Comp
+L PAD PAD1
+U 1 1 588AAD76
+P 1050 750
+F 0 "PAD1" H 1050 550 60  0000 C CNN
+F 1 "PAD" H 1075 475 60  0000 C CNN
+F 2 "FootPrints:MountingHole_140" H 1050 450 60  0001 C CNN
+F 3 "" H 1050 450 60  0000 C CNN
+	1    1050 750 
+	0    1    1    0   
+$EndComp
+$Comp
+L PAD PAD2
+U 1 1 588AAEC2
+P 1050 950
+F 0 "PAD2" H 1050 750 60  0000 C CNN
+F 1 "PAD" H 1075 675 60  0000 C CNN
+F 2 "FootPrints:MountingHole_140" H 1050 650 60  0001 C CNN
+F 3 "" H 1050 650 60  0000 C CNN
+	1    1050 950 
+	0    1    1    0   
+$EndComp
+$Comp
+L PAD PAD3
+U 1 1 588AAFAB
+P 1050 1150
+F 0 "PAD3" H 1050 950 60  0000 C CNN
+F 1 "PAD" H 1075 875 60  0000 C CNN
+F 2 "FootPrints:MountingHole_140" H 1050 850 60  0001 C CNN
+F 3 "" H 1050 850 60  0000 C CNN
+	1    1050 1150
+	0    1    1    0   
+$EndComp
+$Comp
+L PAD PAD4
+U 1 1 588AB05D
+P 1050 1350
+F 0 "PAD4" H 1050 1150 60  0000 C CNN
+F 1 "PAD" H 1075 1075 60  0000 C CNN
+F 2 "FootPrints:MountingHole_140" H 1050 1050 60  0001 C CNN
+F 3 "" H 1050 1050 60  0000 C CNN
+	1    1050 1350
+	0    1    1    0   
+$EndComp
+NoConn ~ 1050 750 
+NoConn ~ 1050 950 
+NoConn ~ 1050 1150
+NoConn ~ 1050 1350
+Wire Wire Line
+	6700 5500 6550 5500
+Connection ~ 6700 5400
+Text Notes 6450 7200 0    60   ~ 0
+Boards to make a complete module\n1 --- 500-1115 ...... 4 Line to 2 line encoder\n1----500-1073 ........Quad Banana Jack Board/Led\n1----500-1116.........Tripple Banana Jack Board
+$EndSCHEMATC

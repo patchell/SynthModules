@@ -1,0 +1,295 @@
+EESchema Schematic File Version 2
+LIBS:SynthMod
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:500-1120-cache
+EELAYER 25 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "Quad SPDT Switch Interface Board"
+Date "2017-02-10"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L SW-SPDT SW3
+U 1 1 589E6900
+P 6150 3800
+F 0 "SW3" H 5950 3550 60  0000 C CNN
+F 1 "SW-SPDT" H 5900 3650 60  0000 C CNN
+F 2 "FootPrints:E-Switch-M6-SPDT" H 5875 3150 60  0001 C CNN
+F 3 "" H 5875 3150 60  0001 C CNN
+	1    6150 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SW-SPDT SW4
+U 1 1 589E6930
+P 6150 4150
+F 0 "SW4" H 5950 3900 60  0000 C CNN
+F 1 "SW-SPDT" H 5900 4000 60  0000 C CNN
+F 2 "FootPrints:E-Switch-M6-SPDT" H 5875 3500 60  0001 C CNN
+F 3 "" H 5875 3500 60  0001 C CNN
+	1    6150 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L SW-SPDT SW1
+U 1 1 589E694E
+P 6200 3100
+F 0 "SW1" H 6000 2850 60  0000 C CNN
+F 1 "SW-SPDT" H 5950 2950 60  0000 C CNN
+F 2 "FootPrints:E-Switch-M6-SPDT" H 5925 2450 60  0001 C CNN
+F 3 "" H 5925 2450 60  0001 C CNN
+	1    6200 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SW-SPDT SW2
+U 1 1 589E6971
+P 6200 3450
+F 0 "SW2" H 6000 3200 60  0000 C CNN
+F 1 "SW-SPDT" H 5950 3300 60  0000 C CNN
+F 2 "FootPrints:E-Switch-M6-SPDT" H 5925 2800 60  0001 C CNN
+F 3 "" H 5925 2800 60  0001 C CNN
+	1    6200 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 500-1120-Quad_Sw P1
+U 1 1 589E7749
+P 4450 3950
+F 0 "P1" H 4500 3650 60  0000 C CNN
+F 1 "500-1120-Quad_Sw" H 4550 3750 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 4450 3950 60  0001 C CNN
+F 3 "" H 4450 3950 60  0001 C CNN
+	1    4450 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 3050 5200 3050
+Wire Wire Line
+	5200 3050 5200 3700
+Wire Wire Line
+	5200 3700 4800 3700
+Wire Wire Line
+	5700 3400 5250 3400
+Wire Wire Line
+	5250 3400 5250 3800
+Wire Wire Line
+	5250 3800 4800 3800
+Wire Wire Line
+	5650 3750 5300 3750
+Wire Wire Line
+	5300 3750 5300 3900
+Wire Wire Line
+	5300 3900 4800 3900
+Wire Wire Line
+	5650 4100 5300 4100
+Wire Wire Line
+	5300 4100 5300 4000
+Wire Wire Line
+	5300 4000 4800 4000
+Wire Wire Line
+	4100 3700 3850 3700
+Wire Wire Line
+	3850 3700 3850 3150
+Wire Wire Line
+	3850 3150 5700 3150
+Wire Wire Line
+	5700 3500 3750 3500
+Wire Wire Line
+	3750 3500 3750 3800
+Wire Wire Line
+	3750 3800 4100 3800
+Wire Wire Line
+	5650 3850 5350 3850
+Wire Wire Line
+	5350 3850 5350 4350
+Wire Wire Line
+	5350 4350 3750 4350
+Wire Wire Line
+	3750 4350 3750 3900
+Wire Wire Line
+	3750 3900 4100 3900
+Wire Wire Line
+	5650 4200 3950 4200
+Wire Wire Line
+	3950 4200 3950 4000
+Wire Wire Line
+	3950 4000 4100 4000
+Wire Wire Line
+	4100 3600 4050 3600
+Wire Wire Line
+	4050 3600 4050 3350
+Wire Wire Line
+	4050 3350 4950 3350
+Wire Wire Line
+	4950 2600 4950 3600
+Wire Wire Line
+	4950 3600 4800 3600
+Wire Wire Line
+	4950 2600 6550 2600
+Wire Wire Line
+	6550 2600 6550 4150
+Wire Wire Line
+	6550 3100 6200 3100
+Connection ~ 4950 3350
+Wire Wire Line
+	6550 3450 6200 3450
+Connection ~ 6550 3100
+Wire Wire Line
+	6550 3800 6150 3800
+Connection ~ 6550 3450
+Wire Wire Line
+	6550 4150 6150 4150
+Connection ~ 6550 3800
+$Comp
+L LED_ALT D1
+U 1 1 589E8E2F
+P 5800 4850
+F 0 "D1" H 5800 4950 50  0000 C CNN
+F 1 "LED_ALT" H 5800 4750 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 5800 4850 50  0001 C CNN
+F 3 "" H 5800 4850 50  0000 C CNN
+	1    5800 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED_ALT D2
+U 1 1 589E8E8B
+P 5800 5200
+F 0 "D2" H 5800 5300 50  0000 C CNN
+F 1 "LED_ALT" H 5800 5100 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 5800 5200 50  0001 C CNN
+F 3 "" H 5800 5200 50  0000 C CNN
+	1    5800 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED_ALT D3
+U 1 1 589E8EBE
+P 5800 5550
+F 0 "D3" H 5800 5650 50  0000 C CNN
+F 1 "LED_ALT" H 5800 5450 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 5800 5550 50  0001 C CNN
+F 3 "" H 5800 5550 50  0000 C CNN
+	1    5800 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED_ALT D4
+U 1 1 589E8EF4
+P 5800 5900
+F 0 "D4" H 5800 6000 50  0000 C CNN
+F 1 "LED_ALT" H 5800 5800 50  0000 C CNN
+F 2 "LEDs:LED_D5.0mm" H 5800 5900 50  0001 C CNN
+F 3 "" H 5800 5900 50  0000 C CNN
+	1    5800 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L 500-1120-LED P2
+U 1 1 589E92F4
+P 4650 5050
+F 0 "P2" H 4650 4750 60  0000 C CNN
+F 1 "500-1120-LED" H 4700 4650 60  0000 C CNN
+F 2 "FootPrints:IDC5x2_Vert" H 4500 5050 60  0001 C CNN
+F 3 "" H 4500 5050 60  0000 C CNN
+	1    4650 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 4850 5000 4850
+Wire Wire Line
+	5650 5200 5450 5200
+Wire Wire Line
+	5450 5200 5450 4950
+Wire Wire Line
+	5450 4950 5000 4950
+Wire Wire Line
+	5000 5050 5350 5050
+Wire Wire Line
+	5350 5050 5350 5550
+Wire Wire Line
+	5350 5550 5650 5550
+Wire Wire Line
+	5000 5150 5250 5150
+Wire Wire Line
+	5250 5150 5250 5900
+Wire Wire Line
+	5250 5900 5650 5900
+Wire Wire Line
+	4300 4850 4150 4850
+Wire Wire Line
+	4150 4850 4150 4700
+Wire Wire Line
+	4150 4700 6100 4700
+Wire Wire Line
+	6100 4700 6100 4850
+Wire Wire Line
+	6100 4850 5950 4850
+Wire Wire Line
+	5950 5200 6200 5200
+Wire Wire Line
+	6200 5200 6200 4650
+Wire Wire Line
+	6200 4650 4050 4650
+Wire Wire Line
+	4050 4650 4050 4950
+Wire Wire Line
+	4050 4950 4300 4950
+Wire Wire Line
+	4300 5050 3950 5050
+Wire Wire Line
+	3950 5050 3950 4600
+Wire Wire Line
+	3950 4600 6300 4600
+Wire Wire Line
+	6300 4600 6300 5550
+Wire Wire Line
+	6300 5550 5950 5550
+Wire Wire Line
+	5950 5900 6400 5900
+Wire Wire Line
+	6400 5900 6400 4550
+Wire Wire Line
+	6400 4550 3850 4550
+Wire Wire Line
+	3850 4550 3850 5150
+Wire Wire Line
+	3850 5150 4300 5150
+$EndSCHEMATC

@@ -1,0 +1,73 @@
+XL
+H 2 areas 6 global symbols
+M spi.c
+S push_gset2 Ref0000
+S pop_gset2 Ref0000
+S lpm16 Ref0000
+A text size 66 flags 0
+dbfile C:\projects\SynthMod\100-1001\firmware\spi.c
+dbfunc e InitSPI 0 fV
+dbline FFFFFFFF 0
+dbline 13 0
+dbline 14 0
+dbline 15 6
+dbline 16 A
+dbline FFFFFFFE 10
+dbline 17 10
+dbline 0 10
+dbfunc e PortFull 12 fI
+dbsym r a 12 c
+dbsym r retval 10 I
+dbline FFFFFFFF 12
+dbline 1F 12
+dbline 21 12
+dbline 22 16
+dbline 23 18
+dbline 23 1A
+dbline 24 1C
+dbline FFFFFFFE 1C
+dbline 0 1C
+dbfunc e SendData 1E fV
+dbsym l convert 0 X
+dbsym r port 14 I
+dbsym r d 16 I
+dbline FFFFFFFF 2A
+dbline 37 2A
+dbline 3C 2A
+dbline 3D 2E
+dbline 3E 32
+dbline 3E 32
+dbline 3F 3A
+dbline 40 3E
+dbline 40 3E
+dbline 41 46
+dbline FFFFFFFE 60
+dbline 42 60
+dbline 0 64
+S _SendData Def001E
+S _PortFull Def0012
+S _InitSPI Def0000
+A lit size 10 flags 0
+dbsym s DacLUT 0 A[16:8]kI
+T 00 00 87 B3 80 6B 87 BB 84 E5 8D B9 85 B7 80 68
+R 00 00 00 00
+T 0E 00 85 BF 08 95
+R 00 00 00 00
+T 12 00 00 27 11 27 2E B1 27 FD 01 E0 08 95
+R 00 00 00 00
+T 00 00 00 A0 00 A4 00 A8 00 AC 00 B0 00 B4 00 B8
+R 00 00 01 00
+T 0E 00 00 BC
+R 00 00 01 00
+T 1E 00 00 D0 42 2F 53 2F 60 2F 71 2F 22 97 79 83
+R 00 00 00 00 82 02 00 00
+T 2C 00 68 83 29 80 2F B8 EF DF 00 30 01 07 E1 F3
+R 00 00 00 00
+T 3A 00 28 80 2F B8 E9 DF 00 30 01 07 E1 F3 80 E0
+R 00 00 00 00 20 0E 01 00 00 00
+T 48 00 90 E0 04 2F 15 2F 00 0F 11 1F 08 0F 19 1F
+R 00 00 00 00 40 02 01 00 00 00
+T 56 00 00 D0 E0 2F F1 2F 22 24 20 82 22 96 00 D0
+R 00 00 00 00 82 02 02 00 82 0E 01 00
+T 64 00 08 95
+R 00 00 00 00

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Documents and Settings\Jim Patchell\My Documents\projects\SynthMod\100-1069\1069.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

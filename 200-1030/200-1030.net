@@ -1,0 +1,169 @@
+                                              Revised: Saturday, August 16, 2003
+C:\DOCUMENTS AND SETTINGS\JIM PATCHELL\MY DOCURevision: 
+
+
+
+
+
+
+[
+JP1
+HEADER 10X2
+HEADER 10X2
+
+
+
+]
+[
+JP2
+HEADER 10X2
+HEADER 10X2
+
+
+
+]
+[
+P1
+HEADER 4
+HEADER 4
+
+
+
+]
+[
+P2
+HEADER 4
+HEADER 4
+
+
+
+]
+[
+P3
+HEADER 4
+HEADER 4
+
+
+
+]
+[
+P4
+HEADER 4
+HEADER 4
+
+
+
+]
+[
+P5
+HEADER 4
+HEADER 4
+
+
+
+]
+[
+P6
+HEADER 4
+HEADER 4
+
+
+
+]
+[
+P7
+HEADER 4
+HEADER 4
+
+
+
+]
+[
+P8
+HEADER 4
+HEADER 4
+
+
+
+]
+(
+N01407
+JP1,1
+JP1,3
+JP1,5
+JP1,2
+JP1,6
+JP1,4
+JP2,3
+JP2,5
+JP2,1
+JP2,6
+JP2,4
+JP2,2
+P1,1
+P2,1
+P3,1
+P4,1
+P5,1
+P6,1
+P7,1
+P8,1
+)
+(
+N01244
+JP1,15
+JP1,17
+JP1,19
+JP1,16
+JP1,18
+JP1,20
+JP2,15
+JP2,17
+JP2,19
+JP2,16
+JP2,18
+JP2,20
+P1,4
+P2,4
+P3,4
+P4,4
+P5,4
+P6,4
+P7,4
+P8,4
+)
+(
+N00799
+JP1,8
+JP1,10
+JP1,12
+JP1,14
+JP1,7
+JP1,9
+JP1,11
+JP1,13
+JP2,7
+JP2,9
+JP2,11
+JP2,13
+JP2,8
+JP2,10
+JP2,12
+JP2,14
+P1,2
+P1,3
+P2,2
+P2,3
+P3,2
+P3,3
+P4,2
+P4,3
+P5,2
+P5,3
+P6,2
+P6,3
+P7,2
+P7,3
+P8,2
+P8,3
+)

@@ -1,0 +1,16 @@
+Missing Designators From Netlist Load      : 13
+---------------------------------------------
+R15                 Q1                  JP2                 C6                  
+C9                  J6                  U24                 R14                 
+R17                 R74                 JP5                 C2                  
+R77                 
+
+
+
+Missing Library Patterns or Component Types From Netlist Load : 8
+----------------------------------------------------------------
+CAP                 0.0022uF            PHONEJACK           HEADER 4            
+JPOSC               POT                 R                   LM336               
+
+
+

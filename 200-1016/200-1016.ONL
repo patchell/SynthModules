@@ -1,0 +1,448 @@
+(PCB "200-1016"
+ (description
+  (timeStamp "2003 09 18 17 28 15")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "4IN-1OUT MIXER")
+  (date "Tuesday, June 24, 2003")
+  (document "200-1016")
+  (revision "NC")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component POT
+   (place R1
+    (property 
+     ("PCB Footprint" "POT-M248")
+     (timestamp 00000085)
+     ("Source Package" POT)
+     (Value 100K)))
+   (place R8
+    (property 
+     ("PCB Footprint" "POT-M248")
+     (timestamp 0000009F)
+     ("Source Package" POT)
+     (Value 100K)))
+   (place R9
+    (property 
+     ("PCB Footprint" "POT-M248")
+     (timestamp 000000B9)
+     ("Source Package" POT)
+     (Value 100K)))
+   (place R10
+    (property 
+     ("PCB Footprint" "POT-M248")
+     (timestamp 000000D3)
+     ("Source Package" POT)
+     (Value 100K))))
+  (component PHONEJACK
+   (place J1
+    (property 
+     (timestamp 00000003)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK)))
+   (place J2
+    (property 
+     (timestamp 0000006B)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK)))
+   (place J3
+    (property 
+     (timestamp 0000001D)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK)))
+   (place J4
+    (property 
+     (timestamp 00000037)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK)))
+   (place J5
+    (property 
+     (timestamp 00000051)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK)))
+   (place J6
+    (property 
+     (timestamp 000017D3)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK)))
+   (place J7
+    (property 
+     (timestamp 000017EF)
+     ("Source Package" PHONEJACK)
+     (Value PHONEJACK))))
+  (component "GENERIC OPAMP"
+   (place U1
+    (property 
+     ("PCB Footprint" DIP8)
+     ("PART NO" "511-TL071N")
+     (timestamp 00000361)
+     ("Source Package" "GENERIC OPAMP")
+     (Value TL071)))
+   (place U2
+    (property 
+     ("PCB Footprint" DIP8)
+     ("PART NO" "511-TL071N")
+     (timestamp 00000A1D)
+     ("Source Package" "GENERIC OPAMP")
+     (Value TL071)))
+   (place U3
+    (property 
+     ("PCB Footprint" DIP8)
+     ("PART NO" "511-TL071N")
+     (timestamp 000008BF)
+     ("Source Package" "GENERIC OPAMP")
+     (Value TL071)))
+   (place U4
+    (property 
+     ("PCB Footprint" DIP8)
+     ("PART NO" "511-TL071N")
+     (timestamp 0000093A)
+     ("Source Package" "GENERIC OPAMP")
+     (Value TL071)))
+   (place U5
+    (property 
+     ("PCB Footprint" DIP8)
+     ("PART NO" "511-TL071N")
+     (timestamp 000009B2)
+     ("Source Package" "GENERIC OPAMP")
+     (Value TL071))))
+  (component "HEADER 4"
+   (place JP1
+    (property 
+     (timestamp 00001112)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4")))
+   (place JP2
+    (property 
+     (timestamp 000019D8)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4"))))
+  (component CAP
+   (place C1
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 000011DA)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C2
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 00001390)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C3
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 000013F3)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C4
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 00001457)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C5
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 000014BC)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C6
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 00001522)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C7
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 000011F0)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C8
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 00001360)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C9
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 000013C3)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C10
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 00001427)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C11
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 0000148C)
+     ("Source Package" CAP)
+     (Value .1uF)))
+   (place C12
+    (property 
+     ("PCB Footprint" AXIALCAP0.3)
+     ("PART NO" "80-C410C104M5U")
+     (timestamp 000014F2)
+     ("Source Package" CAP)
+     (Value .1uF))))
+  (component R
+   (place R2
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     ("PART NO" "271-10K")
+     (timestamp 00000B3B)
+     ("Source Package" R)
+     (Value 10K)))
+   (place R3
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     ("PART NO" "271-10K")
+     (timestamp 00000B51)
+     ("Source Package" R)
+     (Value 10K)))
+   (place R4
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     ("PART NO" "271-1K")
+     (timestamp 00000B67)
+     ("Source Package" R)
+     (Value 1K)))
+   (place R5
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     ("PART NO" "271-10K")
+     (timestamp 00000B25)
+     ("Source Package" R)
+     (Value 10K)))
+   (place R6
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     ("PART NO" "271-10K")
+     (timestamp 00000B0F)
+     ("Source Package" R)
+     (Value 10K)))
+   (place R7
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     ("PART NO" "271-10K")
+     (timestamp 00000AF9)
+     ("Source Package" R)
+     (Value 10K)))
+   (place R11
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     ("PART NO" "271-1K")
+     (timestamp 00001887)
+     ("Source Package" R)
+     (Value 1K)))
+   (place R12
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     ("PART NO" "271-1K")
+     (timestamp 0000189F)
+     ("Source Package" R)
+     (Value 1K)))))
+ (library
+  (image "GENERIC OPAMP"
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\SYNTH-DIY.OLB"))
+   (pin 999 3
+    (property 
+     (pinname +IN)
+     (pintype 0)))
+   (pin 999 2
+    (property 
+     (pinname "-IN")
+     (pintype 0)))
+   (pin 999 6
+    (property 
+     (pinname OUT)
+     (pintype 2)))
+   (pin 999 7
+    (property 
+     (pinname V+)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname COMP1)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname "V-")
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname COMP2)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname COMP3)
+     (pintype 4))))
+  (image POT
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\DEVICE.OLB"))
+   (pin 999 A
+    (property 
+     (pinname A)
+     (pintype 4)))
+   (pin 999 B
+    (property 
+     (pinname B)
+     (pintype 4)))
+   (pin 999 WIPER
+    (property 
+     (pinname WIPER)
+     (pintype 4))))
+  (image R
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image CAP
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "HEADER 4"
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4))))
+  (image PHONEJACK
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))))
+ (network
+  (net N06309
+   (pins
+     J7-1 R12-2))
+  (net N06338
+   (pins
+     J6-1 R11-2))
+  (net N00814
+   (pins
+     J1-1 R1-A))
+  (net N01009
+   (pins
+     U1-3 R1-WIPER))
+  (net N00556
+   (pins
+     J4-1 R9-A))
+  (net N00723
+   (pins
+     J3-1 R8-A))
+  (net N00478
+   (pins
+     J5-1 R10-A))
+  (net N02171
+   (pins
+     U3-3 R8-WIPER))
+  (net N02294
+   (pins
+     U4-3 R9-WIPER))
+  (net N02414
+   (pins
+     U5-3 R10-WIPER))
+  (net +15
+    (property 
+     (nettype S))
+   (pins
+     U1-7 U3-7 U4-7 U5-7 U2-7 JP1-1 C1-1 C2-1 C3-1
+     C4-1 C5-1 C6-1 JP2-1))
+  (net "-15"
+    (property 
+     (nettype S))
+   (pins
+     U1-4 U3-4 U4-4 U5-4 U2-4 JP1-4 C7-1 C8-1 C9-1
+     C10-1 C11-1 C12-1 JP2-4))
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     R10-B J5-2 J5-3 J4-2 J4-3 R9-B J3-2 J3-3 R8-B
+     J1-2 J1-3 R1-B U2-3 J2-3 JP1-3 JP1-2 C1-2 C7-2
+     C2-2 C8-2 C3-2 C9-2 C4-2 C10-2 C5-2 C11-2 C6-2
+     C12-2 J7-3 J6-3 JP2-2 JP2-3))
+  (net N02426
+   (pins
+     U5-2 U5-6 R7-1))
+  (net N00911
+   (pins
+     U1-2 U1-6 R2-1))
+  (net N02306
+   (pins
+     U4-2 U4-6 R6-1))
+  (net N02183
+   (pins
+     U3-2 U3-6 R5-1))
+  (net N03107
+   (pins
+     R3-1 R7-2 U2-2 R2-2 R5-2 R6-2))
+  (net N03080
+   (pins
+     R3-2 U2-6 R4-1 R11-1 R12-1))
+  (net N03051
+   (pins
+     J2-1 R4-2)))
+)

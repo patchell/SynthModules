@@ -1,0 +1,26 @@
+** Drc report for D:\SynthMod\500-1110\500-1110.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 6 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (8.4000 in,4.4500 in): Pad 7 on F.Cu, B.Cu, Internal, Non-copper of P10 net /REFERENCE/G_OUT
+    @ (5.5500 in,4.9000 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of R72
+ErrType(2): Unconnected pads
+    @ (7.0500 in,3.9000 in): Pad 6 on F.Cu, B.Cu, Internal, Non-copper of U7 net /MUX2/O
+    @ (6.7500 in,3.9000 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of U7
+ErrType(2): Unconnected pads
+    @ (4.7500 in,3.1500 in): Pad 14 on F.Cu, B.Cu, Internal, Non-copper of U12 net /MUX4/O
+    @ (5.0500 in,3.1500 in): Pad 11 on F.Cu, B.Cu, Internal, Non-copper of U12
+ErrType(2): Unconnected pads
+    @ (5.7500 in,3.6000 in): Pad 14 on F.Cu, B.Cu, Internal, Non-copper of U5 net /CV1
+    @ (6.0500 in,3.6000 in): Pad 11 on F.Cu, B.Cu, Internal, Non-copper of U5
+ErrType(2): Unconnected pads
+    @ (8.0500 in,3.6000 in): Pad 11 on F.Cu, B.Cu, Internal, Non-copper of U6 net /CV1
+    @ (7.7500 in,3.6000 in): Pad 14 on F.Cu, B.Cu, Internal, Non-copper of U6
+ErrType(2): Unconnected pads
+    @ (5.7500 in,3.4500 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of U9 net /GLD1
+    @ (6.0500 in,3.4500 in): Pad 6 on F.Cu, B.Cu, Internal, Non-copper of U9
+
+** End of Report **

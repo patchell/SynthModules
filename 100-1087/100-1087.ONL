@@ -1,0 +1,338 @@
+(PCB "100-1087"
+ (description
+  (timeStamp "2015 11 16 04 52 46")
+  (program "CAPTURE.EXE" (Version "9.2.446"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Sunday, November 15, 2015")
+  (document "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\SYNTHMOD\\100-1087\\100-1087.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component PIN
+   (place P1
+    (property 
+     ("PCB Footprint" PAD)
+     (timestamp 00000A4A)
+     ("Source Package" PIN)
+     (Value PIN)))
+   (place P2
+    (property 
+     ("PCB Footprint" PAD)
+     (timestamp 00000A38)
+     ("Source Package" PIN)
+     (Value PIN))))
+  (component "SW DPDT_0"
+   (place S1
+    (property 
+     (timestamp 00000311)
+     ("Source Package" "SW DPDT_0")
+     (Value "SW DPDT"))))
+  (component "GEN DUAL OPAMP-H"
+   (place U1
+    (property 
+     ("PCB Footprint" DIP8)
+     (timestamp 00000003)
+     ("Source Package" "GEN DUAL OPAMP-H")
+     (Value TL052))))
+  (component "SW-3PDT"
+   (place S2
+    (property 
+     (timestamp 000006F7)
+     ("Source Package" "SW-3PDT")
+     (Value "SW-3PDT"))))
+  (component "HEADER 4"
+   (place JP1
+    (property 
+     ("PCB Footprint" "MTA-4X156-RA")
+     (timestamp 00001407)
+     ("Source Package" "HEADER 4")
+     (Value "HEADER 4"))))
+  (component R
+   (place R1
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000083)
+     ("Source Package" R)
+     (Value 100K)))
+   (place R2
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 0000006D)
+     ("Source Package" R)
+     (Value 10K)))
+   (place R3
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000844)
+     ("Source Package" R)
+     (Value 10K)))
+   (place R4
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000199)
+     ("Source Package" R)
+     (Value 10M)))
+   (place R5
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 000001AF)
+     ("Source Package" R)
+     (Value 10M)))
+   (place R6
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 0000085A)
+     ("Source Package" R)
+     (Value 10K)))
+   (place R7
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 00000099)
+     ("Source Package" R)
+     (Value 100K)))
+   (place R8
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 000001C5)
+     ("Source Package" R)
+     (Value 15K)))
+   (place R9
+    (property 
+     ("PCB Footprint" AXIAL0.4)
+     (timestamp 000001DB)
+     ("Source Package" R)
+     (Value 15M))))
+  (component "NPN-DUAL"
+   (place Q1
+    (property 
+     ("PCB Footprint" "TO92-DUAL")
+     (timestamp 00000E86)
+     ("Source Package" "NPN-DUAL")
+     (Value "NPN-DUAL")))))
+ (library
+  (image "GEN DUAL OPAMP-H"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 2
+    (property 
+     (pinname "-_A")
+     (pintype 0)))
+   (pin 999 3
+    (property 
+     (pinname +_A)
+     (pintype 0)))
+   (pin 999 1
+    (property 
+     (pinname OUT_A)
+     (pintype 2)))
+   (pin 999 6
+    (property 
+     (pinname "-_B")
+     (pintype 0)))
+   (pin 999 5
+    (property 
+     (pinname +_B)
+     (pintype 0)))
+   (pin 999 7
+    (property 
+     (pinname OUT_B)
+     (pintype 2)))
+   (pin 999 8
+    (property 
+     (pinname V+)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname "V-")
+     (pintype 4))))
+  (image R
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "HEADER 4"
+   (property 
+    (sourcelib "C:\\PROGRAM FILES\\ORCAD\\CAPTURE\\LIBRARY\\DEVICE.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4))))
+  (image "SW DPDT_0"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\SYNTHMOD\\100-1087\\100-1087.DSN"))
+   (pin 999 2
+    (property 
+     (pinname COMMON1)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname NC1)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname NO1)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname COMMON2)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname NC2)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname NO2)
+     (pintype 4))))
+  (image "SW-3PDT"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 2
+    (property 
+     (pinname B_A)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname A_A)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname C_A)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname B_B)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname A_B)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname C_B)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname B_C)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname A_C)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname C_C)
+     (pintype 4))))
+  (image PIN
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image "NPN-DUAL"
+   (property 
+    (sourcelib "C:\\DOCUMENTS AND SETTINGS\\JIM PATCHELL\\MY DOCUMENTS\\PROJECTS\\ORCADLIBS\\SYNTH-DIY.OLB"))
+   (pin 999 B1
+    (property 
+     (pinname "BASE_-1")
+     (pintype 0)))
+   (pin 999 E1
+    (property 
+     (pinname "EMIT_-1")
+     (pintype 4)))
+   (pin 999 C1
+    (property 
+     (pinname "COL_-1")
+     (pintype 4)))
+   (pin 999 B2
+    (property 
+     (pinname "BASE_-2")
+     (pintype 0)))
+   (pin 999 E2
+    (property 
+     (pinname "EMIT_-2")
+     (pintype 4)))
+   (pin 999 C2
+    (property 
+     (pinname "COL_-2")
+     (pintype 4)))))
+ (network
+  (net N02232
+   (pins
+     S2-2 R3-1))
+  (net N02334
+   (pins
+     S2-5 R6-1))
+  (net N00175
+   (pins
+     U1-7 P1-1 R1-2))
+  (net N00211
+   (pins
+     R2-1 R1-1 U1-6))
+  (net N00265
+   (pins
+     R2-2 R7-1 U1-2))
+  (net N00317
+   (pins
+     R7-2 U1-1 P2-1))
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     JP1-2 JP1-3 Q1-B2 Q1-B1))
+  (net N00497
+   (pins
+     Q1-E2 Q1-E1 R9-1 R8-1))
+  (net N00686
+   (pins
+     R4-2 R3-2 Q1-C1 U1-3))
+  (net N00715
+   (pins
+     R5-2 Q1-C2 R6-2 U1-5))
+  (net N00823
+   (pins
+     R5-1 S2-6 S1-2 S2-3 R4-1))
+  (net N00961
+   (pins
+     R8-2 S2-9))
+  (net N00892
+   (pins
+     S1-5 R9-2 S2-8))
+  (net +15
+    (property 
+     (nettype S))
+   (pins
+     S1-6 U1-8 S1-1 JP1-1))
+  (net "-15"
+    (property 
+     (nettype S))
+   (pins
+     S1-3 U1-4 S1-4 JP1-4)))
+)

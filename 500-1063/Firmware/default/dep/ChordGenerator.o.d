@@ -1,0 +1,1 @@
+ChordGenerator.o: ../ChordGenerator.c

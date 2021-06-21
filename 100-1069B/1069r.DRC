@@ -1,0 +1,66 @@
+Protel Design System Design Rule Check
+PCB File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\100-10~3\1069r.PCB
+NET File : c:\docume~1\jimpat~1\mydocu~1\projects\synthmod\100-10~3\100-10~1.net
+Date     : 3-Oct-2014 
+Time     : 18:25:32
+
+
+Clearances
+  Arc        : 5mil
+  Fill       : 5mil
+  Pad        : 5mil
+  Track      : 5mil
+  Text       : 5mil
+  Via        : 5mil
+  Large Comp : 50mil
+  Small Comp : 20mil
+
+
+Do Missing Component Errors : On
+Do Missing Pin Errors       : Off
+Do Extra Pin Errors         : On
+Do Extra UnNamed Pin Errors : On
+Do Extra Net Errors         : On
+Do Extra Component Errors   : Off
+Do Split Net Errors         : On
+Do Clearance Errors         : On
+Do Component Clearances     : Off
+Do Component Pattern Errors : Off
+Do Component Value Errors   : Off
+
+Component Missing From PCB : U52
+Extra Pin On Net AGND : U15-5
+Component Missing From PCB : U52
+Extra Pin On Net N00484_34835 : U15-7
+Component Missing From PCB : U52
+Extra Pin On Net N15043 : U15-6
+Extra net on board : 
+Y1-0
+Y1-0
+Y1-0
+Clearance Error 
+ Track (6850mil,3800mil  6925mil,3800mil)  Top Layer AGND
+ Pad (6850mil,3800mil)  Multi-Layer No Net
+
+Clearance Error 
+ Track (6850mil,3800mil  6925mil,3800mil)  Top Layer AGND
+ Pad (6850mil,3800mil)  Multi-Layer No Net
+
+Clearance Error 
+ Track (6715mil,3800mil  6850mil,3800mil)  Bottom Layer AGND
+ Pad (6850mil,3800mil)  Multi-Layer No Net
+
+Clearance Error 
+ Track (6700mil,3900mil  6850mil,3900mil)  Bottom Layer N15043
+ Pad (6850mil,3900mil)  Multi-Layer No Net
+
+Clearance Error 
+ Track (6850mil,4000mil  6875mil,4000mil)  Bottom Layer N00484_34835
+ Pad (6850mil,4000mil)  Multi-Layer No Net
+
+Clearance Error 
+ Track (6875mil,4000mil  6925mil,3950mil)  Bottom Layer N00484_34835
+ Pad (6850mil,4000mil)  Multi-Layer No Net
+
+
+Time Elapsed : 00:00:13
